@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{A} Die Hauptstraße
+
+Gegenwärtiges Ziel:
+{B}Schützen Sie die Karawanen auf dem Weg vom Hafen in die Stadt und zurück. 
+
+Truppen können nur vom Hauptcharakter angeworben werden. 
+Sie haben verloren, wenn der Hauptcharakter ums Leben kommt. 
+Für jede Karawane, die ihr Ziel erreicht, werden Sie bezahlt. 
+
+#PAGE0 Missions\Pictures\poland 7
+Sie haben als Offizier der österreichischen Armee die Aufgabe, den Handelsweg zu überwachen. 
+Truppen können nur vom Hauptcharakter bei einem Offizier in der Nähe der Stadt angeworben werden.
+Für den Sieg ist es erforderlich, dass im Laufe Ihrer Mission %d Karawanen ihr Ziel erreichen.
+
+#PAGE1 Missions\Pictures\England 9
+Wen möchten Sie anheuern?
+
+#PAGE2 Missions\Pictures\England 9
+Ihr Geld reicht nicht aus. 
+Sie müssen Ihre Kampffähigkeit verbessern.
+
+#PAGE3 Missions\Pictures\England 9
+Ausgezeichnet!!
+%d Karawanen haben ihre Ladungen geliefert. 
+
+#PAGE4 Missions\Pictures\England 9
+Niederlage!
+Lediglich %d Karawanen haben ihre Ladungen geliefert.
+
+#PAGE5 Missions\Pictures\England 9
+Die Hälfte Ihrer Zeit ist vorbei. 
+Während dieser Zeit haben %d Karawanen ihr Ziel erreicht. 
+Insgesamt müssen %d Karawanen ihr Ziel erreichen. 
+
+#PAGE6 Missions\Pictures\England 9
+Drei Viertel Ihrer Zeit sind vorbei. 
+In dieser Zeit haben %d Karawanen ihr Ziel erreicht. 
+Insgesamt müssen %d Karawanen ihr Ziel erreichen. 
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

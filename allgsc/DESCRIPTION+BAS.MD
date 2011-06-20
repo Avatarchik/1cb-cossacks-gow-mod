@@ -1,0 +1,1 @@
+Beste Verteidigungseinrichtung. Kann nur durch Artillerie, Grenadiere oder Bogenschützen zerstört werden. Werden eine Reihe von Aufrüstungen durchgeführt, um die Anzahl der Kanonen in einem Turm zu erhöhen, so verbessert sich die Feuerrate. Die Aufrüstungen sollten für jeden Turm einzeln durchgeführt werden. Verbraucht viel Kohle und Eisen zum Feuern.

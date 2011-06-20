@@ -1,0 +1,56 @@
+#BRIEFING faces 0
+{A}   Befreiung des Generals
+    
+Für den Sieg müssen alle Gegner in der Region vernichtet werden. 
+Sie haben verloren, wenn alle Ihre Kräfte zerschlagen worden sind oder Ihr General ums Leben kommt. 
+   
+Gegenwärtiges Ziel: 
+{B}Befreien Sie den General. 
+{C}~Befreien Sie den General.~
+{D} Bringen Sie den General in die Stadt.
+{E}~Bringen Sie den General in die Stadt.~
+{F}Stellen Sie eine Armee zusammen und vernichten Sie alle Gegner in der Region.
+
+#PAGE01 Missions\Pictures\mord_d 7
+Eine kleine Hafenstadt. Sie wird durch einen Infanterietrupp und eine Galleassenflotte geschützt. Ihre Einwohner sind arme Leute, die selbst keine leistungsfähige Armee schaffen können, weil es unter ihnen niemanden gibt, der Soldaten schulen und führen könnte (es gibt weder Möglichkeiten noch Mittel, Kasernen und Pferdeställe zu bauen). Wegen Truppenmangel in der Stadt sind Schiffe für die Abwehr der Stadt zuständig. Deshalb verteidigen Galleassen im Westen und im Osten auf dem Meer schmale Landengen, durch die Feinde in die Stadt gelangen könnten. 
+
+
+#PAGE02 Missions\Pictures\austria 21
+Der König ernannte den künftigen Kommandanten der Stadt und den Befehlshaber der Armee. Der Befehlshaber, ein General, machte sich mit dem Schiff auf den Weg zu seinem Ziel. Auf dem Weg zur Stadt wurde sein Schiff aber von türkischen Galeeren überfallen. 
+Die Türken haben es geschafft, den General zu fangen. Sie haben ihn auf der Insel eingekerkert (orangefarbenes Rathaus). 
+
+
+#PAGE03 Missions\Pictures\faces 6
+Um Kasernen und Pferdeställe zu bauen sowie eine Armee zu bilden, müssen die Stadteinwohner den General befreien und ihn von der Insel in die Stadt holen. Um den General zu befreien, muss man das orangefarbene Rathaus auf der Insel einnehmen. 
+
+
+#PAGE1 Missions\Pictures\faces 6
+Sie haben die Kontrolle über das Rathaus erlangt! Endlich wird der General befreit und an die Spitze der Armee gestellt! 
+Er muss so schnell wie möglich in die Stadt gebracht werden. 
+
+
+#PAGE2 Missions\Pictures\faces 15
+
+Sie haben in der eingenommenen Burg Ressourcen gefunden - %d Gold, %d Eisen, %d Kohle und %d Nahrung.
+   
+#PAGE3 Missions\Pictures\mord_tut 10
+Nun kann die Stadt anfangen, Landstreitkräfte zu bilden - sie hat jetzt einen Kommandanten (Möglichkeit des Baus von Kasernen und Pferdeställen.)
+      
+#PAGE4 Missions\Pictures\mord_tut 2
+Außerdem verfügt der General über Kenntnisse im Schifffahrtswesen (Möglichkeit des Baus von Fregatten und Linienschiffen) und Kenntnisse des 18. Jahrhunderts (Übergang ins 18. Jahrhundert). 
+
+#PAGE10 Missions\Pictures\mord3_tut 14
+Sie haben alle Ihre Truppen verloren. Die Mission ist gescheitert. 
+
+#PAGE10G Missions\Pictures\faces 10
+Der General ist gefallen. Die Mission ist gescheitert. 
+#PAGE10T Missions\Pictures\mord_tut 15
+Der General kam unter den Trümmern des Rathauses ums Leben. Die Mission ist gescheitert. 
+#PAGE11 Missions\Pictures\mord2_tut 14
+Die Streitkräfte und Marine von Piemont in der Region sind zerschlagen (der blaue Gegner). 
+
+#PAGE12 Missions\Pictures\mord2_tut 6
+Die türkischen Streitkräfte und Marine in der Region sind zerschlagen (der grüne Gegner). 
+
+#PAGE20 Missions\Pictures\faces 14
+Alle Gegner in der Region sind zerschlagen. Sieg!!!!!!!!!

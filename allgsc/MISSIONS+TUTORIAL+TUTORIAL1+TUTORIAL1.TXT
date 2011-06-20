@@ -1,0 +1,81 @@
+#BRIEFING faces 0
+{Z} Die Anfänge
+
+Sie haben verloren, wenn Sie über keine Bauern mehr verfügen und auch keine weiteren erstellen können.
+Behalten Sie die Ihnen zur Verfügung stehende Menge an Nahrung im Auge!
+                                                                                
+ Gegenwärtiges Ziel:
+{A}Wählen Sie Bauern.
+{B}Bauen Sie eine Mühle.
+{K}~Bauen Sie eine Mühle.~
+{C}Bauen Sie ein Rathaus.
+{L}~Bauen Sie ein Rathaus.~
+{D}Bauen Sie ein Lagerhaus.
+{M}~Bauen Sie ein Lagerhaus.~
+{E}Bauen Sie noch ein Rathaus.
+{N}~Bauen Sie noch ein Rathaus.~
+{F}Wählen Sie das Rathaus und erstellen Sie einen Bauern.
+{H}Bauen Sie einen Markt.
+{O}~Bauen Sie einen Markt.~
+{G} Greifen Sie auf das Menü zu und speichern Sie das Spiel.
+{I}Bauen Sie eine Mine.
+{P}~Bauen Sie eine Mine.~
+                 
+#PAGE1 Missions\Pictures\mord_tut 5
+Schauen Sie sich den Spielbildschirm und das Interface an. In der Mitte des Bildschirms können Sie einen Teil der Spielkarte mit einem Don-Kosaken und einer Gruppe von Bauern sehen. In der unteren rechten Ecke befindet sich eine Minikarte. Die Leiste oben zeigt Ihnen an, wie viele Ressourcen noch zu Ihrer Verfügung stehen. In der Mitte dieser Leiste ist ein Button, mit dem Sie auf das Spielmenü zugreifen können.
+#PAGE2 Missions\Pictures\mord3_tut 16
+Wählen Sie zunächst einen oder mehrere Bauern. Platzieren Sie dazu den Mauszeiger auf einem Bauern und klicken Sie mit der linken Maustaste. Wenn Sie eine Gruppe von Bauern wählen möchten, halten Sie die linke Maustaste gedrückt und bewegen Sie die Maus.
+#PAGE3 Missions\Pictures\russia 16 
+Wenn Sie nun alle Einheiten desselben Typs, zum Beispiel alle Bauern, wählen möchten, wählen Sie einen Bauern und drücken Sie die Taste Z auf Ihrer Tastatur. So können Sie alle Einheiten dieser Art im sichtbaren Bereich der Karte wählen. Wenn Sie Strg + Z drücken, wählen Sie alle Einheiten dieses Typs auf der gesamten Karte. Üben Sie das Auswählen von Einheiten.
+#PAGE4 Missions\Pictures\russia 19 
+Sehr schön! Dasselbe können Sie mit allen anderen Einheiten auch tun.
+#PAGE5 Missions\Pictures\mord_tut 27
+Nahrung ist eine der wichtigsten Ressourcen im Spiel. Sie ist erforderlich für alle Ihre Einheiten, da sie mit der Nahrungsaufnahme beginnen, sobald sie erstellt worden sind. Stellen Sie sicher, dass Sie genügend Nahrungsvorräte haben. Wenn sie Ihnen ausgehen, droht eine Hungersnot und die Einheiten werden sterben. Sie können Nahrung sammeln, indem Sie in der Nähe der Mühle Weizen anbauen. Bauen Sie jetzt eine Mühle.
+#PAGE6 Missions\Pictures\mord_n 1
+Tun Sie dazu Folgendes: Wählen Sie Bauern, klicken Sie auf das Icon für die Mühle unten links auf dem Bildschirm und klicken Sie dann erneut auf eine freie Stelle auf der Karte.
+#PAGE7 Missions\Pictures\mord_tut 7   
+Schön, nun haben Sie mit dem Bau der Mühle begonnen. Sie können Ihren Bauern beim weiteren Bau zuschauen, bis er abgeschlossen ist.
+#PAGE8 Missions\Pictures\mord_n 1   
+Exzellent! Die Mühle ist gebaut und Weizen um sie herum ausgesät. Wenn der Weizen reif ist, müssen Sie Bauern ausschicken, um ihn zu ernten. Wenn er eingebracht ist, können Sie das Feld erneut besäen. Wählen Sie dazu die Mühle und klicken Sie auf das Icon für Getreideernte unten links im Interface.
+#PAGE9 Missions\Pictures\mord_n 1
+Wenn Sie die Mühle wählen, wird Ihnen eine sehr wichtige Aufrüstung unten links im Interface auffallen. Durch diese Aufrüstung können Bauern sehr viel effektiver ernten.
+#PAGE10 Missions\Pictures\russia 19
+Bauen Sie jetzt ein Rathaus. Wählen Sie Bauern, klicken Sie auf das Icon "Rathaus" unten links auf dem Bildschirm und klicken Sie dann mit der linken Maustaste auf die Karte. Es ist empfehlenswert, das Rathaus so nah wie möglich an einer Nahrungsquelle, einem Wald oder Steinbruch zu bauen, damit die Bauern die Ressourcen ins Rathaus bringen können.
+#PAGE11 Missions\Pictures\ukraine 7
+Je mehr Bauern Sie aussenden, um eine Ressource zu erstellen oder zu sammeln, desto schneller werden Sie das Ergebnis sehen.
+#PAGE12 Missions\Pictures\mord_d 1
+Exzellent, das Rathaus ist fertig gestellt! Nun können Sie Bauern dorthin befehlen. Wählen Sie dazu das Rathaus und klicken Sie mit der linken Maustaste auf das Icon für den Bauern unten links auf dem Bildschirm. Wenn Sie einmal auf das Icon klicken, geben Sie einer Einheit den Befehl. Halten Sie die Umschalttaste gedrückt und klicken Sie mit der linken Maustaste auf das Icon, wenn Sie fünf Einheiten auf einmal einsetzen möchten. Während Sie Einheiten Befehle geben, sollten Sie immer sicherstellen, dass die Nahrungsmenge sich nicht auf unter 1000 verringert, da Sie ansonsten von einer Hungersnot bedroht werden könnten.
+#PAGE13 Missions\Pictures\poland 11
+Bauen Sie nun ein Lagerhaus. Bauern können das von ihnen gesammelte Holz und die Steine dorthin bringen. Bauen Sie die Lagerhäuser deshalb so nah wie möglich an die Orte, an denen Holz und Steine gesammelt werden sollen. Finden Sie einen solchen Platz und bauen Sie ein Lagerhaus.
+#PAGE14 Missions\Pictures\russia 8
+Das Lagerhaus ist fertig gestellt. Nun können Sie damit beginnen, Holz und Steine zu sammeln.
+#PAGE15 Missions\Pictures\ukraine 7
+Wählen Sie mehrere Bauern und positionieren Sie den Mauszeiger über einem Wald (der Zeiger nimmt die Form einer Axt an) oder einem Steinbruch (der Zeiger nimmt die Form einer Hacke an). Dann klicken Sie mit der rechten Maustaste, damit Ihre Bauern die Ressource sammeln.
+#PAGE16 Missions\Pictures\russia 8 
+Gut, Sie haben das Sammeln von Ressourcen organisiert. Achten Sie immer auf die wirtschaftliche Entwicklung, da nur eine starke Wirtschaft den Bau einer starken Armee und Flotte zulässt. Lassen Sie weitere Bauern Ressourcen sammeln, bestellen Sie mehr Felder und öffnen Sie neue Minen, um den Ressourcenabbau weiter zu fördern.
+#PAGE17 Missions\Pictures\mord_n 9 
+Der nächste Schritt, um die Entwicklung zu beschleunigen, besteht nun im Bau eines weiteren Rathauses. Wählen Sie einen oder mehrere Bauern und klicken Sie auf das Icon für das Rathaus unten rechts im Interface. Wenn Sie nicht genügend Ressourcen haben, ist das Icon grau. Wenn Sie den Mauszeiger auf das Icon gerichtet halten, wird die Menge an Ressourcen angezeigt, die zum Bau eines Rathauses benötigt wird. Beschaffen Sie sich diese benötigte Menge.
+#PAGE18 Missions\Pictures\russia 9
+Sie haben genügend Ressourcen gesammelt, um ein weiteres Rathaus zu bauen. Nun ist das Icon aktiviert. Eine Besonderheit im Wirtschaftssystem von Cossacks ist es, dass jedes neue Gebäude desselben Typs, das Sie bauen möchten, teurer ist als sein Vorgänger.
+#PAGE19 Missions\Pictures\russia 19
+Wunderbar! Das neue Rathaus ist fertig gestellt! Wenn Sie das Gebäude wählen möchten, zeigen Sie mit dem Mauszeiger darauf und klicken Sie mit der linken Maustaste.
+#PAGE20 Missions\Pictures\mord_d 1
+Sie können für Gebäude, in denen Einheiten erstellt werden können, Wegpunkte setzen. Alle Einheiten, die in diesem Gebäude gebaut worden sind, werden sich dann an dem Punkt sammeln, den Sie bestimmt haben. Wenn Sie einen Wegpunkt setzen möchten, müssen Sie das gewünschte Gebäude wählen und auf den Button "Wegpunkt setzen" klicken oder einfach bei gedrückter Strg-Taste mit der rechten Maustaste klicken.
+#PAGE21 Missions\Pictures\russia 8
+Setzen Sie einen Wegpunkt für das erste Rathaus in das Feld und einen für das zweite Rathaus in einen nahen Wald oder Steinbruch. Die in den Rathäusern erstellten Bauern werden sich direkt dorthin begeben, um die Ressourcen des jeweiligen Orts zu sammeln.
+#PAGE22 Missions\Pictures\mord_tut 28
+Jetzt wird es Zeit, dass Sie einen Markt bauen. Wählen Sie eine Gruppe von Bauern und bauen Sie einen Markt auf dem freien Bereich in der Nähe Ihrer Gebäude.
+#PAGE23 Missions\Pictures\russia 8
+Prima! Sie haben einen Markt gebaut. Jetzt können Sie Ressourcen tauschen. Wenn Sie den Markt wählen, erscheint das Menü zum Ressourcentausch unten rechts im Interface. In der linken Spalte sind die Ressourcen aufgeführt, die Sie eintauschen können, in der rechten diejenigen, die Sie benötigen. Mit den Zahlentasten können Sie die Anzahl der Ressourcen festlegen, die Sie handeln möchten. Darüber befindet sich ein Button, mit dem Sie das Geschäft bestätigen können. Daneben ist ein Button, der das Geschäft rückgängig macht.
+#PAGE24 Missions\Pictures\russia 19
+Das haben Sie gut gemacht. Jetzt wird es Zeit, das Spiel zu speichern. Halten Sie dazu den Mauszeiger auf die Mitte der oberen Leiste und klicken Sie mit der linken Maustaste darauf. In dem Pop-Up-Menü können Sie nun den Eintrag "Spielmenü" und im nächsten Menü die Option "Spiel speichern" wählen. Wenn Sie das Spiel danach fortführen möchten, klicken Sie einfach auf einen freien Bereich auf dem Bildschirm. Sie können das Spiel ebenfalls speichern, indem Sie die Taste F12 drücken und dann den Eintrag "Spiel speichern" im nächsten Menü wählen. Mit der Taste F1 können Sie Ihr gegenwärtiges Ziel überprüfen.
+#PAGE25 Missions\Pictures\mord_tut 8
+Wenn Sie die drei verbleibenden Ressourcenarten, also Gold, Kohle und Eisen, abbauen möchten, müssen Sie zunächst Minen bauen. Minen können direkt auf Gold-, Kohle- und Eisenvorkommen gebaut werden, die sich auf der Karte befinden. In der Nähe Ihres Lagers befinden sich solche Vorkommen. Wählen Sie Bauern und bauen Sie Minen.
+#PAGE26 Missions\Pictures\mord_tut 8
+Je mehr Bauern sich in einer Mine befinden, desto mehr Ressourcen können Sie dort erlangen. Wenn Sie die Anzahl von Bauern, die in einer Mine arbeiten, erhöhen möchten, führen Sie die Aufrüstung "Minen vergrößern und breites Schienennetzwerk anlegen" aus, dann senden Sie neue Bauern hinein. Wählen Sie dazu eine Mine, woraufhin das Icon für die Aufrüstung unten links im Interface erscheint. Sie müssen jede Mine einzeln aufrüsten. Je weiter Sie eine Mine aufgerüstet haben, desto wichtiger wird die Mine für Sie. Deshalb sollten Sie nur gut beschützte Minen aufrüsten.
+#PAGE27 Missions\Pictures\russia 19
+Sie haben die Grundlagen von Minen und Bau erfolgreich gemeistert. Willkommen zum zweiten Teil des Tutorials!
+#PAGE99 Missions\Pictures\mord_tut 9
+Der erste Teil des Tutorials ist erfolgreich beendet worden!
+#PAGE100 Missions\Pictures\russia 24
+Tun Ihnen Ihre Bauern gar nicht Leid? In diesem Fall sind Sie an Ihrer ersten Mission gescheitert!

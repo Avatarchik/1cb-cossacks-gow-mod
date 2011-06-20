@@ -1,0 +1,55 @@
+#BRIEFING faces 0
+{A} Die Nordallianz
+ 
+Ihre Aufgabe ist es, so schnell wie möglich die Nordallianz zu vernichten. Dafür müssen Sie lediglich feststellen, wo sich die Führung der Allianz befindet und sie danach vernichten! Passen Sie aber auf sich auf, weil es Räuber in der Region gibt. Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden oder wenn Sie die Nordallianz nicht im Laufe einer bestimmten Zeit vernichten. 
+
+ 
+Gegenwärtiges Ziel:
+{B} Vernichten Sie die Nordallianz im Lauf von 60 Minuten.  
+{C}~Vernichten Sie die Nordallianz im Lauf von 60 Minuten.~
+{M} Zusätzliches Ziel:
+{N}Bauen Sie einen Montgolfier.
+{O}~Bauen Sie einen Montgolfier.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie sollen die Nordallianz im Laufe von %d Minuten vernichten! Dafür müssen Sie lediglich feststellen, wo sich die Führung der Allianz befindet und sie danach vernichten! Deshalb sollten Sie möglichst schnell einen Montgolfier mit Aufklärern starten lassen, die Ihnen notwendige Information mitteilen.  
+
+#PAGE0B Missions\Pictures\faces 31
+Nur %d Minuten sind geblieben!
+
+#PAGE0C Missions\Pictures\faces 31
+Die Wege von der Insel werden von Banditenartillerie beschossen. Diese Schurken müssen viel Gold haben! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Banditenlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind gefallen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert.
+
+#PAGE1B Missions\Pictures\faces 4
+Ihr Zeit ist abgelaufen! Sie haben die Nordallianz nicht vernichten können und verloren! 
+
+#PAGE2 Missions\Pictures\faces 34
+Die Führung der Nordallianz befindet sich in Russland! Deshalb sollten Sie Russland möglichst schnell neutralisieren! 
+
+#PAGE3 Missions\Pictures\faces 34
+Die Führung der Nordallianz befindet sich in Polen! Deshalb sollen Sie Polen möglichst schnell neutralisieren! 
+
+#PAGE8 Missions\Pictures\austria 6
+Sie haben die Nordallianz vernichtet !! SIEG!!!! 
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Russland und die Führung der Nordallianz neutralisiert!!  
+
+#PAGE8AA Missions\Pictures\austria 6
+Gratulation! Sie haben Russland vernichtet !!  
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben Polen und die Führung der Nordallianz neutralisiert!!  
+
+#PAGE8BB Missions\Pictures\austria 6
+
+Gratulation! Sie haben Polen vernichtet !!  

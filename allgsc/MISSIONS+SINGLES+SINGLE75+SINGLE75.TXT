@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A} 1704: Narva, das letzte Bollwerk
+
+Um zu gewinnen, müssen Sie die schwedische Festung zerstören.
+Sie erleiden eine Niederlage, wenn Sie Ihre Einheiten und Einrichtungen verlieren.
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie das Fort im Westen.
+{C}~Vernichten Sie das Fort im Westen.~
+{D}Bauen Sie ein befestigtes Fort.
+{F}~Vernichten Sie das Fort im Westen.~
+{E} Vernichten Sie das Fort im Westen.
+{G}Zerstören Sie die schwedische Festung.
+
+#PAGE1601 Missions\Pictures\Austria 18
+Westlich von Ihnen befinden sich schwedische Werften. Sie sollen das Fort vernichten, das sie schützt und Ihr eigenes bauen. Seien Sie aber vorsichtig, das Fort wird von der See aus überwacht. 
+
+#PAGE1602 Missions\Pictures\Austria 6
+Sie haben die Schiffswerft eingenommen. Bringen Sie hier alles in Ordnung und bauen Sie ein Fort. Dann bewegen Sie sich die Küste entlang nach Westen und vernichten Sie noch ein Fort. Dies erlaubt Ihnen, noch eine Werft zu bauen und den Fluss zu überqueren. 
+
+#PAGE1603 Missions\Pictures\Austria 27
+Sie haben die Aufgabe nicht erfüllt und haben den Angriff auf die schwedische Festung gefährdet!
+
+#PAGE1604 Missions\Pictures\England 25
+Sie haben die Ihnen gestellte Aufgabe perfekt erfüllt! 
+
+
+
+#PAGE1605 Missions\Pictures\Austria 0
+Ausgezeichnet! Sie haben noch ein Fort vernichtet. Nun können Sie Ihre Flotte bauen und die Hauptbefestigungen der Schweden angreifen! 

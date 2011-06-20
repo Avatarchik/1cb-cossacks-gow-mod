@@ -1,0 +1,1 @@
+Mit einem Streitkolben bewaffneter schwerer Kavallerist. Seine Rüstung schützt ihn gut gegen Geschosse und Splitter. Effektiv gegen Infanterie und leichte Kavallerie. Gut im Angriff und bei der Verteidigung. Seine Herstellung braucht viel Zeit. Hohe Kosten.

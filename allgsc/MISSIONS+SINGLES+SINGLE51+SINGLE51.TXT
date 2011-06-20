@@ -1,0 +1,49 @@
+#BRIEFING faces 0
+{A} Der optimale Weg
+
+Ihre Aufgabe ist es, Österreich im Norden zu besiegen. Kampfhandlungen können sowohl zu Wasser als auch zu Land stattfinden. Zu Land sind alle Wege durch Preußen gesperrt, das mit Österreich verbündet ist, und zu Wasser herrschen englische Piraten. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B}Neutralisieren Sie Österreich im Norden. 
+{C}~Neutralisieren Sie Österreich im Norden.~
+{D}Zerstören Sie 4 preußische Rathäuser (in den Ecken der Karte).
+{E}~Zerstören Sie 4 preußische Rathäuser (in den Ecken der Karte).~
+
+#PAGE0AA Missions\Pictures\austria 18
+Sie müssen die Österreicher im Norden vernichten. Die mit Österreich verbündeten Preußen haben Ihren Standort entdeckt und schicken Ihnen ihre Soldaten und Kavallerie entgegen!  Um sie aufzuhalten, müssen die vier preußische Rathäuser gesprengt werden (in den Ecken der karte), in denen die Führung ihren Sitz hat.  
+
+#PAGE0A Missions\Pictures\faces 31
+In der Kartemitte gibt es eine Insel, die von Piraten eingenommen worden ist. In ihrer Bucht ankert ein Linienschiff des 18. Jahrhunderts. Ein solches Schiff kann aus der Nähe nicht beschossen werden. Es ist nur aus kurzer Distanz zu erreichen. Wenn Sie über so ein Schiff verfügen, besiegen Sie alle Gegner schnell!!  
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation!! Sie haben das Räuberhaus erobert und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungerechten Kampf ums Leben gekommen! 
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert.
+
+
+
+#PAGE2 Missions\Pictures\poland 4
+Es ist ganz sicher, dass es auf der Insel der Piraten Gold gibt! Am ehesten verstecken sie es in einem Haus! 
+
+#PAGE3 Missions\Pictures\faces 34
+Gratulation! Sie haben ein Linienschiff des 18. Jahrhunderts eingenommen. Nun werden Sie Ihre Feinde besiegen! 
+
+
+
+#PAGE4 Missions\Pictures\poland 4
+
+ Sie haben das Räuberhaus vernichtet, in dem geraubtes Gold versteckt war! Sie haben also Ihre Chance vertan, Ihre Goldvorräte erheblich aufzufüllen! 
+
+#PAGE7 Missions\Pictures\austria 37
+Gratulation! 4 preußische Rathäuser sind zertrümmert!  
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Österreicher vernichtet!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!!

@@ -1,0 +1,80 @@
+#BRIEFING faces 0
+{A} An zwei Fronten 
+ 
+Ihre Aufgabe ist es, die Allianz von Österreich, England und Dänemark zu vernichten. 
+Sie sollen die Österreicher, die eine der östlichen Inseln ergriffen haben (auf der Karte gibt es insgesamt vier Inseln) besiegen. Ohne Teilnahme der österreichischen Truppen werden England und Dänemark von weiteren Kampfhandlungen absehen. 
+Sie werden durch Truppen der nördlichen Front unterstützt. Dort kämpft Ihr Kamerad, ein weiterer spanischer Offizier. Sie sollen ihm Ressourcen bringen. 
+Ihre Verbündeten, die Sachsen, können Ihnen auch Hilfe leisten. 
+Sie verlieren, wenn Ihr Hauptcharakter ums Leben kommt oder wenn die Truppen an der nördlichen Front eine Niederlage erleiden. 
+Nur der Hauptcharakter kann sich mit Verbündeten unterhalten. 
+ 
+Gegenwärtiges Ziel:
+{B}Besiegen Sie Österreich auf einer der östlichen Inseln. 
+{C}~Besiegen Sie Österreich auf einer der östlichen Inseln.~
+{D}Vernichten Sie die englischen Werften auf den östlichen Inseln (zwei auf der nördlichen Insel und zwei auf der südlichen), deren Schiffe Ihre Einrichtungen überfallen. 
+{E}~Vernichten Sie die englischen Werften auf den östlichen Inseln (zwei auf der nördlichen Insel und zwei auf der südlichen), deren Schiffe Ihre Einrichtungen überfallen.~
+{F}Zerstören Sie das Banditenlager, das nördlich von Ihnen liegt. 
+{G}~ Zerstören Sie das Banditenlager, das nördlich von Ihnen liegt.~
+{K} Zerstören Sie das Banditenlager auf der Insel, die nördlich von Ihnen liegt. 
+{L}~Zerstören Sie das Banditenlager auf der Insel, die nördlich von Ihnen liegt.~
+{M} Zusätzliches Ziel: 
+{N} Bringen Sie dem Befehlshaber der nördlichen Front je 5000 aller Ressourcenarten (auf die Insel, die sich nördlich von Ihrer befindet). 
+{O}~Bringen Sie dem Befehlshaber der nördlichen Front je 5000 aller Ressourcenarten (auf die Insel, die sich nördlich von Ihrer befindet).~
+
+#PAGE0AA Missions\Pictures\faces 9
+Es wurde Ihnen als Offizier der spanischen Armee befohlen, die Allianz von Österreich, England und Dänemark zu neutralisieren! Um den Befehl zu erfüllen, müssen Sie die Österreicher vernichten, die eine der östlichen Inseln eingenommen haben. 
+Die Engländer haben von Ihrer Ankunft auf der Insel erfahren und haben vor, Sie mit Schiffen anzugreifen! 
+Besuchen Sie Ihren Verbündeten Sachsen im Fort nördlich von Ihnen, damit sie Ihnen helfen, die Angriffe der Engländer abzuwehren!
+Damit die Engländer völlig mit Angriffen aufhören, müssen Sie ihre Werften auf den  Inseln vernichten. 
+  
+#PAGE0A Missions\Pictures\faces 31
+Nördlich von Ihnen gibt es eine Insel, auf der Ihr Kamerad, der Befehlshaber der nördlichen Front, angekommen ist. Er benötigt Einstiegsressourcen für die Entwicklung. Deshalb müssen Sie je 5000 aller Ressourcenarten sammeln und sie dem Befehlshaber der nördlichen Front mit Packpferden bringen. 
+Benutzen Sie die sächsische Fähre für das Übersetzen der Packpferde auf die nördliche Insel. 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Banditenlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungerechten Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert.
+
+#PAGE2 Missions\Pictures\poland 4
+Auf Ihrer Insel und auf der Insel nördlich von Ihnen gibt es Banditen! Vernichten Sie ihre Lager!
+
+#PAGE3 Missions\Pictures\faces 34
+Ich freue mich, Euch begrüßen zu können, mein Befehlshaber! Wir werden von englischen Schiffen überfallen! Helft uns! 
+
+#PAGE4 Missions\Pictures\faces 6
+Ich begrüße Euch, Kommandant der spanischen Truppen! Für den Gegenschlag gegen die Engländer gebe ich Euch Fregatten! Sollet Ihr die Schiffe verlieren, werde ich weitere zu Euch schicken! Ich stelle Euch auch eine Fähre und Kavallerie zur Verfügung, die Euch von großem Nutzen sein werden! 
+
+#PAGE7 Missions\Pictures\England 5
+Gratulation! Sie haben alle englischen Werften vernichtet! 
+
+#PAGE7A Missions\Pictures\England 5
+Gratulation! Sie haben zwei englische Werften im Norden vernichtet, deren Schiffe Sie angegriffen haben! 
+
+#PAGE7B Missions\Pictures\England 5
+Gratulation! Sie haben zwei englische Werften im Süden vernichtet, deren Schiffe Sie angegriffen haben!
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Österreich vernichtet!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben den Befehl erfüllt! Sieg!!!
+
+#PAGE11  Missions\Pictures\mord_d 6
+Die Truppen der nördlichen Front haben eine Niederlage erlitten! Sie haben verloren!
+
+#PAGE10 Missions\Pictures\faces 9
+Sie haben schon ausreichend Ressourcen für den Befehlshaber der nördlichen Front! Bringen Sie Packpferde zu den Lagerhäusern zum Beladen! 
+
+#PAGE10A Missions\Pictures\faces 9
+Die Packpferde sind beladen! Bringen Sie sie dem Befehlshaber der nördlichen Front.
+
+#PAGE12  Missions\Pictures\mord_d 6
+Sie haben die Packpferde verloren und können jetzt die Ressourcen nicht mehr auf die nordwestliche Insel bringen! Jetzt müssen Sie die Österreicher mit eigenen Kräften vernichten! 
+
+#PAGE13 Missions\Pictures\faces 6
+Oh! Ihr habt uns die notwendigen Einstiegsressourcen gebracht! Wir bedanken uns und beginnen sofort mit der Vorbereitung auf den Angriff, um die Gegnerallianz zusammen zu zerschlagen! 

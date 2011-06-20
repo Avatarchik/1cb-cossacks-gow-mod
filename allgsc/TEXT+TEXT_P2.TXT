@@ -1,0 +1,62 @@
+ICCREATE Spiel wird erstellt ...
+ICJOIN Mitspielen ...
+ICUNJ Mitspielen nicht möglich.
+ICUNCR Erstellen nicht möglich.
+ICCONN Verbindung mit Master-Server ...
+ICUNCON Verbindung mit Master-Server nicht möglich.
+ICDISG Verbindung wird abgebrochen ...
+BATTLTXT Schlacht
+DEATHTXT Deathmatch
+ALL Alle
+FIL_NAME Alle Räume mit diesem String auswählen.
+FIL_PLAYERS Filtern nach Spielerzahl
+FIL_PING Filtern nach Ping
+FIL_VERS Filtern nach Version
+FIL_TYPE Filtern nach Spieltyp
+FIL_LEVEL Filtern nach Stufe der Spieler
+SRT_ROOM Sortieren nach Name
+SRT_PLAYERS Sortieren nach Spielern
+SRT_PING Sortieren nach Ping
+SRT_VERS Sortieren nach Version
+SRT_TYPE Sortieren nach Spieltyp
+SRT_LEVEL Sortieren nach Stufe
+IG_CREATE Server erstellen
+IG_JOIN Mitspielen
+BACKINCHAT Chat ansehen
+IG_BACK Zurück zum Raum
+IG_REFRESH Serverliste aktualisieren
+IG_CANCEL Chat verlassen
+ENTERPASSWORD Passworteingabe:
+GAMINPR Das Spiel hat bereits begonnen.\Das Mitspielen ist nicht möglich.
+GAMINAR Das Spiel wurde mit GameSpy Arcade erstellt.\Das Mitspielen ist nicht möglich.
+IINVVER Diese Spielversion ist mit Ihrer nicht kompatibel, (%s).\Das Mitspielen ist nicht möglich.
+ROMFULL Dieser Raum ist voll. Das Mitspielen ist nicht möglich.
+RMPASSW Für diesen Raum wird ein Passwort benötigt. Wenn Sie es kennen, können Sie mitspielen.
+CANJOIN0 Hier können Sie sofort mitspielen!!!
+CANJOIN1 Sind Sie ein Anfänger, ist das Ihr Raum!!!
+CANJOIN2 Sind Sie ein erfahrener Spieler, spielen Sie hier mit!!!!!!
+CANJOIN3 Sind Sie ein echtes Cossacks-Ass, dann machen Sie den Gegner hier fertig!!!
+DBLCLICK Spieler %s, Ping %d. Anklicken zum Verschicken privater Nachricht.
+DBLCLICKU Spieler %s, Ping unbekannt. Anklicken zum Verschicken privater Nachricht.
+PLINGAME Spieler %s ist in einem Spiel.
+ONLYOU (nur für Sie)
+ENTERMESS Persönliche Nachricht für %s eingeben
+LEV_0M Für alle Spieler
+LEV_0 Für alle Spieler
+LEV_1M 0000 Anfänger
+LEV_1 0000
+LEV_2M 0001 Erfahren
+LEV_2 0001
+LEV_3M 0002 Hardcore
+LEV_3 0002
+FRW_0 Proxy oder Firewall entdeckt.
+FRW_IGN Ignorieren
+FRW_YES OK
+FRW_TXT Auf Ihrem Computer wurden die falschen Interneteinstellungen entdeckt. Ihre IP-Adresse ist außerhalb des LAN nicht erkennbar. Bitte wenden Sie sich an Ihren Netzwerk-Administrator. Wenn Sie auf 'OK' klicken, können Sie chatten, aber keinen Raum erstellen oder mitspielen. Klicken Sie auf 'Ignorieren', so können Sie einen Raum erstellen, aber er wird kaum von anderen gesehen. Außerdem wird es für Sie Schwierigkeiten beim Mitspielen geben.
+NPLAYMSS Gesamt: %d
+NROOMMSS Gesamt: %d
+COMCHAT [ALLGEMEINER CHAT] %s: %s
+CHATHELP1 Drücken Sie <EINGABE>, um an alle Spieler zu senden.
+CHATHELP2 Drücken Sie <STRG+EINGABE>, um an verbündete Spieler zu senden.
+CHATHELP3 Drücken Sie <F%d>, um %s zu antworten.
+CHATHELP4 An %s: %s

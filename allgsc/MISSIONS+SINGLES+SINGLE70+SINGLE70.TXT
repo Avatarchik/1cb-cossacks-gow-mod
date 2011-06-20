@@ -1,0 +1,20 @@
+#BRIEFING faces 0
+{A} Befehl des Zaren
+
+Gegenwärtiges Ziel:
+{B}Errichten Sie eine Festungsmauer um jeden Preis! 
+
+#PAGE0 Missions\Pictures\poland 7
+Ihre Hauptaufgabe ist es, die Festungsmauer aufzubauen.
+Die Stellen für die Maueranlage sind auf dem Gelände markiert. 
+Unter Ihrer Leitung sind viele Maurer und Wachen für ihren Schutz. 
+
+#PAGE1 Missions\Pictures\England 9
+Sieg!!! Sie haben die Mauer gebaut! 
+ 
+#PAGE2 Missions\Pictures\England 9
+Niederlage! Die Feinde haben den Bau verhindert! 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{Q} Verrat
+ 
+Sie stehen an der Spitze eines Infanterietrupps und eines mittelgroßen Geschwaders des englischen Königs.  
+Englische Truppen und die verbündete französische Marine warten auf Ihren Befehl, um auf dem Territorium der Holländer zu landen. 
+Ihre Aufgabe ist es, Kräfte zu sparen, indem Sie Ihre Arbeiter einsetzen und gleichzeitig die Niederländer angreifen. 
+Im Norden gibt es drei Inseln, jede von Ihnen ist reich an Ressourcen, die Sie benötigen. 
+Ihr Hauptziel ist es, die blauen und violetten Niederländer zu vernichten. 
+!Sie haben verloren, wenn Ihre Armee zerschlagen wird. 
+ 
+{W} Gegenwärtiges Ziel:
+{A}Nehmen Sie die Insel ein und bereiten Sie Ihre Kräfte für einen gleichzeitigen Angriff gegen die Niederländer vor. 
+{Z}~Nehmen Sie die Insel ein und bereiten Sie Ihre Kräfte für einen gleichzeitigen Angriff gegen die Niederländer vor.~
+{S}Greifen Sie die Niederländer gleichzeitig mit den Verbündeten an. 
+{X} 
+
+Hinweis:
+Vernichten Sie die niederländische Seekarawanen (weiße Ketschen). 
+
+#Entry missions\pictures\austria 10
+Die englische und französische Monarchie können sich nicht mit der Freiheitsliebe der Niederländer versöhnen. Mit vereinten Kräften wollen die Engländer und Franzosen die niederländische Marine mit einem Schlag vernichten. Nachdem Sie auf dem Festland gelandet sind, versklaven Sie den angehenden unabhängigen Staat. 
+
+#Start_att missions\pictures\austria 10
+Die englisch-französische Armee beginnt mit den Angriff auf die Niederländer. Ihr Hilfe wird sehr gelegen kommen. 
+
+#ali_assault missions\pictures\austria 10
+Die Verbündeten sind auf dem Festland gelandet und beginnen ihren Infanterie-Angriff. 
+
+#defeat missions\pictures\austria 10
+
+Sie haben es nicht geschafft, Sie haben verloren. 
+
+#victory missions\pictures\austria 10
+Gratulation! Sie haben die Niederländer vernichtet!! Sieg!!!!

@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} Die Festung
+
+Sie haben gewonnen, wenn Sie den Feind zerschmettern. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren oder wenn Ihr Hauptcharakter ums Leben kommt. 
+ 
+#PAGE1 Missions\Pictures\austria 18
+Sie kommandieren eine Festung. 
+Sie müssen die Belagerung durchhalten und Ihre Gegner in der Schlacht vernichten. 
+
+#PAGE2 Missions\Pictures\Russia 4
+Schützen Sie Ihre Verbündeten, die Munition in die Burg liefern. 
+ 
+#PAGE3  Missions\Pictures\austria 9
+Sie haben Schweden geschlagen. 
+
+#PAGE4  Missions\Pictures\algeria 2
+Sie haben die Türken geschlagen. 
+
+#PAGE5  Missions\Pictures\austria 6
+Sieg!!!! Hurra!! 
+
+#PAGE6  Missions\Pictures\austria 14
+Sie haben verloren ... Schade ...
+
+#PAGE7  Missions\Pictures\Russia 14
+Sie sind in der Schlacht ums Leben gekommen ... Die Welt muss ohne Sie auskommen ...
+
+#PAGE8  Missions\Pictures\austria 4
+Eine Karawane ist angekommen, die 3000 Eisen gebracht hat. 
+
+#PAGE9  Missions\Pictures\austria 4
+Eine Karawane ist angekommen, die 3000 Kohle gebracht hat.
+
+#PAGE10  Missions\Pictures\Russia 29
+Die Wache bei der Eisenmine ist ermordet worden.
+Es wird keine weiteren Eisenlieferungen geben.
+
+#PAGE11  Missions\Pictures\Russia 29
+Die Wache bei der Kohlemine ist ermordet worden.
+Es wird keine weiteren Kohlelieferungen geben.
+
+
+#PAGE12  Missions\Pictures\Mord_tut 22
+Sie haben das Diplomatiezentrum der Räuber zerschlagen. Es wird keine weiteren Überfälle geben.  

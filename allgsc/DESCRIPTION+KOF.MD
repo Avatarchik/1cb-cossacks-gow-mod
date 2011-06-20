@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffneter Elite-Kavallerist. Trifft Ziele auch auf groﬂe Entfernung. Kann nicht feuern, wenn der Feind zu nahe herankommt. Sehr gut im Angriff. Seine Herstellung braucht viel Zeit.

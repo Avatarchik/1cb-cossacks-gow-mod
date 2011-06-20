@@ -1,0 +1,50 @@
+#BRIEFING faces 0
+{A}	Zwei Offiziere
+ 
+Sie sind als Offizier der Armee von Venedig mit dem Ziel gekommen, die Allianz von Dänemark und Frankreich zu vernichten. Außer Ihnen ist auch der Befehlshaber der östlichen Front im Süden angekommen. Er wird Ihnen helfen, wenn Sie ihm Bauern zur Verfügung stellen. 
+Sie haben verloren, wenn der Hauptcharakter oder der zweite Offizier, der Befehlshaber der östlichen Front, ums Leben kommen. 
+ 
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die Allianz von Dänemark und Frankreich.  
+{C}~Vernichten Sie die Allianz von Dänemark und Frankreich.~
+{K}Vernichten Sie das Banditenlager im Osten. 
+{L}~Vernichten Sie das Banditenlager im Osten.~
+{M} Zusätzliches Ziel:
+{N}Bringen Sie dem Befehlshaber der östlichen Front mindestens 30 Ihrer Bauern. 
+{O}~Bringen Sie dem Befehlshaber der östlichen Front mindestens 30 Ihrer Bauern.~
+
+#PAGE0AA Missions\Pictures\mord_n 3
+Sie sollen die Allianz von Dänemark und Frankreich neutralisieren! In der Region, in der Sie angekommen sind, treiben Banditen ihr Unwesen. Für Gold würden sie alles tun. 
+Vernichten Sie das Banditenlager östlich von Ihnen!   
+
+
+#PAGE0A Missions\Pictures\mord2_tut 13
+Im Südosten ist ein Offizier der Armee von Venedig, der Befehlshaber der östlichen Front, angekommen. Er wird Ihnen helfen, den Gegner zu vertreiben. Er hat aber keine Bauern für die Entwicklung. Sie sollten möglichst schnell mindestens 30 Ihrer Bauern versammeln und sie dem Befehlshaber bringen. Sie sollten den Offizier und die Bauern auch verteidigen, damit Sie eine starke Armee schaffen könnten. 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Banditenlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Dänemark und Frankreich vernichtet! 
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Dänen neutralisiert!
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die Franzosen neutralisiert! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben den Befehl erfüllt und gewonnen!!!
+
+#PAGE11  Missions\Pictures\mord_d 6
+Die Truppen der östlichen Front haben eine Niederlage erlitten! Sie haben verloren! 
+
+#PAGE13 Missions\Pictures\mord2_tut 13
+Ah! Ihr habt uns Bauern gebracht! Wir beginnen gleich mit der Entwicklung, um den Gegner gemeinsam zu bewältigen. 
+(Wachen sollten nicht unmittelbar neben den Bauern stehen, weil sie Fläche für die Entwicklung brauchen). 

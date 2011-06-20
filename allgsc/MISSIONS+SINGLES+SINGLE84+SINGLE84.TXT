@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A} Die letzte Grenze
+
+Gegenwärtiges Ziel:
+{B}Zerschlagen Sie das feindliche Heer.
+
+#PAGE0 Missions\Pictures\England 29
+Sie sind Befehlshaber der österreichischen Truppen.
+Ihre Aufgabe ist es, das feindliche Heer zu zerschlagen.
+Befehle werden durch Boten weitergeleitet. 
+
+#PAGE1 Missions\Pictures\England 29
+Alles wartet auf mein Kommando!
+
+#PAGE2 Missions\Pictures\England 29
+  
+#PAGE3 Missions\Pictures\England 29
+Sieg!!! 
+Das feindliche Heer ist zerschlagen.
+
+#PAGE4 Missions\Pictures\England 29
+Niederlage ...
+Der Feind hat die Stadt eingenommen.
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

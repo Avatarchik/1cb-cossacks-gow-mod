@@ -1,0 +1,1 @@
+Solide Befestigungsstruktur. Kann nur durch Artillerie, Flotten, Grenadiere oder Bogenschützen zerstört werden. Durch Steinmauern kann nicht geschossen werden, aber man kann dort Tore einrichten. Die Steinmauern verbrauchen Steine.

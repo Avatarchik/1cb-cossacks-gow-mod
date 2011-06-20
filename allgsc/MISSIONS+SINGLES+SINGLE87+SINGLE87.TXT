@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A} Schlacht am Mittelmeer
+   
+Um zu gewinnen, müssen Sie die Piraten und algerischen Einheiten in der Region vernichten. 
+Sie erleiden eine Niederlage, wenn Sie alle Bauern oder 3 Werften verlieren. 
+
+   
+#PAGE0 Missions\Pictures\mord3_tut 7
+Der König beauftragt Sie mit der Überwachung der Handelshäfen im Mitteleer. 
+Sie verfügen über 200 Bauern, eine mittelgroße Marine und 5 Werften. 
+Häfen sind Schlüsselstellen für Handel in der Region. Sie sind vor Feinden zu schützen. Jeder Hafen bringt täglich 50 Goldmünzen Gewinn.  
+Momentan sind in den Häfen die mit Handelsschiffen angekommenen 100 Bauern, die sich Ihnen anschließen möchten. 
+
+#PAGE0A Missions\Pictures\mord3_tut 0
+Beeilen Sie sich mit der Verstärkung Ihrer Flotte! Es ist bekannt geworden, dass die Spanier vorhaben, Sie mit ihrer Marine aufzuhalten. 
+
+#PAGE10 Missions\Pictures\mord_d 7
+Drei Häfen sind verloren. Die Mission ist gescheitert ...
+ 
+#PAGE10B Missions\Pictures\austria 9
+Alle Bauern sind verloren. Die Mission ist gescheitert ... 
+
+#PAGE11 Missions\Pictures\algeria 2
+Die algerischen Einheiten in der Region sind zerschlagen (blau).
+
+#PAGE12 Missions\Pictures\mord3_tut 8
+Die spanische Flotte in der Region ist zerschlagen (grün).
+
+#PAGE15 Missions\Pictures\england 35
+Die Hauptkräfte der Piraten in der Region sind zerschlagen (schwarz). 
+
+#PAGE20 Missions\Pictures\faces 14
+Alle Gegner sind geschlagen!!!
+Die ganze Region ist erobert!!! Sieg!!!

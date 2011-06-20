@@ -1,0 +1,56 @@
+#BRIEFING faces 0
+{A}   	Die Rückkehr
+    
+Sie haben gewonnen, wenn Sie die türkischen und polnischen Kräfte in der Region vernichten. Sie haben verloren, wenn Ihr Hauptcharakter, der Husar, ums Leben kommt. 
+   
+Gegenwärtiges Ziel:
+{B}Erreichen Sie das Dorf im Nordosten.
+{C}~ Erreichen Sie das Dorf. ~
+{D}Vernichten Sie alle Gegner auf der Karte. 
+                                        
+#PAGE0 Missions\Pictures\faces 14
+Das 18. Jahrhundert: Russische Truppen führen Kampfhandlungen gegen Polen und die Türkei. 
+Der kampfgestählte Trupp der russischen Kavallerie kehrt aus einem Kriegszug zurück mit Ihnen an der Spitze (Husar). 
+Sie sind an der südwestlichen Grenze des russischen Imperiums. 
+Sie sollen ein Dorf im Nordosten erreichen. Ihre Aufklärer haben Ihnen mitgeteilt, dass die Region sehr unruhig ist und dass feindliche reguläre Einheiten auftauchen können. 
+Der Husar muss die Mission überleben. 
+
+#PAGE1 Missions\Pictures\faces 9
+Solange Sie das Dorf nicht erreicht haben, sollten Sie ständig bei Ihrem Trupp bleiben. Sie können Ihren Trupp nur leiten, solange Sie für Ihre Kavalleristen sichtbar sind. Der Trupp kämpft zusammen mit dem Befehlshaber besser. 
+
+#PAGE2C Missions\Pictures\ukraine 14
+Die Kampferfahrung der Kosaken hat ihre Angriffs- (+%d) und Verteidigungsfertigkeit (+%d) gesteigert. 
+
+#PAGE2V Missions\Pictures\ukraine 14
+Die Kampferfahrung der Recken hat ihre Angriffs- (+%d) und Verteidigungsfertigkeit (+%d) gesteigert. 
+
+#PAGE4 Missions\Pictures\ukraine 26
+Die Verstärkung aus dem Dorf eilt Ihnen zu Hilfe. 
+
+
+
+#PAGE5 Missions\Pictures\mord_tut 35
+Im Dorf haben Sie eine Depesche vom Zaren erhalten:
+"Wir sind mit Euren Erfolgen im Süden unseres Reiches sehr zufrieden. 
+Wir beauftragen Euch, hier eine Stadt zu bauen und alle Gegner in der Region zu vernichten."
+
+#PAGE10 Missions\Pictures\russia 24
+Die Mission ist gescheitert. Der Husar ist tot.
+
+#PAGE11 Missions\Pictures\ukraine 14
+Der blaue Gegner ist geschlagen.
+
+
+
+#PAGE12 Missions\Pictures\ukraine 14
+Der grüne Gegner ist geschlagen.
+
+#PAGE20A Missions\Pictures\faces 14
+Im Kampf ist es Ihnen gelungen, Ihre Fertigkeiten zu verbessern (Husarenangriff +1, Verteidigung der Husaren +2) 
+
+#PAGE20B Missions\Pictures\mord_tut 38
+Seine Majestät, der Zar von Russland, gratuliert Ihnen und schenkt Ihnen ein besonderes Schwert (Husarenangriff +1, Verteidigung der Husaren +2). 
+
+#PAGE20 Missions\Pictures\faces 14
+Alle Gegner sind geschlagen.
+                    Sieg!!!!!!!!!!!

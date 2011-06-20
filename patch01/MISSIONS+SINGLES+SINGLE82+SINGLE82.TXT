@@ -1,0 +1,37 @@
+#BRIEFING faces 0
+Die Grenze von Piemont
+
+{A}Attackieren Sie die Stadt im Norden.
+{B}~Attackieren Sie die Stadt im Norden.~
+{C}Begleiten Sie die venezianischen Pilger in ein Kloster im Norden.
+{D}~Begleiten Sie die venezianischen Pilger in ein Kloster im Norden.~
+{E}Vernichten Sie die Franzosen.
+
+!Für den Sieg müssen Sie die Franzosen vernichten.
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren.
+
+#PAGE1 Missions\Pictures\faces 34
+Der Krieg mit Frankreich hat begonnen. Französische Truppen marschieren durch Piemont nach Österreich. Ihre Verbündeten, die Österreicher, führen Kampfhandlungen, um den Gegner aufzuhalten. 
+
+#PAGE2 Missions\Pictures\mord2_tut 13
+Sie sind in dem Grenzgebiet angekommen. Die Stadt, in die Sie kommen sollten, wurde von den Franzosen eingenommen. Sie sollen die Stadt befreien. Unterwegs haben sich Ihnen venezianische Pilger angeschlossen. Sie sind einverstanden, sie bis zum Kloster zu begleiten. 
+
+#PAGE3  Missions\Pictures\mord2_tut 21
+Ihre Truppen sind zerschlagen. 
+Sie erleiden eine Niederlage.
+
+#PAGE4  Missions\Pictures\austria 45
+Sie haben die französischen Truppen vernichtet.
+Gratulation! Das war kein leichter Sieg. 
+
+#PAGE5  Missions\Pictures\mord2_tut 23
+Ausgezeichnet! Die Stadt ist frei.
+Beginnen Sie damit, eine starke Garnison zu bilden. Die Franzosen werden sicher ein Vergeltungskommando zu Ihnen schicken. 
+Jetzt ist die Zeit gekommen, das Hauptziel der Mission zu erfüllen. Vernichten Sie die Franzosen! 
+
+#PAGE6  Missions\Pictures\faces 28
+Sie haben die Pilger zum Kloster gebracht. Dort sind sie sicher. Dankbare Mönche haben Ihnen 4000 Goldmünzen gegeben. 
+
+#PAGE7  Missions\Pictures\algeria 1
+
+#PAGE8  Missions\Pictures\algeria 1

@@ -1,0 +1,1 @@
+Türkische Flotillen umfassten eine große Anzahl verschiedener exotischer ein- und zweimastiger Schiffe. Sie wurden sowohl vom Militär als Patrouillen- und Botenschiffe als auch von Piraten bei ihren wilden Überfällen auf die Botenschiffe der christliche Seefahrt eingesetzt. 

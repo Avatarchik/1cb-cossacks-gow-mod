@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A}	Unter feindlichem Beschuss 
+ 
+Ihre Aufgabe ist es, Schweden und Bayern zu neutralisieren, die Inseln im Süden besetzt haben. Frankreich ist Verbündeter von Schweden und Bayern und wird versuchen, Sie auf alle erdenklichen Arten zu bekämpfen. Außerdem müssen Sie auch das Rathaus vor dem Gegner schützen. 
+Sie erleiden eine Niederlage, wenn Ihr Hauptcharakter ums Leben kommt oder wenn Sie das Rathaus verlieren. 
+ 
+Ziele:
+{B}Vernichten Sie die Allianz von Schweden und Bayern. 
+{C}~Vernichten Sie die Allianz von Schweden und Bayern.~
+{D}Zerstören Sie die französischen Werften östlich von Ihnen. Diese Werften bauen Schiffe, die Ihre Einrichtungen angreifen. 
+{E}~Zerstören Sie die französischen Werften östlich von Ihnen. Diese Werften bauen Schiffe, die Ihre Einrichtungen angreifen.~
+{F}Zerstören Sie das Banditenlager auf Ihrer Insel. 
+{G}~Zerstören Sie das Banditenlager auf Ihrer Insel.~
+
+#PAGE0AA Missions\Pictures\faces 9
+Neutralisieren Sie die Allianz von Schweden und Bayern, die südliche Inseln eingenommen haben. Frankreich hat seine Flotte mobilisiert, nachdem es von Ihrer Ankunft erfahren hat, und wird Ihre Einrichtungen angreifen. Schützen Sie Ihr Rathaus! Damit die Franzosen mit ihren Angriffen aufhören, muss man ihre Werften östlich von Ihnen zerstören. 
+  
+#PAGE0AB Missions\Pictures\faces 9
+Benutzen Sie Mörser für die Vernichtung der Häfen. 
+
+#PAGE0A Missions\Pictures\faces 31
+Eliminieren Sie den Befehlshaber der Franzosen! Ohne Anführer können die Franzosen nicht weiter kämpfen. Wenn Ihr Hauptcharakter danach das Rathaus erreichen kann, werden Sie zum Befehlshaber der Franzosen.
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager zerstört und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\poland 4
+Räuber auf Ihrer Insel! Zerstören Sie ihr Lager!!
+
+#PAGE3 Missions\Pictures\austria 45
+Sie haben den Franzosen ihren Anführer genommen und Ihr Hauptcharakter hat das Rathaus erreicht! Die französischen Truppen und Einrichtungen stehen Ihnen nun zur Verfügung!
+
+#PAGE7 Missions\Pictures\England 5
+Gratulation! Die Häfen sind zerstört! Nun werden die französischen Schiffe Ihre Einrichtungen vom Osten aus nicht angreifen.
+
+#PAGE7A Missions\Pictures\England 5
+Gratulation! Die französische Werft im Süden ist zerstört!
+
+#PAGE7B Missions\Pictures\England 5
+Gratulation! Die französische Werft im Norden ist zerstört!
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Die Allianz von Schweden und Bayern ist vernichtet!
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Schweden ist neutralisiert! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Bayern ist neutralisiert! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Sie haben Ihr Rathaus nicht schützen können und verloren. 

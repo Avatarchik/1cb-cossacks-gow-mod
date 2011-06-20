@@ -1,0 +1,15 @@
+#BRIEFING faces 0
+{A} Burg der hundert Kanonen
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die österreichische Festung.
+
+#PAGE0 Missions\Pictures\poland 7
+Ihre Aufgabe ist es, die österreichische Festung zu vernichten. 
+Das ist fast unmöglich, da die Festung für uneinnehmbar gehalten wird.  
+Aber die Festung benötigt eine Unmenge von Ressourcen für ihren Unterhalt. 
+Blockieren Sie die Karawanenwege zur Festung. Wenn die Ressourcen dort ausgegangen sind, ist die Festung schutzlos. 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

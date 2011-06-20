@@ -1,0 +1,7 @@
+Um diese Schlacht zu gewinnen, muss die anrückende preußische Armee (blau) drei der fünf spezifizierten Stellungen einnehmen und halten oder die verbündeten russischen und österreichischen Truppen (rot) vollständig vernichten. "Einnehmen" bedeutet hier die Abwesenheit feindlicher Truppen und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die Russen oder Österreicher gewinnen, wenn sie den Feind völlig vernichten oder es schaffen, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+
+Es wird um die folgenden Stellungen gekämpft:
+1 - Brücke
+2, 3, 4, 5 - Feldbefestigungen der russischen Armee
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} Gebirgslabyrinth
+ 
+Der Befehl des polnischen Königs lautet, die Allianz von Russland, der Ukraine und der Türkei zu neutralisieren. Dafür müssen Sie das Kommandozentrum finden und den russischen General, den Befehlshaber der verbündeten Truppen, eliminieren. 
+Passen Sie aber auf, es gibt in der Region viele Schurken. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B} Neutralisieren Sie die Allianz von Russland, der Ukraine und der Türkei.
+{C} ~ Neutralisieren Sie die Allianz von Russland, der Ukraine und der Türkei.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie sollen die Allianz von Russland, der Ukraine und der Türkei zerschlagen! Dafür müssen Sie das Kommandozentrum finden und den General (orangefarben), den Befehlshaber der verbündeten Truppen, umbringen. Der General wird von persönlichen Elitenleibwächtern (orangefarben) überwacht.  
+Ihr Sieg kommt auf Ihre Geschwindigkeit an! Sie müssen einen Trupp aus der schnellen Kavallerie bilden und die Gegend untersuchen. 
+
+#PAGE0B Missions\Pictures\faces 31
+Versteckte Engpässe in Gebirgen und dichten Wäldern werden von Räubern bewohnt, die zu allem fähig sind, wenn sie Gold glitzern sehen. Sie haben von Ihrer Ankunft erfahren, seien Sie also auf der Hut! 
+
+#PAGE0C Missions\Pictures\faces 31
+Der General vermehrt die Anzahl seiner Wächter! Beeilen Sie sich! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager vernichtet und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE8 Missions\Pictures\mord_tut 3
+Sie haben die Allianz von Russland, der Ukraine und der Türkei zerschlagen und GEWONNEN!!!!!!!
+
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Russland zerschlagen!
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die Ukraine zerschlagen!
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben die Türkei zerschlagen!
+
+#PAGE10 Missions\Pictures\mord_tut 3
+Gratulation!! Sie haben die Allianz von Russland, der Ukraine und der Türkei zerschlagen und haben es geschafft, der Allianz die Führung zu rauben, indem Sie den General ermordet haben! SIEG!!!!!!! Hurra!! 

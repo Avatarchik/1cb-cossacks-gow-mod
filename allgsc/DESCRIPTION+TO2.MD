@@ -1,0 +1,1 @@
+Befestigung. Kann nur durch Artillerie, Flotten, Grenadiere oder Bogenschützen zerstört werden. Die Feuerrate kann durch Aufrüstung der Kanonenzahl im Turm erhöht werden. Aufrüstungen sollten an jedem Turm einzeln vorgenommen werden. Benötigt viel Kohle und Eisen für die Kanonen.

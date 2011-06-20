@@ -1,0 +1,26 @@
+#BRIEFING faces 0
+{A} Die österreichische Grenze
+
+!Sie müssen die österreichische Stadt erobern. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen werden. 
+
+#PAGE1 Missions\Pictures\algeria 1
+Die Türkei hat Österreich den Krieg erklärt und ihr Territorium angegriffen. Die Armee des Osmanischen Reiches ist stark und zahlreich, sie ist fähig, das Heilige Römische Reich zu besiegen. Eines der Ziele des Kriegszuges ist die Hauptstadt von Österreich, Wien. 
+Ihre Truppen befinden sich an der Flanke der Haupteinheiten. Sie müssen den Aufstand der einheimischen Einwohner unterdrücken und sich auf dem besetzten Territorium halten. 
+Bauen sie dort Verteidigungseinrichtungen und Kasernen für die Soldaten. 
+Wenn unsere Armee die Österreicher auch bedrängt, müssen Sie doch auf österreichische Gegenangriffe vorbereit sein. 
+
+#PAGE2 Missions\Pictures\algeria 3
+Die Österreicher haben unsere Bauern gefangen genommen. Sie müssen sie befreien, sonst gibt es keine Möglichkeit, Ressourcen zu gewinnen und Kasernen zu bauen. 
+
+#PAGE3 Missions\Pictures\austria 16
+Niederlage ...
+
+#PAGE5 Missions\Pictures\england 35
+Sie haben die österreichische Stadt vernichtet!!!
+Gratulation!!! Das war kein leichter Sieg. 
+
+#PAGE6 Missions\Pictures\ukraine 7
+Ausgezeichnet! Sie haben die Bauern befreit. Nun können Sie mit dem Bau der Siedlung und dem Ressourcenabbau beginnen. 
+
+

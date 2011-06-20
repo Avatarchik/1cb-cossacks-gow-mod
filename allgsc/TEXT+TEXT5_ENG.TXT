@@ -1,0 +1,69 @@
+WAR_RUN Diese Schlacht wählen
+WAR_CANCEL Vorheriges Menü
+BTL_RUN Diese Schlacht spielen
+BTL_CANCEL Vorheriges Menü
+BTN_General Allgemein
+BTN_Descr Beschreibung
+BTN_Upgr Einheitenaufr.
+//BTN_Descr Spielerbeschreibung
+//BTN_Upgr Einheitenaufrüstung
+BTN_Next Weiter
+BTN_Prev Zurück
+BTN_PriceUpg Preis&Aufrüstungen
+UI_Price Preis:
+UI_Upkeep Instandhaltung:
+UI_UGold Gold (Arbeiter\1000 Einh.): %d
+UI_UIron Eisen (pro Schuss): %d
+UI_UCoal Kohle (pro Schuss): %d
+UI_UStone Stein (je 100 Blöcke): %d
+UI_UWood Holz (je 100 Blöcke): %d
+UI_STAGE Bauzeit: %d
+UI_AttUpg Angriffsaufrüstungen
+UI_ShlUpg Schildaufrüstungen
+UI_Cost Kosten:
+UI_CostTo Aufrüstungskosten für diese Stufe:\
+UI_AttTo Angriff auf dieser Stufe:
+UI_ShlTo Verteidigung auf dieser Stufe:
+UI_ATT0 Schwertangriff
+UI_ATT1 Pfeilangriff
+UI_ATT2 Pikenangriff
+UI_ATT3 Kanonenkugel-Schaden
+UI_ATT4 Feuerkraft
+UI_ATT5 Kartätschen-Schaden
+UI_ATT6 Mörser-Projektil
+UI_SHL0 Schutz gegen Schwerter
+UI_SHL1 Schutz gegen Pfeile
+UI_SHL2 Schutz gegen Piken
+UI_SHL3 Schutz gegen Kanonenkugeln
+UI_SHL4 Schutz gegen Geschosse
+UI_SHL5 Schutz gegen Kartätschen
+UI_SHL6 Schutz gegen Mörser-Projektile
+UI_SATT0 Anfänglicher Schwertangriff
+UI_SATT1 Anfänglicher Pfeilangriff
+UI_SATT2 Anfänglicher Pikenangriff
+UI_SATT3 Anfänglicher Kanonenkugel-Schaden
+UI_SATT4 Anfängliche Schusskraft
+UI_SATT5 Anfänglicher Kartätschen-Schaden
+UI_SATT6 Anfänglicher Mörser-Projektil-Schaden
+UI_SSHL0 Anfänglicher Schutz gegen Schwerter
+UI_SSHL1 Anfänglicher Schutz gegen Pfeile
+UI_SSHL2 Anfänglicher Schutz gegen Piken
+UI_SSHL3 Anfänglicher Schutz gegen Kanonenkugeln
+UI_SSHL4 Anfänglicher Schutz gegen Geschosse
+UI_SSHL5 Anfänglicher Schutz gegen Kartätschen
+UI_SSHL6 Anfänglicher Schutz gegen Mörser-Projektile
+UI_ACCNT Kosten: %.2f
+UI_ACHINT Durch das Erzeugen von Einheiten erhalten Sie Punkte. Der Verlust einer Einheit führt dazu, dass ihr doppelter Wert in Punkten abgezogen wird. Der Gegner erhält die dreifache Punktzahl.
+UI_ACHCAP Wird Ihre Einheit gefangen, verlieren Sie die fünffache Punktzahl; der Gegner erhält dieselbe Menge an Punkten.
+UI_CAPT Einheit eingenommen möglich.
+UI_BCAP Gebäude eingenommen möglich.
+UI_HEAL Die Einheit kann mit der Akademie geheilt werden.
+ST_MAX Statistiken: Bevölkerung und Aufrüstungen
+UM_MENU Spielmenü (F12)
+UM_INF1 Einheiten-Info anzeigen (U)
+UM_INF2 Einheiten-Info verbergen (U)
+UM_INF3 Spielinfo anzeigen (I)
+UM_INF4 Spielinfo verbergen (I)
+UM_MINI Minikarten-Modus wechseln (M)
+UM_HIST Bisherige Nachrichten
+UM_NORT Dieses Spiel nicht werten

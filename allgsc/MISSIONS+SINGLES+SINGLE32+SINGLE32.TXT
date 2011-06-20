@@ -1,0 +1,84 @@
+#BRIEFING faces 0
+{A} Mitteleuropa 
+
+Sie haben gewonnen, wenn Sie die Truppen aller Gegner in der Region zerschlagen können (blau, grün, schwarz). 
+Sie haben verloren, wenn all Ihre Kräfte zerschlagen werden. 
+
+#PAGE0 Missions\Pictures\faces 9
+In Europa werden Kriege geführt, die Länder versinken im Chaos. Um Sie herum sind nur feindliche Truppen. Aber ...
+Ein Trupp tapferer Reiter, die nur ihre treuen Pferde, Waffen und ihren Mut besitzen, führt ein freies Leben. Sie verfügen auch über ein Blockhaus, das im Wald in den Bergen versteckt ist. 
+Freundliche Städte liegen im Nordwesten und im Südosten. Diese Städte sind sehenswert ... Man kann dort interessante Dinge erfahren. 
+
+#PAGE01 Missions\Pictures\austria 18
+Die Einheimischen haben Ihnen mitgeteilt, dass man in der Stadt Söldner anwerben und die Angriffs- und Verteidigungsparameter der Kavallerie verbessern kann (eine Schmiede und Pferdeställe stehen Ihnen zur Verfügung). 
+Dazu haben Sie erfahren, dass der Stadtbürgermeister eine Prämie für die Vernichtung von Räuberbanden ausgesetzt hat, die in der Nähe ihr Unwesen treiben.
+In der Stadt gibt es einen Markt und eine Kirche.
+
+#PAGE02 Missions\Pictures\austria 18
+Die Einheimischen haben Ihnen mitgeteilt, dass man in der Stadt Söldner anwerben und die Angriffs- und Verteidigungsparameter der Kavallerie verbessern kann (eine Schmiede und Pferdeställe stehen Ihnen zur Verfügung). 
+Dazu haben Sie erfahren, dass der Stadtbürgermeister eine Prämie für die Vernichtung von Räuberbanden ausgesetzt hat, die in der Nähe ihr Unwesen treiben.
+In der Stadt gibt es einen Markt. 
+
+#PAGE03 Missions\Pictures\austria 18
+Die Einheimischen haben Ihnen mitgeteilt, dass man in der Stadt Söldner anwerben kann (ein Diplomatiezentrum steht zu Ihrer Verfügung). 
+In der Stadt gibt es einen Markt und eine Kathedrale. 
+
+#PAGE1 Missions\Pictures\austria 12
+Auf dem Markt haben Sie erfahren, dass der Preis für die Begleitung von Kaufmanns-Packpferden für heute folgender ist: %d Gold.
+
+#PAGE2 Missions\Pictures\faces 0
+Ein Kaufmann auf dem Markt:
+- Ich brauche eine Eskorte für mein Packpferd. Ich befürchte einen Überfall. Könnt Ihr mein Packpferd bis zur Brücke im Südosten begleiten? 
+
+#PAGE3 Missions\Pictures\faces 0
+Ein Kaufmann:
+- Danke. Nehmt das Geld. Übrigens könnt Ihr in der Stadt hinter der Brücke Söldner anwerben. 
+
+#PAGE4 Missions\Pictures\faces 4
+Der Kaufmann ist ermordet worden. Das Packpferd gehört somit Euch. Es ist mit %d Nahrung beladen.
+
+#PAGE4B Missions\Pictures\faces 4
+Der Kaufmann ist ermordet worden. Das Packpferd ist verloren. 
+
+#PAGE5 Missions\Pictures\faces 5
+Als Sie in den Sachen der Banditen wühlen, entdeckten Sie %d Goldmünzen. 
+
+#PAGE6 Missions\Pictures\mord2_tut 7 
+Der Bürgermeister der Nachbarstadt hat die versprochene Prämie für die Vernichtung der Bande, %d Goldmünzen, ausbezahlt. 
+
+#PAGE7 Missions\Pictures\faces 0
+Ein Kaufmann auf dem Markt:
+- Ich brauche Schutz für mein Packpferd. Ich befürchte einen Überfall. Könnt Ihr mein Packpferd bis zur Brücke im Nordwesten begleiten? 
+#PAGE8 Missions\Pictures\faces 0
+Der Kaufmann:
+- Danke. Nehmt das Geld. 
+
+#PAGE10 Missions\Pictures\faces 9
+Die Mission ist gescheitert. Der Trupp ist zerschlagen. 
+
+#PAGE11 Missions\Pictures\faces 9
+Der blaue Gegner ist geschlagen.
+
+#PAGE12 Missions\Pictures\faces 9
+Der grüne Gegner ist geschlagen. 
+
+#PAGE13 Missions\Pictures\faces 9
+Der violette Gegner ist geschlagen. 
+
+#PAGE14 Missions\Pictures\faces 9
+Der orangefarbene Gegner ist geschlagen. 
+
+#PAGE15 Missions\Pictures\faces 9
+Der schwarze Gegner ist geschlagen. 
+
+#PAGE16 Missions\Pictures\faces 9
+Nachdem der schwarze Gegner bemerkt hat, dass Sie stärker geworden sind und dass Sie ein Rathaus besitzen, begann er einen Krieg. 
+
+#PAGE20 Missions\Pictures\faces 14
+Gratulation!!! Sieg!!!!!
+der Frieden ist wiedergekehrt. 
+   
+Gratulation!
+
+#PAGE21 Missions\Pictures\faces 14
+Nationswahl:

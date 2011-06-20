@@ -1,0 +1,51 @@
+#BRIEFING faces 0
+{A} Schneller in das 18. Jahrhundert! 
+ 
+Ihre Aufgabe ist es, möglichst schnell in das 18. Jahrhundert überzugehen und danach die Allianz von England, Schweden, Russland und Polen zu neutralisieren. 
+Ihr Verbündeter, Bayern, wird Ihnen helfen, den Gegner aufzuhalten. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B} Gehen Sie in das 18. Jahrhundert über.
+{C}~Gehen Sie in das 18. Jahrhundert über.~
+{D} Neutralisieren Sie die Allianz von England, Schweden, Russland und Polen.
+{E}~ Neutralisieren Sie die Allianz von England, Schweden, Russland und Polen.~
+
+#PAGE0A Missions\Pictures\mord3_tut 10
+Sie sollen möglichst schnell in das 18. Jahrhundert übergehen und danach die Allianz von England, Schweden, Russland und Polen vernichten! Für diesen Übergang haben Sie 10 Minuten, während derer Sie durch bayerische Truppen geschützt werden. Der französische König setzt viel auf Sie und wenn Sie erfolgreich sind, wird er Sie reich belohnen! 
+
+#PAGE0B Missions\Pictures\faces 31
+%d Minuten sind vorbei!
+
+#PAGE0C Missions\Pictures\poland 19
+Gratulation! Sie sind in %d Minuten und %d Sekunden in das 18. Jahrhundert übergegangen! Dafür schenkt der französische König Ihnen %d Gold! Bayern ist begeistert und stellt seine Truppen unter Ihre Leitung! 
+
+#PAGE0 Missions\Pictures\faces 7
+Gratulation! Sie sind in das 18. Jahrhundert übergegangen! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE1B Missions\Pictures\austria 27
+Ihre Zeit ist leider abgelaufen! Der französische König ist sehr enttäuscht und wird Ihnen nicht helfen! Die verbündeten bayerischen Einheiten verlassen in Panik das Feld. Nun wird es schwer sein, den Gegner zu bewältigen! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von England, Schweden, Russland und Polen neutralisiert. 
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Engländer vernichtet! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die Schweden vernichtet! 
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben die Russen vernichtet! 
+
+#PAGE8D Missions\Pictures\austria 6
+Gratulation! Sie haben die Polen vernichtet! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erledigt und gewonnen!!!

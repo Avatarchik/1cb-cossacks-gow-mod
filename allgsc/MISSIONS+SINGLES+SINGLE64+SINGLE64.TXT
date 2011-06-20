@@ -1,0 +1,39 @@
+#BRIEFING faces 0
+{A} Zu Wasser und zu Lande
+   
+Sie haben gewonnen, wenn Sie den Angriffen der verbündeten Länder Spanien, Portugal und Frankreich nur mit eigenen Kräften widerstehen und alle Gegner in der Region vernichten. 
+Sie haben verloren, wenn Ihre Einheiten zerschlagen werden. 
+   
+#PAGE0 Missions\Pictures\faces 14
+Niederländische Kolonisten haben vor, in dieser Gegend eine Siedlung zu schaffen. Feindliche Festungen und Städte liegen in der Nähe, die nicht besonders erfreut sind über die neuen Siedler. 
+Der Feind ist alarmiert! Befestigen Sie Ihre Position so schnell wie möglich! 
+
+#PAGE1 Missions\Pictures\mord2_tut 21
+Die spanische Festung ist eingenommen.
+
+#PAGE2 Missions\Pictures\mord2_tut 23 mord2_tut 0 2
+Die französische Festung ist eingenommen.
+
+#PAGE3 Missions\Pictures\mord2_tut 0
+Die Franzosen haben einen Feldzug gegen Sie gestartet.  
+
+#PAGE4 Missions\Pictures\mord2_tut 2
+Die Portugiesen haben einen Feldzug gegen Sie gestartet.
+
+#PAGE10 Missions\Pictures\austria 31
+Die Mission ist gescheitert ... Alle Siedler kamen ums Leben ... 
+
+#PAGE11 Missions\Pictures\faces 9
+Die regulären französischen Einheiten in der Region sind zerschlagen (der blaue Gegner). 
+
+#PAGE12 Missions\Pictures\faces 9
+Die regulären spanischen Einheiten in der Region sind zerschlagen (der grüne Gegner). 
+
+#PAGE13 Missions\Pictures\faces 9
+Die regulären portugiesischen Einheiten in der Region sind zerschlagen (der violette Gegner). 
+
+
+#PAGE20 Missions\Pictures\faces 14
+
+
+Die ganze Region ist zerschlagen. Sieg!!!

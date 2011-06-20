@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A} Ein schlechter Nachbar
+
+Für den Sieg müssen Sie den Gegner vernichten. 
+Sie haben verloren, wenn Sie ohne Truppen sind. 
+  
+#PAGE1 Missions\Pictures\austria 3
+Dank der günstigen geografischen Lage an der Kreuzung der Handelswege ist das sächsische Kurfürstentum eines der reichsten Länder Deutschlands. 
+Sie haben als junger Offizier gute Aussichten auf Beförderung und ein gutes Auskommen. Ihre Aufgabe ist es, Ihre eigene Kompanie zu schaffen, eine Kaserne zu bauen und den Truppen Proviant zu besorgen. 
+Mit einem kleinen Trupp von Soldaten und Arbeitern machen Sie sich auf den Weg ins Grenzgebiet. Dort müssen Sie eine kleine Militärsiedlung bauen: eine Mühle, ein Rathaus, Wohnhäuser, Minen zum Abbau von Gold, Metall und Salpeter. Ihre Arbeiter werden die Felder bewirtschaften und Ressourcen gewinnen. Holz und Stein für den Kasernenbau muss ebenfalls beschafft werden. 
+Wenn Ihre Finanzlage ausreichend ist, beginnen Sie damit, zusätzliche Soldaten anzuheuern. 
+
+#PAGE2 Missions\Pictures\austria 17
+Sie müssen eine befestigte Stadt bauen, die den Handel in der Region fördert und sie gegen Räuber- und Nachbarangriffe schützt. 
+
+#PAGE3  Missions\Pictures\ukraine 24
+Ein Serdiuke wendet sich an Sie:
+
+#PAGE4  Missions\Pictures\ukraine 15
+Unser Trupp könnte sich Euch für 1000 Gold anschließen. 
+
+#PAGE5  Missions\Pictures\ukraine 16
+Euer Geld reicht nicht aus. 
+
+#PAGE6  Missions\Pictures\ukraine 16
+Da Ihr unsere Hilfe nicht benötigt, wollen wir Euch nicht länger aufhalten. 
+
+#PAGE7  Missions\Pictures\ukraine 10
+Ein Sich-Kosake wendet sich an Sie.
+
+#PAGE8  Missions\Pictures\ukraine 15
+Wir könnten Euch für 2000 Gold dienen.
+
+#PAGE9  Missions\Pictures\ukraine 14
+Wenn Ihr kein Geld habt, warten wir, bis Ihr welches erhaltet. 
+
+#PAGE10  Missions\Pictures\ukraine 14
+Wie Ihr wünscht.
+
+#PAGE11  Missions\Pictures\england 16
+Sie haben das Räuberlager vernichtet.
+Als Sie das Lager durchsuchen, entdecken Sie 2000 Gold.
+
+#PAGE12  Missions\Pictures\england 24
+Als Sie das Lager durchsuchen, entdecken Sie eine Beute von 1000 Gold. 
+
+#PAGE13  Missions\Pictures\england 25
+Beim Durchwühlen der Taschen der Räuber entdecken Sie 1000 Goldmünzen. 
+
+#PAGE14  Missions\Pictures\austria 14
+Sie haben verloren ... Schade ...
+
+#PAGE15  Missions\Pictures\austria 6
+Sieg!!
+
+#PAGE16  Missions\Pictures\faces 0
+Einwohner einer Fischersiedlung sind bereit, Ihnen zu dienen, wenn Sie sie schützen. 

@@ -1,0 +1,109 @@
+#BRIEFING faces 0
+{Q} Goldfieber
+ 
+Um zu gewinnen, müssen Sie die dänischen Truppen vernichten. 
+Sie haben verloren, wenn Ihre Armee zerschlagen wird. 
+ 
+Gegenwärtiges Ziel:
+{W}Begeben Sie sich zum schwedischen Fort.
+{I}~Begeben Sie sich zum schwedischen Fort.~
+{E} Hinweise:
+{R}Die Dänen befinden sich im Südwesten. 
+{T}Verlassen Sie die Straße nicht; dann verlaufen Sie sich nicht.  
+{Y}In diesen Wäldern gibt es viele hungrige Trunkenbolde und Nichtstuer. Sie werden alles, was Sie haben, stehlen und es im nächsten Bordell verschwenden, und Sie werden getötet. Wenn diese Leute Blut sehen, blitzen ihre Augen, denn das ist das größte Genuss für sie. 
+{U}Handel mit Verbündeten ist nur möglich, wenn Sie über einen Markt verfügen. 
+
+#Allert0 missions\pictures\austria 10
+Ich sehe schmierige und stinkende Leute in abgetragenen Gewändern. Zu den Gewehren, das sind Räuber!!  
+
+#Allert1 missions\pictures\austria 10
+Seid gegrüßt, kühner Krieger! Gott sei Dank, dass Ihr schon eingetroffen seid. Ich wurde geschickt, um Euch zur Eile zu bitten. Unser Fort wurde von einer Räuberbande überfallen. Ohne Euch schaffen wir es nicht! Beeilt Euch! 
+
+
+#Allert1.0 missions\pictures\austria 10
+Offizier, ich werde Euch bewachen, bis wir ins Fort kommen. 
+
+#MarketLost missions\pictures\austria 10
+Der Markt ist verloren. Der Handel mit Verbündeten ist unmöglich. 
+
+#MarketBuilt missions\pictures\austria 10
+
+Sie haben einen Markt. Nun wird der Handel mit Verbündeten wieder möglich. 
+Wählen Sie den Markt, um einen Kaufmann anzuwerben. 
+
+#MerchantPrice  missions\pictures\austria 10
+Herzlich Willkommen auf dem Markt.
+Ein Kaufmann kostet:
+
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d
+
+#MarketMainMenu missions\pictures\austria 10
+
+Möchten Sie einen Kaufmann anwerben?
+
+#MerchantMainMenu missions\pictures\austria 10
+Was wünscht Ihr, mein Herr?
+
+#MerchantInfoMenu missions\pictures\austria 10
+Das hier ist ein Alptraum - je länger er dauert, desto furchtbarer wird er.
+Was interessiert Euch besonders, mein Herr?
+
+#Buiznes missions\pictures\austria 10
+Anzahl der Packpferde in der Karawane: %d
+
+Ein neues Packpferd kostet:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Packpferde können die folgenden Lasten tragen: 
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Ein gutes Geschäft ergibt:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+
+#MakeOboz missions\pictures\austria 10
+Möchten Sie ein Packpferd kaufen?
+
+#MerchantSucsess missions\pictures\austria 10
+Seid gegrüßt, mein Herr!
+Wir haben unser Ziel erfolgreich erreicht.
+Als Ergebnis erhaltet Ihr:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+#CancelTrading missions\pictures\austria 10
+Ich habe das Packpferd gerade beladen und mache mich auf den Weg. Wenn Ihr Euch nicht auf den Weg macht, bedeutet das den Verlust der Ware. 
+Möchten Sie den Zug abbrechen?
+
+#TooManyOboz missions\pictures\austria 10
+Ich kann so eine große Anzahl von Packpferden nicht überwachen. 
+
+#KaravanEmpty missions\pictures\austria 10
+Ich kann ohne Packpferde nicht handeln. 
+
+#MerchantDie missions\pictures\austria 10
+Sie haben den Kaufmann verloren. Um einen neuen anzuwerben, wählen Sie den Markt.
+
+#Entry0 missions\pictures\austria 10
+Der schwedische König hat vor, sein Gebiet zu erweitern und dänisches Territorium eingenommen. Sie erhalten eine Depesche mit der Nachricht, dass die Kolonie gefährdet ist!
+Der König befiehlt Ihnen, ins Fort zu fahren und die Führung zu übernehmen. 
+
+#Trans missions\pictures\austria 10
+
+Endlich seid Ihr da!! Wir übergeben Euch das Fort. 
+Dies ist der momentane Stand:
+Bei genauer Überprüfung haben wir entdeckt, dass dieses Gebiet arm an Gold ist. Das hat unsere Entwicklung verlangsamt. 
+Wir haben aber nicht aufgegeben und Handel mit dem nördlichen Nachbarn angefangen. Für uns bedeutet das die Rettung: er verkauft Gold billiger als Gras. 
+Handel ist nur möglich, wenn es einen Markt gibt. 
+Es gibt aber auch schlechte Nachrichten: Die unbewohnten Gebiete sind voller Räuber. Die meisten davon sind französische Geflohene, ehemalige Zuchthäusler. 
+Die Dänen bereiten dazu noch einen Kriegszug vor und haben sich vorgenommen, uns aus diesen Gebieten zu vertreiben. 
+
+#Target0 missions\pictures\austria 10
+Nur die vollständige Vernichtung der Dänen wird den Sieg sichern. Viel Glück!!!
+
+#LittleMoney missions\pictures\austria 10
+Ressourcen reichen nicht aus!
+
+#Defeat missions\pictures\austria 10
+Sie haben alle Truppen verloren.
+
+#Victory missions\pictures\austria 10
+Gratulation! Die Dänen sind vernichtet.
+Sieg!!!

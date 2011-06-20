@@ -1,0 +1,23 @@
+#BRIEFING faces 0
+{A} Dorf der Verdammnis
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die Diplomatiezentren des Feindes. 
+
+#PAGE0 Missions\Pictures\England 29
+Ihr Dorf ist schutzlos angesichts der Scharen von Söldnern, die die friedliche Bevölkerung ermorden. Sie müssen möglichst schnell einen Trupp bilden und die Abwehr um das Dorf herum organisieren. 
+
+#PAGE1 Missions\Pictures\England 29
+Befehl:
+
+#PAGE2 Missions\Pictures\England 29
+  
+Sieg!!!
+Die feindlichen Truppen sind zerschlagen.
+
+#PAGE4 Missions\Pictures\England 29
+Niederlage!
+Die Stadt hat angesichts der feindlichen Angriffe aufgegeben ...
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

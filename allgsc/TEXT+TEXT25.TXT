@@ -1,0 +1,5 @@
+FILLFRM Formation ergänzen
+CM_DOGRP Formation gruppieren
+CM_UNGRP Gruppierung auflösen
+DECFORM Formationsgröße vermindern
+INCFORM Formationsgröße vermehren

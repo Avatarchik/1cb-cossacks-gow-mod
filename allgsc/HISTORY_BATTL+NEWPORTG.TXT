@@ -1,0 +1,6 @@
+Das Ziel der spanischen Armee (rot) ist, die Blockade von Newport zu brechen, indem sie drei von fünf durch die Niederländer (blau) besetzte Zonen einnimmt.  
+Die Niederlande siegen, wenn sie die Festung erobern. Newport gilt als erobert, sobald n der Festung keine feindlichen Einheiten mehr sind. 
+
+Die spanischen Kroaten wurden deutlich verstärkt. 
+Die Truppen von Newport werden vom Spieler übernommen, wenn sich mindestens eine rote Einheit in Zone X befindet. 
+

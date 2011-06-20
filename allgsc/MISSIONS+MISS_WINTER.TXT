@@ -1,0 +1,4 @@
+WR_1 Schweden
+WR_2 Russland
+WR_3 Polen
+WR_4 Ukraine

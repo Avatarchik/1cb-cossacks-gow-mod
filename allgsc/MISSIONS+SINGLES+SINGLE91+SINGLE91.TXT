@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+Am Rhein
+
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen oder Packpferde verlieren oder die Zeit verschwenden. 
+
+Gegenwärtiges Ziel:
+{A}Sammeln Sie 100000 Nahrung, 20000 Eisen und 20000 Kohle.
+{B}~Sammeln Sie 100000 Nahrung, 20000 Eisen und 20000 Kohle.~
+{C}Bringen Sie die Packpferde zum Schiff.
+
+#PAGE1 Missions\Pictures\mord2_tut 0
+Die Armee des sächsischen Prinzen Friedrich August nimmt mit Österreich am Krieg gegen Frankreich teil. Ihre vor kurzem geschaffene Kompanie soll an dieser Kampagne teilnehmen. Sie werden die Flanke der siegreichen sächsischen Armee schützen und sie ununterbrochen mit Proviant und Munition versorgen. Dafür müssen Sie eine für den Krieg und Ihre Wirtschaft sehr günstige Position besetzen. Bauen Sie dort eine Kriegssiedlung: eine Kaserne, ein Holzfort und einen Pferdestall. Sie müssen unbedingt einen kleinen Reitertrupp aufstellen, damit die Strassen überwacht werden. Dafür ist die leichte Kavallerie am besten geeignet. 
+Passen Sie auf, die Franzosen sind sehr gefährlich und Sie können jederzeit überfallen werden. 
+Sie wurden beauftragt, Proviant und Munition für die sächsische Armee zu besorgen. 
+
+#PAGE2 Missions\Pictures\mord2_tut 13
+Sammeln Sie 100000 Einheiten Nahrung und je 20000 Einheiten Kohle und Eisen. Laden Sie Ressourcen auf ihre Packpferde und bringen Sie die Packpferde zum Transportschiff. 
+Beeilen Sie sich, Ihre Zeit ist knapp!
+ 
+#PAGE3  Missions\Pictures\mord2_tut 21
+Ihre Truppen sind zerschlagen.
+Sie erleiden eine Niederlage ...
+
+#PAGE4  Missions\Pictures\austria 4
+Sie haben die notwendige Menge an Ressourcen gesammelt.
+Bringen Sie ihre Packpferde zum Lagerhaus und beladen Sie sie. 
+
+#PAGE5  Missions\Pictures\austria 14
+Die Zeit ist abgelaufen. 
+Sie haben verloren ...
+
+#PAGE6  Missions\Pictures\austria 0
+Holen Sie die Packpferde zum Transportschiff.
+Achtung! Anliegende Wälder werden von französischer Kavallerie überwacht. 
+
+#PAGE7  Missions\Pictures\mord_d 4
+Die Packpferde sind verloren.  
+Sie haben verloren ...
+ 
+#PAGE8  Missions\Pictures\faces 21
+Der französische Posten ist zerschlagen. Es wird also keine Überfalle mehr geben. Als Sie den Posten durchsuchen, entdecken Sie ein wenig Munition. 
+
+#PAGE9  Missions\Pictures\faces 21
+Der französische Posten ist zerschlagen. Es wird also keine Überfalle mehr geben. Als Sie den Posten durchsuchen, entdecken Sie ein wenig Munition.  
+
+#PAGE10  Missions\Pictures\mord_d 4
+Ihre halbe Zeit ist abgelaufen. Beeilen Sie sich!  
+
+#PAGE11  Missions\Pictures\mord_d 4
+Drei Viertel Ihrer Zeit sind abgelaufen. 
+
+#PAGE12  Missions\Pictures\mord_d 4
+Beeilen Sie sich! Ihre Zeit wird knapp! 
+
+#PAGE14  Missions\Pictures\austria 8
+Ausgezeichnet! Die Aufgabe ist erledigt!
+Ihre Führung vergisst ihre Helden nicht! Eine Auszeichnung erwartet Sie schon! 

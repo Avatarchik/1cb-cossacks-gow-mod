@@ -1,0 +1,235 @@
+#BRIEFING faces 0
+{Q} Kein Ausweg
+  
+Sie sind durch Gold verblendet uns Sie bilden sich ein, Sie wären ein König. 
+Sie haben sich den Ärger des spanischen Königs zugezogen, weil Sie ihn beleidigt haben. 
+Außer dem König werden Sie sein Neffe und ein französische Marquis angreifen. Der König hat auch einheimische Feudale bestochen, die Sie überfallen werden.  
+Es scheint keinen Weg zu geben ... 
+!Sie haben verloren, wenn Ihre Armee zerschlagen wird. 
+ 
+Gegenwärtiges Ziel:
+{W}Fördern Sie den Handel mit dem nördlichen Nachbarn.
+{I}~Fördern Sie den Handel mit dem nördlichen Nachbarn.~
+{Z}Sie können nur auf den Franzosen setzen. Der Kaufmann ist verpflichtet, das Geschäft zu vereinbaren. Setzen Sie den Handel fort. 
+{X}~Sie können nur auf den Franzosen setzen, der Kaufmann ist verpflichtet, das Geschäft zu vereinbaren. Setzen Sie Handel fort.~
+{E}Bauen Sie einen Hafen im Nordosten und schicken Sie einen Boten auf die Insel für Verhandlungen mit den Engländern. 
+{R}~Bauen Sie einen Hafen im Nordosten und schicken Sie einen Boten auf die Insel für Verhandlungen mit den Engländern.~
+{T}Setzen Sie Packpferde mit Gold auf die Insel zu den Engländern über. 
+{Y}~Setzen Sie Packpferde mit Gold auf die Insel zu den Engländern über.~
+{L}
+  
+Hinweise:
+{A}Sparen Sie Gold, es wird Ihnen noch nützlich sein. 
+{S}Der französische Händler verfügt abgesehen von billigem Essen auch über nützliche Informationen. 
+{D}Nachdem Sie den französischen Händler bezahlen, können Sie Räuber kontrollieren. 
+{F}Man kann den Händler nur anwerben, wenn man über einen Markt und ein Rathaus verfügt. 
+
+#Allert0 missions\pictures\austria 10
+  
+#Allert1 missions\pictures\austria 10
+Seid gegrüßt, kühner Krieger! Gott sei Dank, dass Ihr schon eingetroffen seid. Ich wurde geschickt, um Euch zur Eile zu treiben. Unser Fort wurde von einer Räuberbande überfallen. Ohne Euch schaffen wir es nicht! Beeilt Euch! 
+
+#Allert1.0 missions\pictures\austria 10
+Offizier, ich werde Euch schützen, bis wir ins Fort kommen. 
+
+#MarketLost missions\pictures\austria 10
+Der Markt ist verloren. Handel mit Verbündeten ist unmöglich. 
+
+#MarketBuilt missions\pictures\austria 10
+Sie haben einen Markt. Nun wird Handel mit Verbündeten wieder möglich. 
+Wählen Sie einen Markt, um den Kaufmann anzuwerben. Ohne Rathaus können Sie keine Händler anwerben. 
+
+#MerchantPrice  missions\pictures\austria 10
+Herzlich Willkommen auf dem Markt.
+Der Kaufmann kostet:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d
+
+#MarketMainMenu missions\pictures\austria 10
+Wollen Sie einen Kaufmann erstellen?
+
+#MerchantMainMenu missions\pictures\austria 10
+Was wünscht Ihr, mein Herr?
+
+#MerchantInfoMenu missions\pictures\austria 10
+Das hier ist ein Alptraum - je länger er dauert, desto furchtbarer wird er.
+Was interessiert Euch besonders, mein Herr?
+
+#Buiznes missions\pictures\austria 10
+Anzahl der Packpferde in der Karawane: %d
+
+Ein neues Packpferd kostet:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Packpferde können die folgenden Lasten tragen: 
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Ein gutes Geschäft ergibt:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+#MakeOboz missions\pictures\austria 10
+Möchten Sie ein Packpferd kaufen?
+
+#MerchantSucsess missions\pictures\austria 10
+Seid gegrüßt, mein Herr!
+Wir haben unser Ziel erfolgreich erreicht.
+Als Ergebnis erhaltet Ihr:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+#CancelTrading missions\pictures\austria 10
+Ich habe meine Karawane gerade geladen und mache mich auf den Weg. Wenn dieser Transport nicht stattfindet, können wir die Ware verlieren. 
+Möchten Sie den Zug abbrechen?
+
+#KaravanEmpty missions\pictures\austria 10
+Ohne Packpferde gibt es keinen Handel. 
+
+#MerchantDie missions\pictures\austria 10
+Sie haben den Kaufmann verloren. Um einen neuen anzuwerben, wählen Sie den Markt.
+
+#Entry missions\pictures\austria 10
+Gold hat Sie verblendet uns Sie bilden sich ein, Sie wären ein König. 
+Sie haben sich den Ärger des spanischen Königs zugezogen, weil Sie ihn beleidigt haben. 
+Außer dem König wird Sie sein Neffe und ein französische Marquis angreifen. Der König hat auch einheimische Feudale bestochen, die Sie überfallen werden.  
+Es scheint keinen Weg zu geben ... 
+
+
+
+#Trans missions\pictures\austria 10
+Endlich seid Ihr da!! Wir übergeben Euch das Fort. 
+Die gegenwärtige Lage ist wie folgt:
+Bei genauer Überprüfung haben wir entdeckt, dass dieses Gebiet arm an Gold ist. Das hat unsere Entwicklung verlangsamt. 
+Wir haben aber nicht aufgegeben und Handel mit dem nördlichen Nachbarn angefangen. Für uns bedeutet das die Rettung: er verkauft Gold billiger als Gras. 
+Handel ist nur möglich, wenn es einen Markt gibt. 
+Es gibt aber auch schlechte Nachrichten: Die unbewohnten Gebiete sind voller Räuber. Die meisten davon sind französische Geflohene, ehemalige Zuchthäusler. 
+Die Dänen bereiten dazu noch einen Kriegszug vor und haben sich vorgenommen, uns aus diesen Gebieten zu vertreiben. 
+
+
+
+#Target0 missions\pictures\austria 10
+Nur die vollständige Vernichtung der Dänen wird den Sieg sichern. Viel Glück!!!
+
+#NeedHall missions\pictures\austria 10
+Ohne Rathaus Sie den Kaufmann nicht anwerben.  
+Bauen Sie ein Rathaus. 
+
+#LittleMoney missions\pictures\austria 10
+Ressourcen reichen nicht aus!
+
+#Defeat missions\pictures\austria 10
+Sie haben das ganze Heer verloren!
+#Victory missions\pictures\austria 10
+
+Gratulation! Die Dänen sind vernichtet.
+Sieg!!!
+
+#entry missions\pictures\austria 10
+Handlungsknoten
+Ressourcenmangel
+
+#ai0_entry missions\pictures\austria 10 Nicht weit von Ihrem Standort befinden sich Engländer. 
+Vor kurzem ist Ihnen großer Schaden entstanden. Sie haben jetzt eine günstige Gelegenheit, Arbeiter zu erlangen und die Engländer vom ersten Angriff an zu vernichten. 
+
+#ai0_surrender missions\pictures\austria 10
+Ihr seid ein sehr starker Gegner. Wir wollen nicht sterben und unsere Führung hat beschlossen, zu kapitulieren.  
+
+
+
+#eng_capture missions\pictures\austria 10
+Gratulation! Sie haben Engländer gefangen genommen! Versuchen Sie, ihre Nation zu entwickeln. Englische Bauern gewinnen Ressourcen erheblich schneller als Ihre. 
+
+
+
+#eng_lost missions\pictures\austria 10
+Sie haben die Möglichkeit vergeben, die englische Nation zu entwickeln. Versuchen Sie erneut, Arbeiter oder das Stadtzentrum zu erlangen. 
+
+#victory missions\pictures\austria 10
+Gratulation! Sie haben alle Aufgaben erledigt. Sieg!!!
+
+#ai2_death missions\pictures\austria 10 Spanier sind zerschlagen. Du bist brav! Nur voran!!!
+
+#ai3_death missions\pictures\austria 10
+Die Engländer sind besiegt. Der Sieg ist nah. Machen Sie weiter so!!!
+
+#defeat missions\pictures\austria 10
+Dieser Schwierigkeitsgrad war zu hoch für Sie. Versuchen Sie es noch mal!
+
+#bandnews missions\pictures\austria 10
+Ich bin froh, Ihnen eine gute Nachricht mitteilen zu können. Der Franzose behauptet, dass er für eine bestimmte Goldsumme mit Räubern handeln kann. Die Räuber werden dann für einige Zeit unsere Gegner angreifen. 
+Vor dem nächsten Kriegszug werde ich Euch wieder an dieses Angebot erinnern. 
+
+#bayband0 missions\pictures\austria 10
+Ich habe mit dem Franzosen vereinbart, dass ich ihm beim nächsten Treffen Bescheid sage. Für seine Dienstleistung will er %d Goldmünzen.
+
+#bayband1 missions\pictures\austria 10
+Wollen Sie den Franzosen bezahlen?
+
+#bayband2 missions\pictures\austria 10
+Gegenwärtig wird der König für einige Zeit Kopfschmerzen wegen der Räuber haben.
+
+#bayband3 missions\pictures\austria 10
+
+Die bei den Räubern gekaufte Zeit ist aus. Erwarten Sie neue Überfälle der Räuber. 
+
+#no_bayband missions\pictures\austria 10
+Leider reichen Ihre Ressourcen fürs Geschäft nicht aus. Ich schlage vor, den Kriegszug zu streichen und die notwendige Goldmenge zu sparen. Wollen Sie den Kriegszug streichen?
+
+
+
+#eng_news0 missions\pictures\austria 10
+Der Franzose behauptet, dass sein Cousin, ein Engländer, uns helfen könnte. Für die Verhandlungen mit dem Cousin des Franzosen müssen Sie eine Werft im Nordwesten bauen. 
+
+#NeedContact missions\pictures\austria 10
+Sie haben den Werftbau abgeschlossen. Bauen sie eine Jacht und machen Sie sich für die Verhandlungen auf den Weg zur nördlichen Küste der englischen Insel. 
+
+#king_ata_port missions\pictures\austria 10
+Dem König sind unsere Pläne bekannt geworden. Er schickt eine Einheit seiner Armada, um unsere Werft zu vernichten.  
+
+#FirstContact0 missions\pictures\austria 10
+Seid gegrüßt, Kapitän! Was führt Euch zu uns?
+
+#FirstContact1 missions\pictures\austria 10
+Missverständnisse mit dem König ... Ich brauche Eure Unterstützung.
+
+#FirstContact2 missions\pictures\austria 10
+Wir verstehen das Problem und möchten Euch helfen. Unser König stellt Euch eine kleine Insel zur Verfügung, aber Ihr müsst eine Weile warten. Der König fühlt sich schlecht. Mittlerweile könnt Ihr Eure Güter auf unsere Insel übersetzen. 
+
+#FirstContact2 missions\pictures\austria 10
+Setzen Sie Gold auf die englische Insel über. 
+Benutzen Sie dafür den Händler. 
+
+#Uhodim missions\pictures\austria 10
+Möchten Sie das ganze Gold auf die Packpferde laden? 
+
+#negold missions\pictures\austria 10
+
+Das Gold reicht nicht aus. Es darf nicht weniger als 5000 betragen. 
+
+#gold_unload0 missions\pictures\austria 10
+Bravo!! Setzen Sie die Ausladung fort.  Nehmen Sie aber zur Kenntnis, dass das ganze Gold nicht später als bis zum Sonneuntergang ausgeladen sein muss. Beeilen Sie sich! 
+
+#gold_unload1 missions\pictures\austria 10
+Sie haben weniger als eine Minute !!!
+
+
+#gold_victory missions\pictures\austria 10
+Sie haben es geschafft! Sieg!!! 
+
+#gold_defeat1 missions\pictures\austria 10
+Gratulation! Nun ist Ihr Gold (%d Goldmünzen) gesichert!! 
+
+
+
+#gold_defeat missions\pictures\austria 10
+Die Zeit ist vorbei!!! Weg, erbärmlicher Wicht!!!  
+Was für Spielchen spielt Ihr? Diese armselige Groschen nennt Ihr einen Schatz??? 
+Das Gold bleibt am besten bei uns und Ihr verschwindet besser!! 
+
+
+
+#kupec_defeat missions\pictures\austria 10
+Sie haben Ihren Kaufmann nicht verteidigen können. Die Mission ist leider gescheitert. 
+
+#nation_defeat missions\pictures\austria 10
+Derjenige, der seine Führung enttäuscht, kommt nicht weit ... 
+Ihr Heer ist zerschlagen. 
+
+#nation_victory missions\pictures\austria 10
+Sie haben es geschafft, den König und seine Verbündeten zu schlagen. 
+Gratulation, Euer Majestät!! 

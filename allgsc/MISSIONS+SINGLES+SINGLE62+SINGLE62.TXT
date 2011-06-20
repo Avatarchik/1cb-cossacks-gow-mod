@@ -1,0 +1,107 @@
+#BRIEFING faces 0
+{C} Zwei Forts
+
+Sie haben gewonnen, wenn Sie die englisch-französischen Truppen besiegen. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren. 
+
+ 
+Gegenwärtiges Ziel:
+{A}Ihre Husaren können mit den Nachbarn handeln. 
+{B}Die Türken lassen Sie für eine bestimmte Menge Gold die Meerenge passieren. 
+
+#PAGE1 Missions\Pictures\England 30
+Wählen Sie eine Handlung, die sie in diesem Gebiet ausführen möchten. 
+
+#PAGE11 Missions\Pictures\England 30
+        %-20s
+Produktion: %-10s
+%-10s   - %-10d
+%-10s    - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s   - %-10d
+Budget-Einkommen %-10d
+Schatz-Einkommen - %-10d
+Erforderlich für Produktion - %-10d
+Laufendes Budget   -   %-10d
+                (Bevölkerung - %5d Menschen)
+
+#PAGE12 Missions\Pictures\England 17
+Steuer festlegen:
+
+#PAGE13 Missions\Pictures\austria 44
+Handel
+
+#PAGE131 Missions\Pictures\England 17
+Preise im Dorf z.Zt.:
+Wir tauschen
+%-10s  - %-10d
+gegen
+%-10s  - %-10d
+#PAGE7 Missions\Pictures\poland 20
+handelt mit   %-10s
+verkauft     %-10s
+kauft    %-10s
+geladen
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Änderung der Marschroute für die Karawane:
+
+#PAGE1331 Missions\Pictures\poland 20
+Was möchten Sie mit der Karawane tun?
+
+#PAGE2 Missions\Pictures\poland 1
+Leider haben wir diese Karawane nicht mehr.
+
+#PAGE3 Missions\Pictures\poland 1
+Die Karawane ist vernichtet.
+
+#PAGE4 Missions\Pictures\poland 1
+Mit wem soll gehandelt werden?
+
+#PAGE5 Missions\Pictures\poland 1
+Womit sollen die Packpferde für den Verkauf beladen werden?
+
+#PAGE6 Missions\Pictures\poland 1
+Wogegen soll die Ladung getauscht werden?
+
+#PAGE8 Missions\Pictures\poland 1
+Sie verfügen nicht mehr über die Karawane.
+
+#PAGE21 Missions\Pictures\austria 8
+Sie haben verloren ...
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+Sie haben sich als ein glänzender Kämpfer und Diplomat gezeigt, indem Sie den überlegenen Feind bekämpft haben. Dieser Sieg gehört Ihnen zu Recht. 
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Zwei Forts werden von Ihnen geleitet. Schaffen Sie eine mächtige Armee und besiegen Sie die feindlichen Engländer und Franzosen. Die Einheimischen sind bereit, mit Ihnen zu handeln und für ihren Schutz zu zahlen. 
+Ihre Husaren können den Handel betreiben. Zu Wasser herrschen türkische Truppen, mit denen sowohl wir als auch unsere Gegner handeln können. Viel Glück! 
+
+#PAGE550 Missions\Pictures\mord_tut 39
+Ihr befindet Euch auf unserem Gebiet. Wollt Ihr die Meerenge passieren, bezahlt uns 100000 Goldmünzen. Wenn Eure Einheiten versuchen, auf unserem Territorium zu landen, werden wir das als einen Angriff betrachten. Werdet Ihr zahlen?
+
+#PAGE551 Missions\Pictures\mord_tut 39
+Ihr könnt die Meerenge passieren.
+
+#PAGE552 Missions\Pictures\mord_tut 39
+Das Geld reicht nicht aus.
+
+#PAGE553 Missions\Pictures\mord_tut 39
+Eure Truppen sind an unserer Küste gelandet!!! Das bedeutet Krieg!!!
+
+#PAGE554 Missions\Pictures\mord_tut 39
+Sie haben die türkischen Truppen zerschlagen! Nun können unsere Wissenschaftler den Montgolfier testen. 
+
+#PAGE555 Missions\Pictures\mord_tut 39
+Unsere Wissenschaftler teilen uns mit, dass wir erfolgreich in das nächste Jahrhundert übergegangen sind. 
+
+#PAGE24 Missions\Pictures\mord2_tut 23
+Sie haben die englischen Einheiten in dieser Region vernichtet. 
+
+#PAGE25 Missions\Pictures\mord2_tut 23
+Sie haben die französischen Einheiten in dieser Region vernichtet. 
+

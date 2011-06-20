@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A} Eiseninsel 
+  
+Gegenwärtiges Ziel:
+{B}Vernichten Sie den Gegner.
+{C}Ihre Weften können keine Transportschiffe bauen. Sie müssen sie bei den Türken gegen Eisen eintauschen. 
+{D}Vernichten Sie die Piratenschiffe. 
+{E}~Vernichten Sie die Piratenschiffe.~
+
+#PAGE0 Missions\Pictures\austria 3
+Sie sind Statthalter der portugiesischen Kolonie. Entwickeln und schützen Sie sie. 
+Für die Entwicklung der Kolonie und Kampfhandlungen benötigen Sie Transportschiffe. 
+Bauen Sie ein Schiff und schicken Sie damit Eisen zum türkischen Hafen. Dort können Sie Ihr Eisen gegen Transportschiffe tauschen.  
+Nehmen Sie sich vor den Piraten in Acht, die in der Gegend ihr Unwesen treiben. 
+Sie sollen möglichst schnell Ihre Soldaten ausbilden, weil die Piraten versuchen werden, Ihre Kolonie zu vernichten. 
+
+#PAGE1 Missions\Pictures\poland 3
+Was möchten Sie kaufen?
+
+#PAGE2 Missions\Pictures\England 2
+Das Schiff wird in Kürze erwartet.
+ 
+#PAGE3 Missions\Pictures\England 28
+Sie haben nicht ausreichend Eisen.
+
+#PAGE4 Missions\Pictures\England 28
+Sieg!!! Dank guter Taktik und richtiger Kampfführung haben Sie den Gegner vernichtet!! 

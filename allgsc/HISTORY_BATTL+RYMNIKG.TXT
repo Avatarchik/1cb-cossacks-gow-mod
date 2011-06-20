@@ -1,0 +1,10 @@
+Das Ziel der alliierten Streitkräfte (rot) ist, das schwache türkische Lager (blau) in Zone 1 zu zerstören und ihren Banner einzunehmen, um dann den Rest der feindlichen Truppen zu vernichten. Die Türken verlieren, wenn sie ihr "Kommandozentrum" in Zone 3 verlieren. 
+Der blaue Spieler muss im ersten Lager so viele Alliierte wie möglich eliminieren und im zweiten die Zerstörung des Hauptquartiers verhindern.     
+Der Banner kann eingenommen werden, wenn das "Kommandozentrum" in Zone 1 zerstört und die Gegend um es herum erobert wurde.  
+
+In den Zonen 1, 2, 3 und 4 liegen türkische Beobachtungsposten. Wenn diese einen Feind entdecken, blasen sie Alarm, und die Truppen des Lagers unterstehen dem Kommando des blauen Spielers. Im ersten Lager befinden sich auch Aufklärer, die im richtigen Modus bei Entdecken eines Feindes auch sofort den Alarm auslösen. 
+
+Der rote Spieler verfügt über Fahnenträger als einmalige Einheiten. Einheiten innerhalb eines bestimmten Radius um den Fahnenträger herum werden im Angriff besser. Die Angriffswerte aller Fahnenträger nehmen zu, wenn Sie den türkischen Banner übernehmen.   
+
+Kreuzungen liegen in X Zonen. 
+

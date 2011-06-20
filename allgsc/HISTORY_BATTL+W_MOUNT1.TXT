@@ -1,0 +1,8 @@
+Um diese Schlacht zu gewinnen, muss die kaiserliche Armee (blau) drei der fünf spezifizierten Positionen einnehmen und halten oder die tschechische Armee (rot) völlig zerstören. "Einnehmen" bedeutet hier die Abwesenheit aller feindlichen Militärstreitkräfte und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die Tschechen gewinnen, wenn sie den Feind völlig vernichten oder es schaffen, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+
+Es wird um die folgenden Stellungen gekämpft:
+1 - ein Schloss an der rechten Flanke der tschechischen Armee
+2, 3, 3 - Feldbefestigungen
+5 - Brücke
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

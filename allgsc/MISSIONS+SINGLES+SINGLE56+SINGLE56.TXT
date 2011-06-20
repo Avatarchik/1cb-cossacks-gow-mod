@@ -1,0 +1,76 @@
+#BRIEFING faces 0
+{A} Zentrumsverteidigung 
+ 
+Ihre Aufgabe ist es, die Allianz von Polen, Sachsen und Bayern zu vernichten. Polen und Sachsen können zu Lande besiegt werden; für den Sieg über Bayern benötigen Sie eine Flotte. 
+Die Unterstützung von Ihren Verbündeten, den Franzosen, wird Ihnen vom großen Nutzen sein, weil sie auf der südwestlichen Insel positioniert sind. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden oder wenn Sie das Inselzentrum nicht verteidigen können (wenn Sie also über erheblich weniger Militäreinheiten haben als Ihr Feind). 
+ 
+Gegenwärtiges Ziel:
+{B} Vernichten Sie die Allianz von Polen, Sachsen und Bayern.  
+{C}~ Vernichten Sie die Allianz von Polen, Sachsen und Bayern.~
+{D}Zerstören Sie 2 sächsische Häfen auf der nordöstlichen Insel. 
+{E}~Zerstören Sie 2 sächsische Häfen auf der nordöstlichen Insel.~
+{F}Zerstören Sie das sächsische Rathaus im Nordwesten oder nehmen Sie es ein. 
+{G}~ Zerstören Sie das sächsische Rathaus im Nordwesten oder nehmen Sie es ein.~
+{M} Zusätzliches Ziel:
+{N}Bringen Sie dem Verbündeten Packpferde auf die südwestliche Insel. 
+{O}~Bringen Sie dem Verbündeten Packpferde auf die südwestliche Insel.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie müssen die Allianz von Polen, Sachsen und Bayern vernichten. Es wird schwierig werden, die Feinde allein mit Ihren Kräften zu schlagen, deshalb solllten Sie sich an Ihre Verbündeten auf der südwestlichen Insel wenden. Dafür sollten Sie Ihnen Packpferde mit wertvollen Gütern mit der Fähre bringen. Passen Sie auf, zu Wasser patrouillieren sächsische Schiffe!  
+
+
+#PAGE0B Missions\Pictures\faces 31
+Die sächsische Patrouille hat Ihre Schiffe bemerkt! Nun werden die Sachsen Ihre Werften angreifen, um Ihnen keine Gelegenheit zu geben, eine starke Flotte zu bauen. Ihre Arbeiter können keine Schiffe bauen, aber Ihr Verbündeter wird Ihnen seine Arbeiter zur Verfügung stellen. 
+Um die Sachsen aufzuhalten, müssen Sie ihre 2 Werften auf der nordöstlichen Insel vernichten. 
+
+#PAGE0C Missions\Pictures\faces 31
+Die Sachsen haben von Ihrem Standort erfahren und schicken Ihnen Soldaten und Kavallerie entgegen! Um die Sachsen aufzuhalten, müssen Sie ihr Rathaus im Nordwesten vernichten oder einnehmen. 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE1B Missions\Pictures\faces 4
+Ihre Truppen haben das Rathaus nicht verteidigen können! Sie haben verloren!
+
+#PAGE3 Missions\Pictures\faces 34
+Wir begrüßen Euch, unsere Verbündeten!! Wir haben Euch Packpferde mit einer Karte und einem Operationsplan gebracht! Helft uns, den Gegner zu bewältigen! 
+Leider können unsere Bauern keine Häfen bauen. Könntet ihr uns einige Eurer Arbeiter geben? 
+
+#PAGE4 Missions\Pictures\faces 6
+Seid gegrüßt, Österreicher! Wir geben Euch unsere Arbeiter und sammeln unsere Truppen, um Euch zu helfen, den Gegner zu besiegen! 
+
+#PAGE6 Missions\Pictures\austria 37
+Gratulation! Sie haben die 2 sächsischen Werften zerstört!!
+
+#PAGE7 Missions\Pictures\austria 37
+Gratulation! Sie haben das sächsische Rathaus zerstört!!!
+
+#PAGE7A Missions\Pictures\austria 30
+Gratulation! Sie haben das sächsische Rathaus eingenommen! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Polen, Sachsen und Bayern vernichtet! 
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Bayern vernichtet! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die Polen vernichtet! 
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben die Sachsen vernichtet! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erledigt und gewonnen! 
+ 
+#PAGE11  Missions\Pictures\mord_d 6
+Ihre Verbündeten erleiden eine Niederlage!!
+
+
+
+#PAGE12  Missions\Pictures\mord_d 6
+Sie haben das Packpferd verloren und können dem Verbündeten die wichtige Ladung nicht bringen! Jetzt wird der Kampf schwieriger werden! 

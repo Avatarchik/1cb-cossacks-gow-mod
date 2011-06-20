@@ -1,0 +1,41 @@
+ED_TLSHOW Werkzeuge anzeigen (STRG-T)
+ED_TOPSHOW Werkzeugoptionen anzeigen (STRG-O)
+ED_HDR00 Farbe wählen
+ED_HDR01 Einheit wählen
+ED_HDR02 Sprite wählen
+ED_HDR03 Relief editieren
+ED_HDR04 Textur wählen
+ED_HDR05 Muster wählen
+ED_HDR06 Wasser definieren/löschen
+ED_HDR07 Wasserhelligkeit einstellen
+ED_HDR08 Wasserhelligkeit löschen
+ED_HDR09 Sprites löschen
+ED_PARM01 Pinselradius (1-9)
+ED_PARM02 Küstenbreite (STRG 1-9)
+ED_PARM03 Helligkeit (1-9)
+ED_PARM04 Dunkelheit (1-9)
+ÏÅÕÎÒÀ Infanterie
+ÊÀÂÀËÅĞÈß Kavallerie
+ÀĞÒÈËËÅĞÈß Artillerie
+ÔËÎÒ Marine
+ÇÄÀÍÈß Gebäude
+EDTP_01 Mindesthöhe:
+EDTP_02 Maximale Höhe:
+EDTP_03 Mindestwinkel:
+EDTP_04 Maximaler Winkel:
+EDTP_05 Aktuelle Höhe:
+EDTX_S0 Texturen eingestellt #%d
+@OK OK
+@CANCEL Abbrechen
+$#HIHDR Handlung wählen:
+$#ACTION Handlung:
+$#HEIGHT Höhe/Breite:
+AIPARM KI-Parameter
+SCDLL Szenario-DLL-Pfad:
+$PLAYER%D Spieler #%d
+$PLAYERALL Alle Spieler
+NEWMPHDR Neue Karte erstellen
+SELMSZ Kartengröße wählen:
+SEL_MS0 Normal
+SEL_MS1 Groß
+SEL_MS2 Riesig

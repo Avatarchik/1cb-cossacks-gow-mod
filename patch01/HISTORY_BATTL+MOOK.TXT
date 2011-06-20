@@ -1,0 +1,13 @@
+#Ludovik_Killed0 Missions\Pictures\austria 6
+  Glückwunsch, Sie haben den schlimmsten Feind der spanischen Krone, Ludwig von Nassau, besiegt. Jetzt ist sein Bruder am Zug ...
+#Ludovik_Killed1 Missions\Pictures\faces 10
+  Ludwig von Nassau ist in der Schlacht gefallen. Sie haben versagt ...
+#Ludovik_Escaped0 Missions\Pictures\poland 23
+  Der erbitterteste Feind der spanischen Krone, Ludwig von Nassau, hat es geschafft, bis zu seinem Bruder vorzudringen und steht ihm nun bei. Sie haben verloren ...
+#Ludovik_Escaped1 Missions\Pictures\mord_tut 5
+  Glückwunsch, Ludwig von Nassau hat es geschafft, seinem Bruder beizustehen. Sie sind siegreich!!! 
+#DutchArmyLost_Victory Missions\Pictures\austria 6
+  Glückwunsch, Sie haben die feindliche Armee  besiegt. Die Pläne der aufrührerischen Niederländer sind gescheitert. Ludwig und seine noch verbleibenden Einheiten fliehen vom Schlachtfeld. Sieg!!! 
+#DutchArmyLost_Defeat  Missions\Pictures\mord_tut 5
+  Sie haben es nicht geschafft, zu den Einheiten Ihres Bruders vorzudringen und sie zu unterstützen. Ihre noch verbleibenden Einheiten fliehen in Panik vom Schlachtfeld. Sie haben verloren ...
+

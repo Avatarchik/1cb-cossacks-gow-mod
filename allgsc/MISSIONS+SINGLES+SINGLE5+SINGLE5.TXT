@@ -1,0 +1,54 @@
+#BRIEFING faces 0
+{A} Rettungsoperation 
+
+Um zu gewinnen, müssen Sie das niederländische Fort zerschlagen und Ihre Verbündeten aufs Festland übersetzen. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Gebäude verlieren. 
+
+Gegenwärtiges Ziel:
+{H} Sie haben auch verloren, wenn Sie verbündete Musketiere verlieren. 
+{J}~Sie haben auch verloren, wenn Sie verbündete Musketiere verlieren.~
+{B}Zerstören Sie das Fort im Norden. 
+{C}Holen Sie die Verbündeten von der Insel. 
+{D}~Zerstören Sie das Fort im Norden.~
+{E}~Holen Sie die Verbündeten von der Insel.~
+
+#PAGE2601 Missions\Pictures\Austria 10
+Kommandant: "Ich freue mich, unsere Verbündeten begrüßen zu können. Wir sind durch eine Seeblockade eingeschlossen und unsere Vorräte gehen zur Neige. Ich habe damit begonnen, unsere Truppen auf die Abfahrt vorzubereiten. Eure Aufgabe ist es, uns einen freien Seekorridor zu sichern."
+
+#PAGE2602 Missions\Pictures\Austria 10
+Kommandant: "Wir sind Euch für unsere Rettung dankbar und werden an Eurer Seite kämpfen".
+
+#PAGE2603 Missions\Pictures\Austria 44
+Kaufmann: "Seid gegrüßt! Ich habe mein Frachtschiff in einem Sturm verloren, und meine Packpferde kamen auf der Nachbarinsel an Land. Helft mir, sie hierher überzusetzen. Dafür werde ich die Piraten für Euch bestechen".
+
+#PAGE2604 Missions\Pictures\Austria 12
+Sie haben die Packpferde. 
+
+#PAGE2605 Missions\Pictures\Faces 0
+Kaufmann: "Räuber! Ihr habt Euch nicht an unsere Vereinbarung gehalten! Ihr habt mir zu wenige Packpferde gebracht. Ich hätte besser mit den Piraten verhandeln sollen. Ich werde Euch nicht helfen!"
+
+#PAGE2606 Missions\Pictures\Faces 0
+Kaufmann: "Ihr habt nicht alle Packpferde gebracht. Für so wenige Pferde kann ich nur ein einziges Schlachtschiff bestechen".
+
+#PAGE2607 Missions\Pictures\Faces 0
+Kaufmann: "Ausgezeichnet, Ihr habt meine Packpferde gebracht! Ich habe es geschafft, für Euch zwei Schlachtschiffe zu bestechen. Es ist sehr angenehm, mit Euch zu tun zu haben. Lebt wohl!"
+
+#PAGE2608 Missions\Pictures\England 24
+Ihre Armee ist zerschlagen. Sie haben verloren. 
+#PAGE2609 Missions\Pictures\England 24
+Ihre Verbündeten sind ums Leben gekommen. Sie haben verloren. 
+
+#PAGE2610 Missions\Pictures\Faces 14
+Sie haben Ihre Aufgabe ausgezeichnet erledigt. Sie haben den Sieg verdient!!!  
+
+#PAGE2611 Missions\Pictures\Faces 15
+Im Räuberlager haben Sie %d Gold entdeckt.
+
+
+#PAGE2612 Missions\Pictures\mord_tut 36
+Nördlich von Ihnen haben sich Niederländer postiert, die ihre Truppen auf einen Angriff gegen Sie vorbereiten. 
+Sie müssen das Fort vernichten. Ihre Aufklärer haben herausgefunden, dass Sie auf dem Weg zum feindlichen Fort Räubern begegnen können. Seien Sie vorsichtig, bereiten Sie Ihre Truppen vor und greifen Sie den Feind an. 
+
+#PAGE2613 Missions\Pictures\Faces 1
+
+Ein Bote ist eingetroffen. Er teilt Ihnen mit, dass Ihre Verbündeten die Verbindung zu ihrem Fort nordöstlich von Ihnen verloren haben. Die Verbündeten bitten Sie, einen Boten dorthin zu entsenden um herauszufinden, was geschehen ist. 

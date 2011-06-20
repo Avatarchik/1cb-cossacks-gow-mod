@@ -1,0 +1,23 @@
+FASTMOD Schneller Modus
+SLOWMOD Langsamer Modus
+VICOND0 Völlige Zerstörung
+VICOND1 Gebietseroberung
+VICOND2 Punktestand
+TIME0 30 Min.
+-TIME0 30
+TIME1 45 Min.
+-TIME1 45
+TIME2 1 Stunde
+-TIME2 60
+TIME3 90 Min.
+-TIME3 90
+TIME4 2 Stunden
+-TIME4 120
+TIME5 4 Stunden
+-TIME5 240
+TIME6 8 Stunden
+-TIME6 480
+PLEXIT Spieler %s hat das Spiel verlassen.
+BESTPL Bester: %s
+GOLDFIN ACHTUNG!!! SIE HABEN KEIN GOLD!!! MEUTEREI IST UNVERMEIDLICH!!!
+PAUSETEXT PAUSE

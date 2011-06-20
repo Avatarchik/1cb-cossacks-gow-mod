@@ -1,0 +1,1 @@
+Langstrecken-Waffe. Stoßfeuer auf große Entfernung. Effektiv gegen Türme und Gebäude. Ineffektiv gegen Infanterie und Kavallerie. Hohe Feuerrate und Genauigkeit. Benötigt Gold. Wenn kein Gold mehr vorhanden ist, feuern die Mörser nicht mehr. Mörser, die nicht verteidigt werden, können vom Feind eingenommen werden. Verbraucht viel Kohle und Eisen.

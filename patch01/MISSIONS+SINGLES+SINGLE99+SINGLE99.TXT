@@ -1,0 +1,52 @@
+#BRIEFING faces 0
+{A} Die Entscheidungsschlacht
+ 
+Ihre Aufgabe ist es, die Allianz von England und Frankreich zu vernichten. 
+Dafür müssen Sie ein Linienschiff des 18. Jahrhunderts vernichten, in dem sich die Allianzführung (violett) befindet.  Seien Sie aber vorsichtig, weil die Engländer das Mittelmeer überwachen und die Franzosen die Pässe zu Land sperren. 
+
+Gegenwärtiges Ziel:
+{B} Vernichten Sie das Linienschiff des 18. Jahrhunderts.
+{C}~Vernichten Sie das Linienschiff des 18. Jahrhunderts.~
+{D}Vernichten Sie den französischen Blockposten im Westen. 
+{E}~Vernichten Sie den französischen Blockposten im Westen.~
+{F} Vernichten Sie den französischen Blockposten im Osten.
+{G}~ Vernichten Sie den französischen Blockposten im Osten.~
+{K}Zerstören Sie die englischen Werften im Norden (insgesamt 4). 
+{L}~Zerstören Sie die englischen Werften im Norden (insgesamt 4).~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie sollen die Allianz von England und Frankreich vernichten! Dafür müssen Sie ein Linienschiff des 18. Jahrhunderts versenken, in dem die Allianzführung ist (violett). Das Linienschiff patrouilliert im Mittelmeer, nördlich von Ihnen.  
+
+#PAGE0B Missions\Pictures\faces 31
+Die Franzosen blockieren die Pässe zu Land vom Süden nach Norden. Vernichten Sie ihre Blockposten im Westen und Osten. 
+
+#PAGE0C Missions\Pictures\faces 31
+Die Meerenge im Mittelmeer wird von englischen Schiffen gesperrt. Um sie von den feindlichen Kräften zu befreien, müssen Sie die englischen Häfen in den Forts im Norden (insgesamt 4) vernichten und danach die Schiffe zerschlagen (violett). 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation!! Sie haben den französischen Blockposten vernichtet, dort haben Sie %d Gold entdeckt!! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\faces 34
+Gratulation! Sie haben 4 englische Werften im Norden vernichtet! 
+
+#PAGE8 Missions\Pictures\austria 6
+Sie haben die Allianz neutralisiert! Nun müssen Sie ihre Führung vernichten, die sich im Linienschiff des 18. Jahrhunderts (violett) befindet.
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die französischen Truppen vernichtet! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die englischen Truppen vernichtet! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und GEWONNEN!!!!!!!
+
+#PAGE10 Missions\Pictures\austria 6
+
+Gratulation! Sie haben das englische Linienschiff des 18. Jahrhunderts vernichtet, in dem die Allianzführung war! Dadurch hat die Allianz ihre Führung verloren! 

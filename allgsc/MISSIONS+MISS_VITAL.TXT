@@ -1,0 +1,20 @@
+vn_englishman Engländer
+vn_relative Verwandter des Königs
+vn_fra_kupec Französischer Händler
+vn_spa_king König von Spanien
+
+V02_MerchMain_0 Wie geht es?
+V02_MerchMain_1 Nicht faulenzen! Arbeiten!
+V02_MerchMain_2 Entspannen Sie sich.
+
+V02_MerchInfo_0 Ich will alles über die Karawane erfahren. 
+V02_MerchInfo_1 Sie haben zu wenig Packpferde. Sie sollten noch eins kaufen. 
+V02_MerchInfo_2 Ich habe alles erfahren, was ich wissen wollte. 
+
+V05_MPort0_0 Bestellinfo 
+V05_MPort0_1 Jacht kaufen 
+V05_MPort0_2 Jachtkauf rückgängig machen 
+V05_MPort0_3 Fregatte kaufen 
+V05_MPort0_4 Fregattenkauf rückgängig machen 
+V05_MPort0_5 Bestellen
+V05_MPort0_6 Bestellung annullieren und Werft verlassen 

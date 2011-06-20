@@ -1,0 +1,45 @@
+#BRIEFING faces 0
+{A} Die Bergbelagerung 
+
+Ziel:
+{B}Sie müssen Ihre Gegner vernichten!!!
+   Nur der Hauptcharakter kann mit anderen Figuren sprechen.
+
+#PAGE0 Missions\Pictures\poland 7
+Sie kontrollieren eine polnische Stadt, die von Bergen umgeben ist. Der Gegner kann sich Ihnen nur über Gebirgspässe nähern. Stellen Sie also sicher, dass die Pässe gut geschützt sind. 
+
+#PAGE1 Missions\Pictures\poland 8
+Der ukrainische Hauptmann kommt wieder, um Geld zu fordern. Wenn kein Krieg gegen die Ukraine entstehen soll, wäre es gut, etwas Geld beiseite zu legen. 
+ 
+#PAGE2 Missions\Pictures\Ukraine 10
+Seid gegrüßt, Herr!
+Wollt Ihr Frieden mit uns?? 
+Für 1000 Goldmünzen sind wir bereit, Euch einige Zeit nicht mehr zu überfallen. Seid Ihr einverstanden?
+
+#PAGE3 Missions\Pictures\Ukraine 10
+Also gut!!!
+Ihr seid nicht arm, vielleicht bezahlt Ihr uns noch 1000 Goldmünzen, dann werden wir für Euch mit den Moskauern verhandeln. Seid Ihr einverstanden?
+
+
+#PAGE4 Missions\Pictures\Ukraine 10
+Alles Gute!
+Und bis bald. 
+Haltet Geld bereit und meine Leute werden Euer Gebiet im Auge behalten, nur für alle Fälle ... 
+
+#PAGE5 Missions\Pictures\Ukraine 10
+Ihr seid selbst schuld! Bereitet Euch auf den Tod vor! 
+
+#PAGE6 Missions\Pictures\poland 17
+Der ukrainische Hauptmann will Euch auf dem Gebirgspass treffen.  
+
+#PAGE7 Missions\Pictures\Ukraine 10
+Ich sehe, dass es Euch an Geld mangelt ... 
+Ich gebe euch noch eine Chance. Sammelt die notwendige Summe, sonst greifen wir an!
+
+#PAGE8 Missions\Pictures\Ukraine 10
+Ihr habt also kein Geld. Wir werden Euch besiegen. Bereitet Euch auf den Krieg vor! 
+ 
+#PAGE9 Missions\Pictures\poland 8
+
+Sieg!!!
+Alle Ihre Gegner sind geschlagen!! Sie haben sich als tapferer und talentierter Befehlshaber gezeigt!!  	

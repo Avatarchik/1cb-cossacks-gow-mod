@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A} Seeblockade
+
+Um zu gewinnen, müssen Sie die feindlichen Schiffwerften zerschlagen. 
+
+Gegenwärtiges Ziel:
+{D}Sie erleiden eine Niederlage, wenn Sie über 150 Schiffe verlieren. 
+{E} Sie erleiden eine Niederlage, wenn Sie über 130 Schiffe verlieren.
+{F} Sie erleiden eine Niederlage, wenn Sie über 110 Schiffe verlieren.
+{G} Sie erleiden eine Niederlage, wenn Sie über 90 Schiffe verlieren.
+{K}Sie können Ihre Schiffe in der Nähe einer Werft reparieren. 
+
+#PAGE2401 Missions\Pictures\England 2
+Die Portugiesen haben 5 Werften gebaut, und stellen nun eine Flotte auf. Sie sollen ihre Blockade durchbrechen und die feindlichen Werften vernichten.  Sie erleiden eine Niederlage, wenn Sie über %d Schiffe verlieren. Dazu können Sie Ihre Schiffe reparieren, wenn sie sich in der Nähe einer Werft befinden.
+
+#PAGE2402 Missions\Pictures\Mord3_tut 5
+Sie haben den westlichen Versorgungspunkt der Portugiesen zerstört; das wird den Bau der feindlichen Schiffe verzögern. 
+
+#PAGE2403 Missions\Pictures\Mord3_tut 5
+Sie haben den östlichen Versorgungspunkt der Portugiesen zerstört; das wird den Bau der feindlichen Schiffe verzögern. 
+
+#PAGE2404 Missions\Pictures\Mord3_tut 0
+Sie haben die gegebene Aufgabe erledigt und die Blockade durchbrochen. Sie werden ausgezeichnet! 
+
+#PAGE2405 Missions\Pictures\England 5
+Gegenwärtig haben Sie %d Schiffe verloren.  
+Ihre Führung hat beschlossen, die Operation wegen erheblichen Verlusten abzubrechen. 
+
+#PAGE2406 Missions\Pictures\Mord3_tut 8
+Sie haben %d Schiffe verloren.

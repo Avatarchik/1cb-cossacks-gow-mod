@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Die österreichisch-türkische Grenze 
+
+!Für den Sieg müssen Sie Türken vernichten, die in dem Grenzgebiet lagern. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren. 
+
+#PAGE1 Missions\Pictures\austria 3
+Ihr Befehlshaber, der sächsische Prinz Friedrich August, ist Kurfürst von Sachsen geworden. Die Armee mit dem neuen Kurfürsten an der Spitze ist in den österreichischen Krieg gegen die Türkei eingetreten. Die kühne sächsische Armee hat vor, die christlichen Länder zu verteidigen und den Aggressor niederzuwerfen. Ihre Aufgabe ist es, eine Position im Grenzgebiet einzunehmen und die Abwehr zu sichern. Der Kurfürst ist überzeugt, dass Verteidigung die beste Strategie ist, deshalb empfiehlt er, einen mächtigen Warnschlag zu unternehmen. 
+
+#PAGE2 Missions\Pictures\austria 7
+Sie sind in einer österreichischen Grenzprovinz angekommen, die unter türkischen Angriffen leidet.  
+Sie sind beauftragt, die Grenzprovinz zu sichern und die Einheimischen zu verteidigen. 
+Die Einheimischen sind bereit, Ihnen Ressourcen zu bringen, wenn Sie sie verteidigen.  
+Überwachen Sie die Karawanen, die Ihnen Ressourcen bringen.  
+
+#PAGE3  Missions\Pictures\austria 14
+Ihre Einheiten sind zerschlagen. ...
+Niederlage ...
+
+#PAGE4  Missions\Pictures\austria 45
+Sie haben die Türken vernichtet.
+Gratulation!! Das war kein leichter Sieg. 
+
+#PAGE5  Missions\Pictures\ukraine 7
+Sie haben das Räuberlager zerschlagen. 
+Sie werden ihr Lager nicht mehr überfallen.
+
+#PAGE6  Missions\Pictures\ukraine 7
+Sie haben das Räuberlager zerschlagen. 
+Sie werden Ihr Lager nicht mehr überfallen.
+
+#PAGE7  Missions\Pictures\algeria 1
+Die Türken haben die Wachen der Goldmine ermordet. 
+Gold wird nicht mehr geliefert. 
+
+#PAGE8  Missions\Pictures\algeria 1
+Die Türken haben ein Dorf im Südosten überfallen und eingenommen. 
+Nahrung und Eisen werden nicht mehr geliefert.
+
+#PAGE9  Missions\Pictures\algeria 1
+Die Türken haben die Wachen bei den Eisenminen ermordet. 
+
+Eisen wird nicht mehr geliefert. 
+
+#PAGE10  Missions\Pictures\algeria 1
+Die Türken haben ein Dorf am Fluss überfallen und eingenommen. 
+Proviant und Gold werden nicht mehr geliefert.
+
+#PAGE11  Missions\Pictures\algeria 1
+Man hat die Wachen bei den Eisenminen ermordet. 
+Eisen wird nicht mehr geliefert. 
+
+#PAGE12  Missions\Pictures\algeria 1
+Ein Dorf im Süden ist eingenommen worden.
+Nahrung und Kohle werden nicht mehr geliefert.
+
+#PAGE911  Missions\Pictures\ukraine 7
+Der Wert entspricht %10d.

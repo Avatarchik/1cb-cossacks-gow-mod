@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A}Zwei Brücken 
+
+!Für den Sieg müssen Sie die Gegner vernichten. 
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Bauern verlieren. 
+
+#PAGE1 Missions\Pictures\austria 10
+Die Vernichtung des österreichisch-türkischen Bündnisses steht Ihnen vor. 
+
+#PAGE2 Missions\Pictures\mord_tut 0
+Der Feind muss auf jeden Fall vor der Brücke aufgehalten werden. 
+
+#PAGE3  Missions\Pictures\algeria 2
+Die Türken sind besiegt!! 
+
+#PAGE4  Missions\Pictures\austria 9
+Die Österreicher sind besiegt!!
+
+#PAGE5  Missions\Pictures\england 25
+Sie haben gewonnen!!!!
+
+#PAGE6  Missions\Pictures\mord_d 2
+Sie haben verloren ...
+
+#PAGE7  Missions\Pictures\austria 0
+Ein spanisches Handelsschiff ist in Ihrer Werft eingetroffen. 
+Der Gewinn aus den Handelsgeschäften beträgt 1000 Goldmünzen. 

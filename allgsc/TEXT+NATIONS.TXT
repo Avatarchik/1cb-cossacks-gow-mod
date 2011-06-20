@@ -1,0 +1,23 @@
+#BAVARIA Bayern
+#DENMARK Dänemark
+#AUSTRIA Österreich
+#ALGIR Algerien
+#ENGLAND England
+#FRANCE Frankreich
+#GERMAN Preussen
+#HOLLAND Niederlande
+#PIEMONT Piemont
+#POLAND Polen
+#PORTUGALIA Portugal
+#RUSSIA Russland
+#SAKSINIA Sachsen
+#SPAIN Spanien
+#SVEDEN Schweden
+#TURKISH Türkei
+#UKRAINE Ukraine
+#VENECIA Venedig
+#UNIQ Originale
+#NAEMNICS Söldner
+#NEWBOATS Neue Schiffe
+#SWITZERLAND Schweiz
+#VENGRIA Ungarn

@@ -1,0 +1,8 @@
+#KMStaffCaptured0 Missions\Pictures\austria 6
+  Yusuf Pasha ist geflüchtet, sein Hauptquartier ist eingenommen. Sieg!!!
+#KMStaffCaptured1 Missions\Pictures\austria 6
+  Yusuf Pasha ist geflüchtet, sein Hauptquartier ist eingenommen. Sie haben verloren!!!
+#ArmyLostVictory Missions\Pictures\austria 6
+  Die Allianz ist geschlagen. Der Feind flieht in Panik vom Schlachtfeld. Sieg!!!
+#ArmyLostDefeat Missions\Pictures\austria 6
+  Ihre Truppen konnten den hunderttausend Einheiten der Türken nicht standhalten. Sie haben verloren!!!

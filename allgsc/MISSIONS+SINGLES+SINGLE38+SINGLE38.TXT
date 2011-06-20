@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A} Gescheiterte Verhandlungen
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die russische Stadt.
+Russland führt Verhandlungen mit den Portugiesen, die zu Wasser herrschen und die Inseln mit ihren Goldvorräten kontrollieren. 
+Sie sollen die Verhandlungen verhindern, indem Sie eine der diplomatischen Delegationen vernichten, die Russland in die portugiesische Stadt schickt. 
+Wenn Sie Sachsen für den Marsch durch sein Territorium bezahlen, können Sie günstige Positionen für den Beschuss der russischen Stadt besetzen. 
+
+#PAGE0 Missions\Pictures\poland 7
+Vernichten Sie die russische Stadt.
+Russland führt Verhandlungen mit den Portugiesen, die zu Wasser herrschen und die Inseln mit ihren Goldvorräten kontrollieren. 
+Sie sollen die Verhandlungen verhindern, indem Sie eine der diplomatischen Delegationen vernichten, die Russland in die portugiesische Stadt schickt. 
+Wenn Sie Sachsen für den Marsch durch sein Territorium bezahlen, können Sie günstige Positionen für den Beschuss der russischen Stadt besetzen. 
+
+#PAGE1 Missions\Pictures\England 9
+Der Marsch durch unser Territorium kostet 5000 Gold. Könnt Ihr zahlen? 
+
+#PAGE2 Missions\Pictures\England 9
+Ihr Geld reicht nicht aus. 
+
+#PAGE3 Missions\Pictures\England 9
+Verlasst unser Gebiet mit Euren Truppen oder bezahlt.  
+
+#PAGE4 Missions\Pictures\England 9
+Eure Truppen sind illegal auf unserem Territorium, das kommt einer Kriegserklärung gleich! 
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

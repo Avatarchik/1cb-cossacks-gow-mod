@@ -1,0 +1,194 @@
+#BRIEFING faces 0
+{X} Ein guter Freund 
+          
+Sie haben gewonnen, wenn Sie Ihren Freund von den Räubern befreien. 
+Sie haben verloren, wenn Ihr Hauptcharakter ums Leben kommt. 
+          
+Gegenwärtiges Ziel: 
+{A}Sprechen Sie mit dem Boten des Lords. 
+{B}~Sprechen Sie mit dem Boten des Lords.~
+{C}Befreien Sie das Dorf. 
+{D}~Befreien Sie das Dorf. ~
+{E}Vernichten Sie vier Räuberlager. 
+{F}~Vernichten Sie vier Räuberlager.~
+{G}Ersuchen Sie den Priester um Hilfe. 
+{H}~Ersuchen Sie den Priester um Hilfe.~
+{L}Eliminieren Sie den Anführer der Bande.
+{M}~Eliminieren Sie den Anführer der Bande.~
+{N}Sprechen Sie mit dem Befehlshaber des Forts. 
+{O}~ Sprechen Sie mit dem Befehlshaber des Forts.~
+{P}Eliminieren Sie den Bruder des ehemaligen Bandenanführers. 
+{Q}~Eliminieren Sie den Bruder des ehemaligen Bandenanführers.~
+{R}Sprechen Sie mit dem General. 
+{S}~Sprechen Sie mit dem General.~
+{T}Zerstören Sie das Räuberlager. 
+
+{V}           
+Zusätzliche Bedingung für die Niederlage:
+Sie erleiden eine Niederlage, wenn Sie das Fort verlieren. 
+
+{W}            
+Zusätzliche Bedingung für die Niederlage: 
+Sie erleiden eine Niederlage, wenn der General oder der Dorfpriester ums Leben kommen. 
+
+
+#PAGE1 Missions\Pictures\mord_tut 36
+Sie erhalten eine Depesche: "Ich freue mich, einen alten Freund begrüssen zu können! In der letzten Zeit werden meine Untertanen durch Banditen malträtiert. Ich bitte um Hilfe. Westlich von Eurer Siedlung erwartet Euch mein Aufklärer, er wird Euch die Lage darstellen. Viel Glück!"
+
+#PAGE25 Missions\Pictures\poland 5
+Verrat! AN DIE GEWEHRE!!!
+
+#PAGE2 Missions\Pictures\mord_tut 5
+Die Räuber haben das Dorf westlich von hier eingenommen. Befreien Sie es, indem Sie die ganze Bande vernichten. Das ist die allerwichtigste Aufgabe. Seien Sie im Wald auf der Hut: Auf dem Weg zum Dorf haben sich viele Räuber versteckt. Versuchen Sie, Auseinandersetzungen zu vermeiden, um Ihre Garnisonen nicht zu sehr zu schwächen. 
+
+#PAGE11 Missions\Pictures\poland 13
+Sie haben das Räuberlager zerschlagen. Hier haben Sie geraubtes Gold und Proviant entdeckt.
+
+#PAGE12 Missions\Pictures\poland 13
+Sie haben das Räuberlager zerschlagen. Hier haben Sie geraubtes Gold, Proviant und Munition entdeckt. 
+
+#PAGE30 Missions\Pictures\England 7
+Verteidigen wir den Anführer!!!
+
+#PAGE31 Missions\Pictures\England 7
+Dieser Mann hat Truppen hergebracht. Er hat den Tod verdient!! Lauf, Verräter!!! 
+
+#PAGE32 Missions\Pictures\England 30
+Ihr Freund dankt Ihnen für die Befreiung des Dorfes und schickt Ihnen Truppen für die endgültige Eliminierung der Räuber (sie treffen bald ein) zu. Zunächst sollen Sie die Wälder von den Räubern befreien (östlich von hier), dann sprechen Sie mit dem Priester im Dorf. Er wird Ihnen sagen, wie die Bande unschädlich gemacht werden kann. 
+
+#PAGE33 Missions\pictures\mord2_tut 2
+Die Garnison der regulären Binnentruppen steht Ihnen zur Verfügung! Befreien Sie den Wald von Räubern!  
+
+#PAGE34 Missions\pictures\mord_d 6
+Sie haben den Wald von den Räubern befreit. Es wird Zeit, mit dem Priester zu sprechen. 
+
+#PAGE35 Missions\pictures\poland 16
+Ich weiß, wo sich der Anführer versteckt. Wer dem Herzog seinen Kopf bringt, wird großzügig belohnt.  
+Die Verstärkungstruppen aus dem Fort werden bald eintreffen. Der Anführer ist gut bewacht. 
+
+#PAGE36 Missions\pictures\mord2_tut 2
+Verstärkung ist eingetroffen. 
+
+#PAGE51 Missions\pictures\poland 18
+Sie haben die Bande, die das Dorf terrorisiert hat, beseitigt. Erstatten Sie dem Kommandanten des Forts Meldung. 
+
+#PAGE50 Missions\pictures\austria 14
+Schenkt mir das Leben und ich zahle Euch 2000 Goldmünzen. 
+
+#PAGE52 Missions\pictures\austria 44
+Ihr dient dem hiesigen Herrn umsonst; wir werden auf jeden Fall gewinnen. 
+
+#PAGE53 Missions\pictures\England 26
+Mein Bruder wird Rache nehmen! 
+
+#PAGE54 Missions\pictures\mord_d 10
+Stellen Sie den Bruder des Bandenanführers. Er befindet sich westlich des Forts. Verstärkungstruppen kommen ständig an, also beeilen Sie sich! Die Fortkaserne steht Ihnen zur Verfügung. 
+
+#PAGE55 Missions\pictures\mord_tut 3
+Verbündete sind eingetroffen. 
+
+#PAGE56 Missions\pictures\poland 18
+Sie haben den Bruder des Bandenanführers ermordet und sein Geld geraubt. Begeben Sie sich nun in die Stadt und benachrichtigen Sie den General. 
+
+
+#PAGE3 Missions\pictures\austria 4
+Möchtet Ihr mit Brot beladene Packpferde für 500 Goldmünzen kaufen? Ich bin schon alt und habe Angst vor Räubern, aber ich kann Euch verraten, dass es westlich von hier ein Dorf gibt, in dem Ihr das Brot sehr günstig verkaufen könnt. 
+
+#PAGE4 Missions\pictures\England 11
+Wir haben Brotmangel. Wir sind bereit, unser Diplomatiezentrum für nur ein paar Packpferde mit Brot einzutauschen. Bringt sie zum Lagerhaus. 
+
+#PAGE5 Missions\pictures\austria 44
+Danke für die Hilfe. Das Diplomatiezentrum steht Euch nun zur Verfügung. 
+
+#PAGE6 Missions\pictures\ukraine 6
+Sie haben Ihre Aufgabe perfekt gelöst. Sie stehen nun an der Spitze der Stadt- und Fortgarnisonen. Sie benötigen nur noch Proviant für die Armee. Deshalb übernehmen Sie auch das Dorf. Verteidigen Sie es mit aller Macht und zerstören Sie die Festung der Räuber im Nordwesten. 
+
+
+#PAGE7 Missions\pictures\ukraine 6
+Zusätzlich werden Ihnen auch Stadthafen und Marine übergeben. Vernichten Sie feindliche Schiffswerften im Nordosten. Dadurch können die feindlichen Truppen in der Burg keine Munition mehr erlangen. Sie können sich durch die Stollen vor der Stadt Munition besorgen. Viel Glück!!!
+
+#PAGE9 Missions\pictures\poland 9
+
+Sie sind in der Schlacht ums Leben gekommen ... 
+
+#PAGE14 Missions\pictures\mord2_tut 23
+Sie haben das Ziel erfüllt und gewonnen!!! 
+
+#PAGE8 Missions\pictures\mord2_tut 21
+Sie haben es nicht geschafft, das Fort zu halten. Sie haben verloren ...
+
+#PAGE13 Missions\pictures\mord_d 2
+Sie haben es nicht geschafft und verloren ... 
+
+#PAGE15 Missions\pictures\mord2_tut 7
+Seid gegrüßt, mein Freund. Wie ich sehe, seid Ihr immer noch sehr gut im Kampf. Ich übergebe Euch das Stadtfort und die Schiffswerften. Zerstört das Hauptfort der Banditen im Nordwesten. Ich werde unterdessen den Seekampf befehligen. Wenn ich Glück habe, kann ich die Küstenverteidigungen vernichten. Aber Ihr müsst die Werften vernichten, da der Feind sie benötigt, um seine Munition in das Fort zu transportieren. So erhält die feindliche Armee keine Unterstützung mehr. 
+Ich ernenne Euch auch zum Dorfschulzen des von Euch befreiten Dorfes. Es versorgt Euch mit Ressourcen; verliert es also nicht. Viel Glück!!!
+
+#PAGE37 Missions\pictures\mord3_tut 9
+Die Schiffswerften sind vernichtet. Die feindlichen Türme feuern nicht mehr. 
+
+#PAGE22 Missions\pictures\England 35
+Verrat! Jemand hat den Bandenanführer fliehen lassen. Er ist mit Verstärkung zurückgekehrt. Ich übergebe Euch die Schiffe. Rettet sie, wenn Ihr könnt. 
+
+#PAGE60 Missions\pictures\poland 18
+Wir sind der führende Trupp der Aufklärung, wir wurden von Eurer Ankunft benachrichtigt. Wir stehen zu Eurer Verfügung. 
+
+#PAGE70 Missions\pictures\poland 13
+Sie haben schon alle Feinde vernichtet. 
+
+#PAGE71 Missions\pictures\poland 13
+
+Wir haben schon drei Lager zerschlagen. Nun ist nur noch eines übrig. 
+
+#PAGE72 Missions\pictures\poland 13
+Wir haben schon zwei Lager zerschlagen. Nun sind nur noch zwei übrig. 
+
+#PAGE73 Missions\pictures\poland 13
+Wir haben schon ein Lager zerschlagen. Nun sind noch drei übrig. 
+
+#PAGE75 Missions\pictures\mord_d 4
+Durch Ihre Kampferfahrung erreichen Sie eine neue Stufe. 
+
+#PAGE76 Missions\pictures\mord_d 7
+Sie können Munition aus der Burg holen. Schicken Sie einfach nur einen Transport von Ihrer Werft zu der Ihres Verbündeten. 
+
+#PAGE77 Missions\pictures\mord_d 7
+Munition wird geladen. 
+
+#PAGE78 Missions\pictures\mord_d 7
+Das Laden ist beendet. 
+
+
+#PAGE79 Missions\pictures\mord_d 7
+Es wurde mit dem Entladen der Munition begonnen. 
+
+#PAGE80 Missions\pictures\mord_d 7
+Das Entladen ist beendet. Sie können den Transport nun entsenden, um weitere Munition zu beschaffen. 
+
+#PAGE81 Missions\pictures\mord_d 7
+
+Sie haben das Laden nicht beendet. 
+
+
+#PAGE82 Missions\pictures\mord_d 7
+Sie haben das Entladen nicht beendet. 
+
+#PAGE83 Missions\pictures\mord_d 7Sie haben Transportmittel für Beförderung der Munition verloren. 
+
+Nun können Sie das zweite Transportschiff benutzen. 
+
+#PAGE85 Missions\pictures\mord_d 7
+Ihr Geld reicht nicht aus. 
+
+#PAGE86 Missions\pictures\austria 4
+Möchtet Ihr Packpferde mit Brot für 5000 Goldmünzen kaufen? Ich bin schon alt und habe Angst vor Räubern, aber ich kann Euch verraten, dass es westlich von hier ein Dorf gibt, in dem Ihr das Brot sehr günstig verkaufen könnt. 
+#PAGE87 Missions\pictures\austria 4
+Möchtet Ihr Packpferde mit Brot für 10000 Goldmünzen kaufen? Ich bin schon alt und habe Angst vor Räubern, aber ich kann Euch verraten, dass es westlich von hier ein Dorf gibt, in dem Ihr das Brot sehr günstig verkaufen könnt. 
+
+
+#PAGE88 Missions\pictures\austria 4
+Möchtet Ihr Packpferde mit Brot für 15000 Goldmünzen kaufen? Ich bin schon alt und habe Angst vor Räubern, aber ich kann Euch verraten, dass es westlich von hier ein Dorf gibt, in dem Ihr das Brot sehr günstig verkaufen könnt. 
+.
+#PAGE89 Missions\pictures\austria 4
+Möchtet Ihr Packpferde mit Brot für 20000 Goldmünzen kaufen? Ich bin schon alt und habe Angst vor Räubern, aber ich kann Euch verraten, dass es westlich von hier ein Dorf gibt, wo Ihr das Brot sehr günstig verkaufen könnt. 
+

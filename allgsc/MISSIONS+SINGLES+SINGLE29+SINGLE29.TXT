@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Kosakenauszug 
+   
+Um zu siegen, müssen Sie alle Gegner aus diesem reichen und freien Land, aus der Ukraine, vertreiben. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden. 
+
+#PAGE0 Missions\Pictures\Ukraine 28
+Sie führen eine kleine Kosakensiedlung am Ufer eines großen Flusses an. Die Siedlung liegt in einem reichen Land, um sie herum gibt es viele Ressourcen und es wachsen dichte Wälder. Die Flüsse sind voll mit Fischen. Viele würden dieses Land gerne besitzen ... 
+Hinter der Brücke über einem Arm des großen Flusses erkundet ein Nachbarstaat das Gebiet. Der Flussarm bildet seine Landesgrenze. Die dortigen Machthaber sind aggressiv und dulden keine fremden Siedler in ihrem Gebiet.
+Nicht weit von Ihrer Siedlung arbeiten einheimische Goldsucher. Sie sind aber ziemlich friedlich und gehen keine Konflikte ein. 
+Können Sie Ihre Positionen verteidigen, eine Stadt aufbauen, eine Flotte entwickeln und die Macht ergreifen? 
+
+#PAGE1 Missions\Pictures\poland 19
+In Ihr Dorf kommt eine Delegation von Nachbargoldsuchern:
+- Friede sei mit Euch! Wir sind freie Goldsucher, Eure Nachbarn und wir kommen in friedlicher Absicht. Wir gewinnen Metalle und Kohle westlich von hier. Dort liegen unsere Minen. 
+Wenn Ihr Euch nicht feindlich benehmt, können wir sicher friedlich nebeneinander leben. 
+Wir sind gut zu Nachbarn, solange sie uns nicht überfallen und uns nicht unsere Minen wegnehmen wollen ... Das Land ist reich, die Ressourcen reichen für alle. Viel Glück! 
+
+#PAGE3 Missions\Pictures\Faces 1
+Ein Schreiben vom Anführer der Goldsucher:
+"Lieber Nachbar, der Überfall auf unsere Minen ist eine tückische und kurzsichtige Tat! Unsere Freundschaft ist vorbei und wir verbieten Euch, auf unserem Gebiet aufzutauchen. Ihr werdet Euren aggressiven Schritt noch bereuen."
+
+#PAGE4 Missions\Pictures\Faces 1
+Ein Schreiben von den Goldsuchern:
+"Das war eine tückische und kurzsichtige Tat. Ihr werdet den Tod unserer Anführer teuer bezahlen! 
+
+#PAGE5 Missions\Pictures\poland 0
+Der Anführer der Minenwache:
+"He, Ihr da! Keinen Schritt weiter oder wir schießen!"
+
+#PAGE6 Missions\Pictures\mord3_tut 6 
+Fischer haben eine kleine Insel auf dem Fluss entdeckt. Sie behaupten, dass es dort Gold, Eisen und Kohle gibt. 
+
+#PAGE7 Missions\Pictures\mord2_tut 2
+Aufklärer berichten, dass sich eine große schwedische Armee von Norden her nähert. 
+
+#PAGE9 Missions\Pictures\austria 41
+Unter den Trümmern des Blockhauses des Gegners haben Sie Beute entdeckt - Goldbarren (%d), Nahrung (%d) und Munition.
+
+#PAGE10 Missions\Pictures\faces 14
+Gratulation!!! Sieg!!!!!
+Sie haben es geschafft, die Region zu unterwerfen. 
+Ihre furchtbaren und unbeugsamen Gegner sind besiegt!
+Alle Schwierigkeiten und blutigen Schlachten sind vorbei, das friedliche Leben beginnt ... Bis es von neuem bedroht wird ... 
+
+
+#PAGE11 Missions\Pictures\Ukraine 14
+Die polnische Armee ist zerschlagen (der blaue Gegner). 
+
+#PAGE12 Missions\Pictures\Ukraine 14
+Alle Truppen der Goldsucher sind zerschlagen (der grüne Gegner). 
+
+#PAGE13 Missions\Pictures\Ukraine 14
+Die große schwedische Armee ist zerschlagen (der violette Gegner). 
+
+#PAGE14 Missions\Pictures\Ukraine 20
+Leider haben Sie Ihre Positionen nicht verteidigen können. Ihre Soldaten sind gefallen. 
+Möchten Sie von vorn beginnen? 

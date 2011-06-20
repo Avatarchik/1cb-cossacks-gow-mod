@@ -1,0 +1,96 @@
+#BRIEFING faces 0
+{A}	Goldinsel
+ 
+Ihre Aufgabe ist es, den Gegner, die Allianz von Piemont und England, zu vernichten. 
+Außerdem sollten Sie sowohl Ihre eigenen wichtigen Einrichtungen als auch die Ihres Verbündeten Frankreich vor Banditen und der Gegnerallianz schützen. 
+Sie erleiden eine Niederlange, wenn Ihr Hauptcharakter ums Leben kommt oder wenn Sie eine der wichtigen Einrichtungen (die Mine, den Markt, die Kathedrale) verlieren. Nur der Hauptcharakter darf sich mit Verbündeten unterhalten. 
+
+ 
+Gegenwärtiges Ziel:
+{B}	Neutralisieren Sie die Allianz von Piemont und England.
+{C}	~Neutralisieren Sie die Allianz von Piemont und England.~
+{D}	Vernichten Sie das Lager der Banditen, die Ihren Markt vom Norden aus überfallen. 
+{E}	~Vernichten Sie das Lager der Banditen, die Ihren Markt vom Norden aus überfallen.~
+{F}	Vernichten Sie das Lager der Banditen, die Ihre Goldmine vom Norden aus überfallen.
+{G}	~Vernichten Sie das Lager der Banditen, die Ihre Goldmine vom Norden aus überfallen.~
+{S}     Begeben Sie sich zum Fort der Verbündeten im Osten. 
+{T}     ~Begeben Sie sich zum Fort der Verbündeten im Osten.~
+{K}	Vernichten Sie das Lager der Banditen, die Ihren östlichen Verbündeten Frankreich angreifen. 
+{L}	~Vernichten Sie das Lager der Banditen, die Ihren östlichen Verbündeten Frankreich angreifen. ~
+{O}	Erreichen Sie die Insel mit den Ressourcen.
+{P}	~Erreichen Sie die Insel mit den Ressourcen.~
+{M}	Sprengen Sie die englische Werft im Nordwesten Ihrer Insel auf dem Gebiet von Piemont. Die Schiffe dieser Werft greifen die Insel dauernd an. 
+{N}	~Sprengen Sie die englische Werft im Nordwesten Ihrer Insel auf dem Gebiet von Piemont. Die Schiffe dieser Werft greifen die Insel dauernd an.~
+
+#PAGE0AA Missions\Pictures\ukraine 14
+Neutralisieren Sie die Allianz von Piemont und England! 
+
+In der Region, in der Sie angekommen sind, gibt es eine Goldmine. Die Mine und der Markt stehen Ihnen zur Verfügung. Sie sind wegen ihrer Ressourcen sehr wichtig.  
+Verteidigen Sie diese Einrichtungen vor Räubern! 
+ 
+
+#PAGE0A Missions\Pictures\faces 31
+In der Mitte der Karte liegt eine Insel, auf der es viele Ressourcen gibt! Sie wird von Ihrem Verbündeten Frankreich kontrolliert. Die Franzosen haben Minen auf der Insel gebaut und sind bereit, sie Ihnen zu überlassen. 
+Sie müssen möglichst schnell das französische Fort erreichen, das im Osten liegt. Die Franzosen werden Ihnen helfen, die Insel zu erreichen. 
+Wenn die Engländer die Mine auf der Insel vernichten, bleiben Sie ohne Ressourcen und verlieren. 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Lager der Banditen vernichtet, die Ihren Markt überfallen haben. In dem Lager haben Sie %d Goldmünzen entdeckt. 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen! 
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\poland 4
+Gratulation! Sie haben das Lager der Banditen vernichtet, die Ihre Goldmine überfallen haben. In dem Lager haben Sie %d Goldmünzen entdeckt. 
+
+#PAGE3 Missions\Pictures\faces 34
+Seid gegrüßt, Kommandant! Darf ich frei sprechen? Wir haben große Probleme mit Ressourcen! Wir brauchen Hilfe! 
+
+#PAGE4 Missions\Pictures\faces 6
+Seid gegrüßt, Kommandant! 
+Versucht sofort, mit Euren bayerischen Truppen auf die Insel in der Kartenmitte vorzudringen! Dort sind unsere Leute, die Euch helfen werden! 
+Ich stelle Euch unser schnellstes Schiff zur Verfügung, aber wir benötigen dafür auch Eure Hilfe. Helft uns bei der Verteidigung der nördlichen Fortgrenzen! Ich übergebe Euch dafür unsere wichtigsten Einrichtungen. Räuber wollen unser Heiligtum, unsere Kathedrale vernichten. Das darf nicht geschehen! 
+
+Um die Angriffe der Räuber aufzuhalten, vernichten Sie ihren Stützpunkt, der sich im Nordosten befindet. 
+
+#PAGE6 Missions\Pictures\austria 10
+Sie sind auf der Insel mit den Ressourcen und können sie nun nutzen! Aber Sie sollten alle Minen auf der Insel vor den englischen Angriffen zu Wasser schützen! Dafür müssen Sie die englische Werft nordwestlich von Ihrer Insel zerstören (auf dem Territorium von Piemont). Außerdem dürfen Sie den Engländern keine Chance geben, sich auf der Insel auszubreiten, die sich im Nordosten befindet. 
+
+#PAGE7 Missions\Pictures\austria 36
+Gratulation!! Sie haben die englische Werft zerstört! Nun werden die englischen Schiffe Ihre Minen auf der Insel nicht von Westen her überfallen. 
+
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Truppen von Piemont neutralisiert! 
+
+
+# PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von England und Piemont neutralisiert! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Ziele erfüllt und gewonnen!!! Sie sind ein ausgezeichneter Stratege!!
+
+#PAGE10  Missions\Pictures\mord_d 6
+Sie haben Ihren Markt nicht verteidigen können und verloren! Schade!!
+
+#PAGE10A  Missions\Pictures\mord_d 6
+Sie haben die Kirche der Verbündeten nicht verteidigen können und verloren!
+
+
+#PAGE10B Missions\Pictures\poland 13
+Gratulation! Sie haben das Lager der Banditen vernichtet, die Ihren Verbündeten angegriffen haben! In der Truhe der Räuber haben Sie %d Goldmünzen entdeckt. 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Sie haben Ihre Goldmine nicht verteidigen können und verloren!
+
+
+#PAGE11A  Missions\Pictures\mord_d 6
+Sie haben Ihre Mine auf der Insel nicht verteidigen können und verloren!
+
+#PAGE11B  Missions\Pictures\England 5
+
+Sie haben das schnelle Schiff verloren! Nun müssen Sie die Insel mit eigenen Kräften erreichen. 
+Bauen Sie möglichst schnell ein beliebiges Schiff und machen Sie sich auf zur Insel!! 

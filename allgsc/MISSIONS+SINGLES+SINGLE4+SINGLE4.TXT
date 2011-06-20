@@ -1,0 +1,34 @@
+#BRIEFING faces 0
+{A} Ceylon 
+{B}Sie müssen die niederländischen Kolonisten vernichten. 
+!Sie haben verloren, wenn Ihre Truppen eliminiert werden.
+
+#PAGE1 Missions\Pictures\austria 3
+Die Insel Ceylon ist reich an Bodenschätzen. Sie ist ein idealer Platz für eine Kolonie. 
+Ihre größten Gegner sind aber die Niederländer, weil sie dort schon eine Kolonie angesiedelt haben. 
+
+#PAGE2 Missions\Pictures\austria 45
+Sie müssen dem Druck des Gegners standhalten und ihn von der Insel verdrängen. 
+Passen Sie aber auf, denn die Niederländer haben die Häuptlinge der einheimischen Stämme bestochen, um sie feindlich zu stimmen. 
+
+#PAGE3  Missions\Pictures\austria 8
+Ausgezeichnet! Sie haben die Niederländer von der Insel verdrängt. 
+Der König wird mit Ihnen zufrieden sein. 
+
+#PAGE4  Missions\Pictures\mord_d 6
+Ihre Truppen sind zerschlagen. 
+Sie haben eine Niederlage erlitten. 
+
+#PAGE5  Missions\Pictures\mord3_tut 4
+Eine Fregatte aus Portugal ist angekommen. 
+Sie hat eine Karawane mit Gold für die Unterstützung der Armee transportiert. 
+Bringen Sie die Karawane zum Marktplatz, damit sie abgeladen werden kann. 
+
+#PAGE6  Missions\Pictures\mord2_tut 7
+Die Karawane ist angekommen und entladen. 
+Sie haben 3000 Münzen erhalten. 
+
+#PAGE7  Missions\Pictures\mord_d 6
+Sie haben ein Eingeborenendorf zerstört! Das wird den Überfällen ein Ende machen. 
+#PAGE911 Missions\Pictures\mord2_tut 0
+911

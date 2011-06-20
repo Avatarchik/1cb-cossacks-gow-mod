@@ -1,0 +1,99 @@
+WZR_H0 Cossacks Internet-Wizard
+WZR_00 Willkommen beim Cossacks Internet-Wizard!
+WZR_01 Bitte geben Sie Ihre E-Mail-Adresse an:
+WZR_02 Ihre E-Mail-Adresse
+WZR_03 (Format: username@servername.com)
+WZR_H1 Neuer Account, Passworteingabe
+WZR_10 Neuer Account wird erstellt.
+WZR_11 Geben Sie ein Passwort für Ihren neuen Account ein und klicken auf 'Weiter'.
+WZR_12 (Button 'Weiter' wird erst verfügbar, wenn beide Passworte identisch sind.)
+WZR_13 E-Mail
+WZR_14 Ihr Passwort
+WZR_15 Passwort bestätigen
+WZR_16 Das Passwort soll für eine schnellere Verbindung gespeichert werden.
+WZR_H2 Account gefunden. Bitte geben Sie das Passwort ein.
+WZR_20 Ihr Account wurde in der Datenbank gefunden.
+WZR_20W Zugriff auf Account nicht möglich. Möglicherweise stimmt das Passwort nicht.
+WZR_21 Bitte geben Sie Ihr Passwort ein und klicken auf 'Weiter'.
+WZR_22 Passwort
+WZR_23 Beachten Sie die Groß-/Kleinschreibung des Passworts.
+WZR_24 'AbcD' ist NICHT dasselbe wie 'ABCd'.
+WZR_25 Hab's vergessen! Bitte mailen Sie mir mein Passwort.
+WZR_SR0 Bitte warten ... Datenbank wird durchsucht ...
+WZR_H3 Suchergebnisse
+WZR_30 Es wurden Profile für diese Adresse gefunden.
+WZR_31 Bitte wählen Sie ein Profil aus oder erstellen ein neues.
+WZR_32 Neuer Profilname (Spitzname)
+WZR_33 Bestehendes Profil benutzen
+WZR_SR1 Bitte warten ... Passwortüberprüfung ...
+WZR_H4 Spitzname?
+WZR_40 Es wurden keine Profile für diese E-Mail-Adresse gefunden.
+WZR_41 Bitte geben Sie einen Spitznamen zum Online-Gebrauch ein.
+WZR_42 Oder klicken Sie auf 'Zurück', um eine andere E-Mail-Adresse zu suchen.
+WZR_43 Spitzname
+WZR_ERR1 Neuer Account konnte nicht erstellt werden. Erneuter Versuch mit beliebiger Taste.
+WZR_ERR2 Neues Profil konnte nicht erstellt werden. Erneuter Versuch mit beliebiger Taste.
+WZR_W0 Bitte warten ... Account wird erstellt ...
+WZR_W1 Bitte warten ... Profil wird erstellt ...
+WZR_ERR3 Verbindung nicht möglich. Beliebige Taste drücken.
+WZR_LOGIN0 Verbindung mit persönlichem Account ...
+WZR_LOGFAIL Verbindung mit Account nicht möglich. Vielleicht stimmt das Passwort nicht. 
+WZR_ERR4 Serververbindung nicht möglich. Beliebige Taste drücken.
+GEN_M Männlich
+GEN_F Weiblich
+GEN_U Unbekannt
+MONTH_0 Januar
+MONTH_1 Februar
+MONTH_2 März
+MONTH_3 April
+MONTH_4 Mai
+MONTH_5 Juni
+MONTH_6 Juli
+MONTH_7 August
+MONTH_8 September
+MONTH_9 Oktober
+MONTH_10 November
+MONTH_11 Dezember
+UNIQ_L0 Warnung! 
+UNIQ_L1 Dieser Spitzname wird bereits von einem anderen Cossacks-Spieler verwendet. Sie können ihn trotzdem verwenden, aber im Chat ist Ihr Name nicht mit einem Stern versehen. Klicken Sie auf 'Zurück', um einen anderen Namen zu wählen oder 'Weiter', um den aktuellen zu verwenden.
+UNIQ_CH0 Bitte warten ...
+SCORANK Punktestand: %d, Rang: %s
+RS_RANK_0 Gutsherr 
+RS_RANK_1 Edelmann
+RS_RANK_2 Ritter
+RS_RANK_3 Baron
+RS_RANK_4 Vicomte
+RS_RANK_5 Graf
+RS_RANK_6 Marquis
+RS_RANK_7 Herzog
+RS_RANK_8 König
+PIF_ST0 Land
+PIF_ST1 Geburtstag
+PIF_ST2 Geschlecht
+PIF_ST3 E-Mail
+PIF_ST5 Homepage
+PIF_UNACC Private Informationen vom GameSpy-Server nicht abrufbar.
+PSR_NOREG1 Spieler %s bietet an, das Spiel nicht im\Global Rating System zu registrieren. Drücken Sie 'Y' zum\Zustimmen oder 'N' zum Ablehnen.
+PSR_DENY Spieler %s hat das Angebot abgelehnt.
+PSR_ACCEPT Alle Spieler haben zugestimmt. Das Spiel wird nicht gewertet.
+VOTE_YES Ja, ich stimme zu.
+VOTE_NO Nein, ich stimme nicht zu!
+VOTE_UNK ???
+HDR_SCORE: Punktestand:
+HDR_POPUL: Bevölkerung:
+HDR_DSCORE Punktestand nach Spiel:%d, Änderung:%d
+LERR_TIMEOUT Keine Verbindung. Vielleicht liegt schlechte Internetverbindung vor. Versuchen Sie es noch einmal.
+LERR_INVNICK Ihr Spitzname stimmt nicht. Klicken Sie auf 'Neu' und ändern die Login-Parameter.
+LERR_INVEMAIL Ihre E-Mail-Adresse stimmt nicht. Klicken Sie auf 'Neu' und ändern die Login-Parameter.
+LERR_INVPASS Ihr Passwort stimmt nicht.
+LERR_INVPROF Ihr Profil stimmt nicht. Klicken Sie auf 'Neu' und ändern die Login-Parameter.
+LERR_PROFDEL Profil wurde gelöscht. Mitspielen nicht möglich.
+LERR_FAIL Die Verbindung zum GameSpy-Server ist unterbrochen und Ihre persönlichen Daten sind vorübergehend nicht verfügbar. Spiele im Rating-System sind jetzt nicht möglich. Sie können nur anonym spielen.
+LERR_UNKN Unbekannter Fehler. Code: %d
+DATASERVERR Der GameSpy-Server ist abgestürzt und Ihre persönlichen Daten sind vorübergehend nicht verfügbar. Spiele im Rating-System sind jetzt nicht möglich. Sie können nur anonym spielen.
+SENDR_L1 Ressourcenübergabe
+SENDR_L2 Senden an:
+SENDR_L3 Ressource:
+SENDR_L4 Menge:
+SENDR_L5 Transfer
+SENDR_L6 Abbrechen

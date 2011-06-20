@@ -1,0 +1,49 @@
+QIr_1 Transportschiff - 2000 Eisen.
+QIr_2 Xebek - 6000 Eisen.
+QIr_3 Nichts.  
+FM4_1 Packpferde aussenden, um Stein zu holen.
+FM4_2 Packpferde in die verbündete Stadt senden.
+FM4_3 Kanone - 500 Goldmünzen 
+FM4_4 Mörser - 200 Goldmünzen 
+FM7_0 10 Pikeniere - 500 Goldmünzen 
+FM7_1 10 Musketiere - 700 Goldmünzen 
+FM7_2 10 Ritter - 2000 Goldmünzen 
+FM7_3 10 Dragoner - 3000 Goldmünzen 
+FM7_4 10 Bogenschützen - 300 Goldmünzen 
+FM7_5 10 Grenadiere - 500 Goldmünzen 
+FM_non Nichts.
+FM8_0 10 Pikeniere - 200 Goldmünzen 
+FM8_1 10 Musketiere - 300 Goldmünzen 
+FM8_2 10 Ritter - 500 Goldmünzen 
+FM8_3 10 Dragoner - 600 Goldmünzen 
+FM10_A Schicken Sier einen Teil der Mannschaft auf das Schiff.
+FM10_B Versenken
+FM10_0 Holz
+FM10_1 Stein
+FM10_2 Nahrung
+FM10_3 Eisen
+FM10_4 Kohle
+FM10_5 Schiff reparieren
+FM10_6 Beute verkaufen 
+FM10_7 Proviant und Munition kaufen.
+FM10_11 Schiff aufrüsten
+FM10_8 Segel und Fischernetze verbessern - 20000.
+FM10_9 Neue Kanonen kaufen - 10000.
+FM10_10 Kanoniere schulen - 15000.
+FM18_1 Linke Flanke 
+FM18_2 Zentrum
+FM18_3 Rechte Flanke 
+FM18_4 Infanterie
+FM18_5 Schützen
+FM18_6 Berittene Schützen 
+FM18_7 Schwere Kavallerie
+FM18_8 Leichte Kavallerie 
+FM18_9 Angriff
+FM18_10 Rückzug
+FM18_11 Zur linken Flanke Flanke übergehen
+FM18_12 Ins Zentrum übergehen 
+FM18_13 Zur rechten Flanke übergehen  
+FM18_14 Linke Flanke des Gegners
+FM18_15 Zentrum der gegnerischen Truppen
+FM18_16 Rechte Flanke des Gegners
+FM18_break Kommando zurück!

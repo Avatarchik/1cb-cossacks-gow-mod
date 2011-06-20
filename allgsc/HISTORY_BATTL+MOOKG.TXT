@@ -1,0 +1,13 @@
+Das Ziel der niederländischen Armee (blau) ist, an den Spaniern vorbei zu gelangen und Ludwig von Nassau (den General) in die Zone 1 zu bringen.    
+Die niederländische Armee verliert, wenn Ludwig getötet wird. 
+
+Jeder Spieler hat einmalige Einheiten mit einzigartigen Fähigkeiten: Die Spanier den General, die Niederländer den General (Ludwig) und den Fahnenträger.  
+
+Alle Einheiten in einem bestimmten Umkreis um den General herum erhalten einen Verteidigungsbonus. In der Nähe des Fahnenträgers erhalten sie einen Angriffsbonus. 
+
+Die Hauptquartiere der Armee liegen in den Zonen 2 und 5. Wenn der General die Zone seines Hauptquartiers verlässt, werden bestehende Formationen aufgelöst und der Spieler kann keine neuen Formationen bilden, bis der General wieder anwesend ist.   
+
+In Zone 5 steht ein Gebäude mit der Bezeichnung "Kommandozentrum". Wird dieses Gebäude zerstört, so steigen Moral, Verteidigung und Angriff der Niederländer. Die Moral der Spanier steigt, wenn das "Kommandozentrum" in Zone 3 zerstört wird.  
+
+Wenn die Spanier Zone 4 über bestimmte Zeit hinweg besetzen, erscheint dort Verstärkung, die ihnen im Kampf hilft.  
+

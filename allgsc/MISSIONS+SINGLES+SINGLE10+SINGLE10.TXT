@@ -1,0 +1,20 @@
+#BRIEFING faces 0
+{A} Sumpfland 
+  
+Gegenwärtiges Ziel:
+{B}Sie müssen den Feind jenseits der Sümpfe finden und vernichten. 
+{C}Um die Überfälle der Räuber aus den Sümpfen zu stoppen, muss man ihren Stützpunkt finden und vernichten. 
+{D}~Finden und vernichten Sie den Stützpunkt der Räuber.~
+
+#PAGE0 Missions\Pictures\mord2_tut 14
+Ausgezeichnet!!! Der Stützpunkt der Räuber ist zerstört!! Jetzt haben die Überfälle ein Ende. 
+
+#PAGE1 Missions\Pictures\austria 1
+Ihre Minen sind geplündert worden. Sie könnten wegen Ressourcenmangel eine Niederlage erleiden. 
+
+#PAGE2 Missions\Pictures\Faces 13
+Die Inseln wimmeln von Kundschaftern der Räuber. Die Überwachung muss verstärkt werden. Die Räuber werden sicher versuchen, die Minen zu plündern. 
+
+
+#PAGE3 Missions\Pictures\mord_tut 29
+Im Räuberlager haben Sie Ihr gestohlenes Gold gefunden! Hurra!!! 

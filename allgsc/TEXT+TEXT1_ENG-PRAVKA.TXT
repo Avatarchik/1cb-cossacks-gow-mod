@@ -1,0 +1,27 @@
+STOPUPG Abbrechen
+UNLOADALL Alle aussteigen
+IDLE_P Alle untätigen Bauern wählen
+IDLE_M Alle unbesetzten Minen wählen
+NationalForces Allgemeine Informationen
+DeathList Opferliste
+Economica Marktpreise
+E_Comment Ihr Angebot\Weiß = Preise pro 1000\Gelb = Nominalpreise\Grün = Profitverkäufe
+Doxod Einkommen und Auslagen
+INFO_G1 Besetztes Gebiet
+INFO_G2 Punktestand
+INFO_G3 Opferliste
+INFO_G4 Einkommen und Auslagen
+INFO_R0 Wartungsauslagen
+INFO_R1 Arbeiter in Minen:
+INFO_R2 Ressourcengewinnung:
+INFO_R3 Arbeiter in Goldminen: %d
+INFO_R4 Wartungsauslagen
+INFO_R5 Menge
+INFO_R6 Auslagen
+INFO_R7 Wartungsauslagen\= zur Wartung benötigte Arbeiterzahl\in Goldminen (auch in\Bruchteilen).
+INFO_R8 Gesamt:
+UPGMADE Verbesserung abgeschlossen: %s
+CAPBLD Ihre Einheiten wurden vom Feind übernommen: %s
+LOSTBLD Sie haben %s verloren.
+BLDBLD %s wurde erfolgreich gebaut.
+FINBLD %s hat die Einheitenproduktion abgeschlossen.

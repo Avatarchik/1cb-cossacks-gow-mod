@@ -1,0 +1,1 @@
+Mit Muskete und Bajonett bewaffneter Infanterist. Trifft Ziele sowohl auf weite Entfernung als auch im Nahkampf. Seine Herstellung kostet wenig, sobald die entsprechende Aufrüstung in der Akademie vorgenommen wurde. Effektiv im Nahkampf.

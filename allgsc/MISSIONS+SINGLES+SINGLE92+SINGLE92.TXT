@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A} Portugiesen in Brasilien
+
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen oder Ihre Werft verlieren. 
+
+Gegenwärtiges Ziel:
+{B}Sie sollen die niederländischen Kolonisten vernichten. 
+
+
+#PAGE1 Missions\Pictures\austria 25
+Die Niederländer greifen unsere Seeterritorien immer öfter an. 
+Eine große Gefahr droht unserer Kolonie in Brasilien. Diese reichen Länder können unserer Krone sehr viel Gold einbringen. Ihre Aufgabe ist es, die niederländischen Kolonisten zu vernichten und den Angriffen der niederländischen Marine zu widerstehen.  
+Unser König setzt viel auf Sie. Sollte der Kriegszug erfolgreich sein, beschert er Sie mit reichen Grundstücken im Norden von Portugal. 
+
+#PAGE2 Missions\Pictures\austria 45
+Sie können die niederländischen Schiffe angreifen, die Gold aus den Kolonien befördern. 
+
+#PAGE3  Missions\Pictures\austria 8
+Ausgezeichnet! Sie haben gesiegt!
+Der König ist mit Ihnen sehr zufrieden. 
+
+#PAGE4  Missions\Pictures\mord_d 6
+Ihre Truppen sind zerschlagen.
+Niederlage
+
+#PAGE5  Missions\Pictures\mord3_tut 8
+Eine niederländische Fregatte ist von Ihnen versenkt worden.
+In den Schiffsräumen haben Sie 5000 Goldmünzen entdeckt.
+
+#PAGE6  Missions\Pictures\mord_d 7
+Die Werft ist verloren.
+Sie haben verloren ...
+
+#PAGE911 Missions\Pictures\mord2_tut 0
+911

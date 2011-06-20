@@ -1,0 +1,95 @@
+#BRIEFING faces 0
+Kampf um Ressourcen
+{E}Sie haben gewonnen, wenn Sie die dänische Armee vernichten. 
+   Sie erleiden eine Niederlage, wenn Sie Ihre Armee und Einrichtungen verlieren.
+
+Gegenwärtiges Ziel:
+{A}Beginnen Sie mit dem Ressourcenhandel.
+{B}~Beginnen Sie mit dem Ressourcenhandel.~
+{C}Oxford tauscht Nahrung gegen Eisen. 
+{D}Nottingham tauscht Nahrung gegen Kohle. 
+{F}Im Dorf werden Befehle von Ihren Husaren erteilt.
+
+#PAGE1 Missions\Pictures\England 30
+Wählen Sie eine Handlung, die Sie im Dorf ausführen möchten. 
+
+#PAGE11 Missions\Pictures\England 30
+%-10s
+Produktion: %-10s
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s -  %-10d
+%-10s -  %-10d
+Budget-Einkommen - % - 10d
+Schatz-Einnahmen - % - 10d
+Erforderlich für Produktion - % - 10d
+Laufendes Budget   -   % - 10d
+(Bevölkerung - %5d Menschen)
+
+#PAGE12 Missions\Pictures\England 17
+Steuer festlegen:
+
+#PAGE13 Missions\Pictures\austria 44
+Handel
+
+#PAGE131 Missions\Pictures\England 17
+Preise im Dorf z.Zt.:
+Wir tauschen
+%-10s  - %-10d
+??
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Die Marschroute für die Karawane festlegen:
+
+#PAGE1331 Missions\Pictures\poland 20
+Was möchten Sie mit der Karawane tun?
+
+#PAGE2 Missions\Pictures\poland 1
+Leider verfügen wir nicht über diese Karawane.
+
+#PAGE3 Missions\Pictures\poland 1
+Die Karawane ist vernichtet.
+
+#PAGE4 Missions\Pictures\poland 1
+Mit wem soll gehandelt werden?
+
+#PAGE5 Missions\Pictures\poland 1
+Womit aus den Lagerhäusern sollen die Packpferde beladen werden? 
+
+#PAGE6 Missions\Pictures\poland 1
+Wogegen soll die Ladung in den Nachbardörfern getauscht werden?
+
+#PAGE7 Missions\Pictures\poland 20
+handelt mit %-10s
+verkauft     %-10s
+kauft     %-10s
+geladen
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+Sie verfügen nicht mehr über diese Karawane.
+
+#PAGE9 Missions\Pictures\poland 1
+Wir sind das friedliche Dorf Oxford und bereit, mit Euch zu handeln. 
+Wir erzeugen Eisen, wenn wir genug Nahrungsvorräte haben. Wenn Ihr unser Dorf vor Räubern schützt, sind wir bereit, Euch Eisen zu liefern, wenn Ihr uns genug Nahrung besorgt. 
+
+#PAGE10 Missions\Pictures\poland 1
+Wir sind das friedliche Dorf Nottigham und bereit, mit Euch zu handeln. 
+Wir erzeugen Kohle, wenn wir genug Nahrungsvorräte haben. Wenn Ihr unser Dorf vor Räubern schützt, sind wir bereit, Euch Eisen zu liefern, wenn Ihr uns genug Nahrung besorgt. 
+#PAGE21 Missions\Pictures\austria 8
+Sie haben verloren ...
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+Sieg!!!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Sie wurden zum Anführer dieses Dorfes ernannt. Sammeln sie Truppen und zerschlagen Sie die dänische Armee. Nun werden Sie auch mit freundlichen Nachbardörfern handeln können. 
+Dort können Ihre Husaren ausführliche Informationen über mögliche Geschäfte erhalten.  
+
+#PAGE911 Missions\Pictures\mord_tut 39
+Das ist 911.
+

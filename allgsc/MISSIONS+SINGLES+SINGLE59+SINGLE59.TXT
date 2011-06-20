@@ -1,0 +1,24 @@
+#BRIEFING faces 0
+{A} Die Krim
+
+!Für den Sieg müssen Sie den Kosakenposten vernichten. 
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren. 
+
+#PAGE1 Missions\Pictures\ukraine 14
+Die türkische Armee verfügt über viele Einheiten, deren größter Teil aber nicht aus regulären Truppen besteht. 
+Sie müssen einen Trupp der regulären Infanterie - Janitschare - bilden und den Kosakenposten mit Unterstützung der Tataren-Kavallerie angreifen und vernichten. 
+Die Bildung einer kampffähigen Einheit ist keine so einfache Aufgabe, wie es auf den ersten Blick scheint. Ihre Nachbarn, die Kosaken, greifen das Gelände oft an, deshalb sollten Sie die Abwehr sichern. 
+
+#PAGE2 Missions\Pictures\ukraine 27
+Ihre Aufgabe ist es, den Kosakenposten zu vernichten, von dem aus unser Land angegriffen wird. 
+Berittene Bogenschützen sind ausgezeichnete Krieger, deshalb sollten Sie sie zusammen mit Janitscharen benutzen. 
+
+#PAGE3  Missions\Pictures\austria 16
+Niederlage!!
+
+#PAGE5  Missions\Pictures\ukraine 20
+Sie haben den Kosakenposten vernichtet!
+Gratulation!! Das war kein leichter Kampf!! 
+
+#PAGE6  Missions\Pictures\austria 16
+Söldner rebellieren und laufen zum Feind über. 

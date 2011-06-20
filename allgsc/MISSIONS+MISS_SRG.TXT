@@ -1,0 +1,7 @@
+Qn1_0 Österreich 
+Qn1_1 Frankreich
+Qn1_4 Deutschland 
+Qn1_5 Russland
+Qn1_6 Sachsen 
+Qn1_7 Schweden 
+

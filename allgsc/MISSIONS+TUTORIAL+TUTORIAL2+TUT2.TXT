@@ -1,0 +1,12 @@
+Themen:
+Wozu dient die Schmiede?
+Wozu dient die Kaserne?
+Wie erstellt man Soldaten?
+Wie funktioniert die vereinfachte Erstellung von Einheiten?
+Wie bringt man eine ausgewählte Gruppe von Einheiten in den Angriffsmodus?  
+Wie befiehlt man militärischen Einheiten, Bauern und Gebäude zu bewachen?
+Welche Einheiten werden nach dem Bau der Akademie verfügbar?
+Wie erstellt man eine Formation?
+Was ist der Unterschied zwischen einer Gruppe und einer Formation?
+Welche Einheit kann verwundete Soldaten heilen und in welchem Gebäude wird sie erstellt?
+Warum sind berittene Einheiten zu bevorzugen?

@@ -1,0 +1,33 @@
+MMSINGLE Einzelspieler-Modus\Klicken Sie hier, um auf einer Zufallskarte gegen den Computer zu spielen\oder um eine Einzelmission oder Kampagne zu starten.
+MMMULTI Mehrspielermodus\Klicken Sie hier, um über Netzwerk gegen 1 bis 6 Gegner zu spielen.
+MMLOAD Gespeichertes Spiel laden\Aufzeichnung eines Spiels laden.
+MMOPTIONS Klicken Sie hier, um die Spieleinstellungen zu ändern.
+MMVIDEO Editor starten.
+MMEXIT Klicken Sie hier, um das Spiel zu verlassen.
+SCOMPAGIN Klicken Sie hier, um eine Kampagne zu spielen.
+SMISSION Klicken Sie hier, um eine Einzelmission zu spielen.
+SRANDOM Klicken Sie hier, um auf einer Zufalls- oder einer bestimmten Karte gegen den Computer zu spielen.
+SHISTORICAL Klicken Sie hier, um eine historische Schlacht zu spielen.
+SBACK Zurück zum Hauptmenü.
+MDEATHM Spiel starten.
+MHISTBATT Klicken Sie hier, um über Netzwerk eine historische Schlacht zu spielen.
+MBACK Zurück zum Hauptmenü.
+SOSTART Klicken Sie hier, um ein Einzelspieler-Spiel zu starten.
+SOCANCEL Zurück zum Hauptmenü.
+SOPAGES Klicken Sie auf ERSTELLTE KARTE, um eine vorgefertigte Karte zu wählen.\Klicken Sie auf ZUFALLSKARTE, um die Einstellungen des Zufallskarten-Generators zu ändern.
+SOMAPSTYLE Landschaftstypen: LAND - Land mit einigen kleinen Teichen. MITTELMEER - In der Mitte liegt ein großer See,\umgeben von Land. HALBINSELN - Halbinseln, die große Gewässer umgeben. INSELN - Abgeschnittene Landstriche\im Meer. KONTINENTE - Große Kontinente, durch breite Wasserstraßen voneinander getrennt. KONTINENT - Ein großes Stück Land, umgeben vom Meer.
+SOMOUNT Bodentypen: EBENE - Eine flache Ebene mit wenigen Hügeln. NIEDRIGE BERGE - Eine Landschaft mit ein paar niedrigen Bergen.\HOHE BERGE - Eine Landschaft mit vielen hohen Bergen. HOCHLAND - Ein Hochland mit vielen niedrigen Bergen.\PLATEAU - Eine Hochebenenlandschaft. WÜSTE - weite Sandebenen.  
+SORESONMAP Mineralienvorkommen: MAGER - Auf der Karte gibt es kaum Ressourcen (Kampf um Ressourcen).\MITTEL - Normale Ressourcenmengen (die Vorkommen sind strategisch wichtig).\REICH - Die Karte ist reich an Ressourcen (Sie müssen sich keine Sorgen darum machen).
+SORESTOT Anfängliche Ressourcenmengen: NORMAL - Normale anfängliche Ressourcen (Beginn der Entwicklung gleich zu Beginn des Spiels).\REICH - Viele anfängliche Ressourcen (schnelle Entwicklung).\TAUSENDE - Sehr viele anfängliche Ressourcen (ein schneller Start). MILLIONEN - unglaublich viele Ressourcen (Lichtgeschwindigkeits-Start).
+SOCHANGENAME Klicken Sie hier, um den Namen zu ändern.
+SOCHANGECOMP Klicken Sie hier, um den Computergegner ein- und auszuschalten.
+MOREADY Klicken Sie hier, wenn Sie für das Netzwerkspiel bereit sind.
+MOSTART Spiel starten.
+MOCANCEL Zurück zum Hauptmenü.
+MOCHANGENAME Klicken Sie hier, um den Spielernamen zu ändern.
+MMCHANGECOLOR Klicken Sie hier, um die Farbe der Nation zu ändern.
+MMCHANGENAT Klicken Sie hier, um die Spielernation zu ändern.
+MOPAGES Klicken Sie auf ERSTELLTE KARTE, um eine vorgefertigte Karte zu wählen.\Klicken Sie auf ZUFALLSKARTE, um die Einstellungen des Zufallskarten-Generators zu ändern.\Klicken Sie auf SPIEL LADEN, um einen gespeicherten Spielstand zu laden.
+DIFFICULTY Hier können Sie einen von vier Schwierigkeitsgraden auswählen.
+OLDVER Eine veraltete Spielversion macht die Verbindung unmöglich. Updates finden Sie unter www.cossacks.de
+??? Zufall

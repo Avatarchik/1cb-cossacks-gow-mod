@@ -1,0 +1,54 @@
+#BRIEFING faces 0
+{A} Weltkrieg
+ 
+Ihre Aufgabe ist es, die Allianz von Dänemark, Sachsen und Portugal zu zerschlagen. Dafür muss Portugal auf der Insel nordöstlich von Ihnen vernichtet werden. 
+Leider können Ihre Arbeiter keine Artilleriedepots bauen, deshalb müssen Sie die notwendigen Pläne beim Feind auf dem Festland finden. 
+Sie erleiden eine Niederlage, wenn Sie das Rathaus mit dem Staatsschatz verlieren oder wenn Sie die Pläne nicht bekommen. 
+
+Gegenwärtiges Ziel:
+{B} Vernichten Sie Portugal auf der Insel nordöstlich von Ihnen. 
+{C}~Vernichten Sie Portugal auf der Insel nordöstlich von Ihnen.~
+{D} Finden Sie die Pläne für das Artilleriedepot in einem der Rathäuser von Dänemark, Sachsen oder Portugal (auf dem Festland).
+{E}~Finden Sie die Pläne für das Artilleriedepot in einem der Rathäuser von Dänemark, Sachsen oder Portugal (auf dem Festland).~
+
+#PAGE0A Missions\Pictures\mord_tut 29
+In Ihrem Rathaus wird der Staatsschatz aufbewahrt! Lassen Sie den Gegner auf keinen Fall dorthin! 
+
+#PAGE0B Missions\Pictures\faces 31
+Sie müssen die Allianz von Dänemark, Sachsen und Portugal zerschlagen. Dazu müssen Sie Portugal auf der Insel nordöstlich von Ihnen besiegen, weil die Allianzführung dort ihren Sitz hat!  
+
+#PAGE0C Missions\Pictures\faces 31
+Leider können Ihre Arbeiter keine Artilleriedepots bauen. Dadurch können Sie keine Schiffe bauen. Deshalb müssen Sie die notwendigen Pläne beim Feind auf dem Festland finden. 
+Wenn Sie das Rathaus mit den Plänen vernichten, können Sie die Insel nicht erreichen und verlieren. 
+
+
+#PAGE2 Missions\Pictures\faces 14
+Die Allianzführung hat von Ihrem Standort erfahren und schickt Truppen zu Ihnen! 
+
+#PAGE7 Missions\Pictures\austria 37
+Das feindliche Rathaus mit den Plänen für das Artilleriedepot ist vernichtet. Sie haben verloren! 
+
+#PAGE8 Missions\Pictures\austria 6
+Sie haben Dänemark, Sachsen und Bayern neutralisiert! Sie müssen nun noch Portugal vernichten, wo die Allianzführung ihren Sitz hat.  
+
+
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die dänischen Truppen vernichtet!
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die bayerischen Truppen vernichtet!
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben die sächsischen Truppen vernichtet!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erledigt und gewonnen!!
+
+#PAGE10 Missions\Pictures\austria 30
+Gratulation! Sie haben Portugal vernichtet und die Gegnerallianz neutralisiert.  
+
+#PAGE11  Missions\Pictures\mord_d 6
+Sie haben das Rathaus mit dem Staatsschatz verloren und eine Niederlage erlitten. 
+
+#PAGE12 Missions\Pictures\austria 42
+Sie haben das feindliche Rathaus mit den Plänen für das Artilleriedepot eingenommen. Nun können Ihre Arbeiter ein eigenes Artilleriedepot bauen! 

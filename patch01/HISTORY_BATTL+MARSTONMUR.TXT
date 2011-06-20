@@ -1,0 +1,8 @@
+#ZoneVictory0 Missions\Pictures\austria 6
+    Sie haben die strategischen Zonen eingenommen, das feindliche Lager ist in Panik ... Sie sind siegreich!!!
+#ZoneVictory1 Missions\Pictures\faces 10
+    Der Feind hat die strategisch wichtigen Zonen eingenommen. Ihre Truppen flüchten in Panik vom Schlachtfeld ... Sie haben verloren ...
+#ArmyLost0 Missions\Pictures\faces 10
+    Sie haben Ihre Armee verloren. Die letzten Einheiten flüchten vor dem Desaster ... Sie haben verloren ...
+#ArmyLost1 Missions\Pictures\austria 6
+    Sieg!!! Sie haben die Armee des wertlosen Parlaments zerschmettert. Lang lebe der König! Hurra!!! 

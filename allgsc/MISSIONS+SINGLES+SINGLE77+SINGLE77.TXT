@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A}	Operation Bergpässe
+   
+Um zu gewinnen, müssen Sie die regulären österreichischen und französischen Einheiten in der Region vernichten. 
+Sie haben verloren, wenn Ihre Truppen vernichtet werden. 
+   
+Gegenwärtiges Ziel:
+{B}Schicken Sie einen Trupp zur venezianischen Akademie. 
+{C}~ Schicken Sie einen Trupp zur venezianischen Akademie.~
+{D}Vernichten Sie alle Gegner in der Region. 
+   
+#PAGE0 Missions\Pictures\faces 14
+
+Den kühntapferen Truppen von Piemont widerstehen österreichische und französische Einheiten. Diese Armeen bedrohen das friedliche Leben in diesem Gebiet. Sie sollen sie nun eliminieren! 
+Leider haben Ihre Bauern die Pläne der Akademie verloren. Deshalb können Sie sie zunächst nicht bauen. Um die für den Bau der Akademie notwendigen Kenntnisse zu erwerben, müssen Sie einen Trupp zur Akademie im Zentrum von Venedig (orangefarben) schicken, die in der Nähe liegt. 
+Man muss aber beachten, dass die Gegend unruhig ist und jeder einzelne Schritt gefährlich sein kann. Beeilen Sie sich! 
+
+Nach den Angaben Ihrer adeligen und treuen Freunden bereiten sich Ihre gierigen und tückischen Gegner auf einen blutigen und erbarmungslosen Krieg in dieser blühenden und reichen Gegend vor.  
+
+
+
+#PAGE01 Missions\Pictures\poland 23
+Sie haben eine kleine niedliche Stadt betreten, die zu Venedig gehört. Die Gärten sind gepflegt, die Einwohner freundlich. Es duftet nach Obst und Blumen ... Sie denken, dass das Leben perfekt ist und Sie haben in dieser Stadt nichts zu befürchten. Um so mehr, da es hier verantwortungsvolle Wachen gibt. 
+Alles, was Sie tun müssen, ist, die notwendigen Informationen in der Akademie im Zentrum zu beschaffen. 
+
+#PAGE02 Missions\Pictures\mord_tut 0
+Sie gehen ruhig durch die Stadt ... begrüßen freundlich die Einheimischen ... 
+Als plötzlich ... ! Aus den Häusern springen schreiende und fluchende Fremde. Und ohne Vorwarnung ... geht es los ... 
+- Sabotage! Aufstand in der Stadt! - rufen die Wachen und greifen an. 
+
+#PAGE2 Missions\Pictures\mord_tut 23
+Sie erhalten Kenntnisse, die für den Bau der Akademie notwendig sind (dies nimmt ein wenig Zeit in Anspruch). 
+
+#PAGE3 Missions\Pictures\mord_tut 2
+Der Kenntniserwerb ist unterbrochen (Ihre Leute sind nicht vor der Akademie).
+
+#PAGE4 Missions\Pictures\mord_tut 32
+Alle notwendigen Kenntnisse sind erworben (Akademiebau ist verfügbar).
+
+#PAGE5 Missions\Pictures\mord2_tut 21
+Die Festung ist eingenommen.
+
+#PAGE10 Missions\Pictures\austria 31
+Ihre Mission ist gescheitert, Ihre Stadt ist vernichtet.
+
+#PAGE11 Missions\Pictures\faces 9
+Die regulären französischen Truppen sind vernichtet (der blaue Gegner). 
+
+#PAGE12 Missions\Pictures\faces 9
+
+Die regulären österreichischen Truppen sind vernichtet (der grüne Gegner). 
+
+#PAGE15 Missions\Pictures\faces 9
+Alle Kräfte der Bergbewohner sind vernichtet (der schwarze Gegner). 
+
+#PAGE20 Missions\Pictures\faces 14
+Alle Gegner sind geschlagen ! SIEG!!!! 

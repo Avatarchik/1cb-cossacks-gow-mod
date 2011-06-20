@@ -1,0 +1,12 @@
+#BRIEFING faces 0
+{A} Der Tunnel
+
+Gegenwärtiges Ziel:
+{B} Vernichten Sie vier Gegner.
+
+#PAGE0 Missions\Pictures\poland 7
+Sie sind umstellt und gegen Sie kämpfen vier starke Gegner! Sie haben aber einen Vorteil - Sie können die versteckten Tunnel benutzen, um dem Gegner in den Rücken zu fallen.  
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+

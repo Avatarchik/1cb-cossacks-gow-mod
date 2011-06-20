@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffneter Kavallerist. Trifft Ziele auch auf große Entfernung. Kann nicht feuern, wenn der Feind zu nahe herankommt. Hohe Feuerrate. Benötigt Gold. Verbraucht viel Kohle und Eisen zum Feuern. Effektiv gegen andere Söldner.

@@ -1,0 +1,28 @@
+#BRIEFING faces 0
+Krieg gegen Söldner
+
+
+Um zu gewinnen, müssen Sie die Polen und die Stützpunkte der Söldner zerschlagen. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren.  
+
+{A} Gegenwärtiges Ziel:
+{B}Zerschlagen Sie die polnische Siedlung.
+{C}~ Zerschlagen Sie die polnische Siedlung.~
+{D} Zerstören Sie das Lager der Söldner.
+{E}~Zerstören Sie das Lager der Söldner.~
+
+#PAGE2301 Missions\Pictures\Ukraine 28
+Nordwestlich von Ihnen gibt es eine reiche polnische Siedlung, in der die Armee lagert. Zerschlagen Sie dort alles inklusive der Wachen. Vergessen Sie aber dabei die Söldner nicht, die verhindern wollen, dass Sie die Kampfhandlungen abschließen.  
+
+#PAGE2302 Missions\Pictures\Ukraine 20
+Sie haben Ihre Stellungen nicht schützen können und verloren.
+
+#PAGE2303 Missions\Pictures\Ukraine 17
+Dank Ihrer genialen Führung haben Sie es perfekt geschafft und eine Auszeichnung verdient. 
+
+#PAGE2304 Missions\Pictures\Ukraine 26
+Sie haben die Polen besiegt! Los! Schlagen Sie die Söldner! 
+
+#PAGE2305 Missions\Pictures\Ukraine 26
+Sie haben die Söldner besiegt! Los! Schlagen Sie die Polen! 
+Attacke, der Sieg ist nah! 

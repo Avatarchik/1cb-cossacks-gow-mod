@@ -1,0 +1,1 @@
+Hajdus trugen die traditionellen Gewänder ihres Landes, die im Allgemeinen reich und farbenfroh bestickt waren. Durch eine besondere Schärpe konnten sie gleich mehrere Pistolen und Dolche auf einmal tragen. 

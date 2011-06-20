@@ -1,0 +1,96 @@
+#BRIEFING faces 0
+{E} Kriegsgeschäfte 
+{D}Um zu gewinnen, müssen Sie die französischen Truppen besiegen. 
+
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Gebäude verlieren.  
+
+Gegenwärtiges Ziel:
+{A}Beginnen Sie mit dem Handel mit dem Dorf. 
+{B}~Beginnen Sie mit dem Handel mit dem Dorf.~
+{C}!Das Dorf tauscht Essen gegen Eisen. 
+   Befehle werden im Dorf durch Ihre Husaren erteilt. 
+
+#PAGE1 Missions\Pictures\England 30
+Wählen Sie eine Handlung, die Ihrer Meinung nach für das Dorf erforderlich ist: 
+
+#PAGE11 Missions\Pictures\England 30
+
+         %-10s
+Produktion : %-10s
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+%-10s  - %-10d
+Budget-Einnahmen 	- %-10d
+Schatz-Einnahmen  	- %-10d
+Erforderlich für die Produktion - %-10d
+Laufendes Budget   	- %-10d
+
+(Bevölkerung - %5d Menschen)
+
+#PAGE12 Missions\Pictures\England 17
+Steuer festlegen:
+
+#PAGE13 Missions\Pictures\austria 44
+Handel
+
+#PAGE131 Missions\Pictures\England 17
+Preise im Dorf z.Zt.:
+Wir tauschen
+%-10s  - %-10d
+gegen
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Änderung der Marschroute für die Karawane: 
+
+#PAGE1331 Missions\Pictures\poland 20
+Was möchten Sie mit der Karawane tun? 
+
+#PAGE2 Missions\Pictures\poland 1
+Leider ist es nicht unsere Karawane. 
+
+#PAGE3 Missions\Pictures\poland 1
+Die Karawane ist vernichtet. 
+
+#PAGE4 Missions\Pictures\poland 1
+Mit wem soll gehandelt werden? 
+
+#PAGE5 Missions\Pictures\poland 1
+Was soll aus den Lagern des Dorfes für den Verkauf geladen werden? 
+
+#PAGE6 Missions\Pictures\poland 1
+
+Wogegen soll die Ladung in den Nachbardörfern getauscht werden? 
+
+#PAGE7 Missions\Pictures\poland 20
+handelt mit   %-10s
+verkauft     %-10s
+kauft    %-10s
+geladen
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+Sie besitzen diese Karawane nicht.
+
+
+#PAGE9 Missions\Pictures\poland 1
+Wir sind ein friedliches Dorf und bereit, mit Euch zu handeln. 
+Wir erzeugen Eisen, das wir gegen Nahrung tauschen können, wenn Ihr genug davon habt. 
+Wir sind auch bereit, Euch Eisen zu liefern, wenn Ihr unser Dorf schützt. 
+
+#PAGE21 Missions\Pictures\austria 8
+Sie haben verloren.
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+Sieg!!!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Mit Strg + d können Sie schnell vom schnellen Spielmodus in den langsamen umschalten und umgekehrt. 
+
+#PAGE24 Missions\Pictures\England 30
+Ihre Leute haben auf der Insel eine kleine Siedlung entdeckt. 
+Die Einheimischen sind bereit, Ihren Leuten die effektiveren Methoden der Holzbearbeitung beizubringen, wenn Sie ihr Dorf schützen. (Diese Verbesserung ist nun in der Akademie zugänglich). 
