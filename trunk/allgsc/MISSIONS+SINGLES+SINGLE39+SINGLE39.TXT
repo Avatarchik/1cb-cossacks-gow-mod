@@ -1,0 +1,51 @@
+#BRIEFING faces 0
+{A} Piratentraum.
+
+Gegenwärtiges Ziel:
+{B}Verdienen Sie 100000 Gold (für Ihre Trauminsel!!). 
+
+#PAGE0 Missions\Pictures\poland 7
+Verdienen Sie Ihr Geld als Pirat, berauben Sie Handelsschiffe (Schiffe mit der grünen Fahne), und verstecken Sie sich vor Kriegsschiffen.  
+Auf dem Piratenstützpunkt können Sie erbeutete Waren verkaufen sowie Ihr Schiff reparieren und verbessern (im Piratenhafen). 
+
+#PAGE1_0 Missions\Pictures\England 9
+Unter Deck haben Sie %d Holz entdeckt. 
+
+#PAGE1_1 Missions\Pictures\England 9
+Unter Deck haben Sie %d Gold entdeckt. 
+
+#PAGE1_2 Missions\Pictures\England 9
+Unter Deck haben Sie %d Stein entdeckt. 
+
+
+
+#PAGE1_3 Missions\Pictures\England 9
+Unter Deck haben Sie %d Essen entdeckt. 
+
+#PAGE1_4 Missions\Pictures\England 9
+Unter Deck haben Sie %d Eisen entdeckt. 
+
+#PAGE1_5 Missions\Pictures\England 9
+Unter Deck haben Sie %d Kohle entdeckt. 
+
+#PAGE2 Missions\Pictures\England 9
+Ihr Geld reicht nicht. 
+
+#PAGE3 Missions\Pictures\England 9
+Was soll mit dem geenterten Schiff geschehen? 
+
+#PAGE4 Missions\Pictures\England 9
+Was möchten Sie verkaufen?
+
+#PAGE5 Missions\Pictures\England 9
+Was möchten Sie kaufen?
+
+#PAGE6 Missions\Pictures\England 9
+Unser Angebot:
+
+#PAGE7 Missions\Pictures\England 9
+Was möchten Sie aufrüsten:
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

@@ -1,0 +1,8 @@
+#DNB_ZoneVictory Missions\Pictures\austria 6
+  Sie haben die Initiative ergriffen und Panik unter den Truppen verbreitet. Sie sind siegreich!!!
+#DNB_ZoneDefeat Missions\Pictures\faces 10
+  Ihre Armee hat die Stellung nicht gehalten und ist in Panik geflüchtet. Sie haben verloren ...
+#DNB_DeathVictory Missions\Pictures\faces 10
+  Sie haben den größeren Teil Ihrer Truppen verloren, die verbleibenden Einheiten fliehen in Panik. Sie haben verloren ...
+#DNB_DeathDefeat Missions\Pictures\austria 6
+  Die Hauptkräfte des Feindes sind eliminiert, der Feind flüchtet in Panik. Sie sind siegreich!!!

@@ -1,0 +1,8 @@
+#ZoneVictory0 Missions\Pictures\austria 6
+    Sie haben die strategischen Zonen eingenommen und Panik im feindlichen Lager verbreitet ... Der preußische König Friedrich hat seine Armee dem Schicksal überlassen und ist geflüchtet. Sie sind siegreich!!!
+#ZoneVictory1 Missions\Pictures\faces 10
+    Der Feind hat die strategisch wichtigen Zonen eingenommen. Ihre Truppen fliehen in Panik vom Schlachtfeld. Sie haben verloren ...
+#ArmyLost0 Missions\Pictures\faces 10
+    Ihre Armee ist erschöpft. Die verbleibenden Einheiten flüchten vorm Desaster... Sie haben verloren ...
+#ArmyLost1 Missions\Pictures\austria 6
+    Sieg!!! Sie haben die Österreicher besiegt und es diesen arroganten Sachsen gezeigt. Lang lebe König Friedrich der Große! Hurra!!!

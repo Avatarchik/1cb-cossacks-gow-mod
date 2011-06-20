@@ -1,0 +1,113 @@
+#BRIEFING faces 0
+{A} Der Verbündete
+
+Sie haben gewonnen, wenn Sie die Niederlage von Engländern und Franzosen erreichen. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren. 
+
+Gegenwärtiges Ziel:
+{B}Ihre Mamelucken können mit dem Handel beginnen. 
+{C}Bringen Sie die Armee in die Nähe der Werft. 
+
+#PAGE1 Missions\Pictures\England 30
+Wahlen Sie eine Handlung, die sie in diesem Gebiet ausführen möchten. 
+
+#PAGE11 Missions\Pictures\England 30
+         %-15s
+Produktion : %-10s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+Budget-Einkommen %-10d
+Schatz-Einkommen - %-10d
+Erforderlich für Produktion - %-10d
+Laufendes Budget   -   %-10d
+                (Bevölkerung - %5d Menschen)
+
+#PAGE40 Missions\Pictures\England 30
+         %-15s
+Produktion: %-10s
+%-10s  - %-10d
+%-10s    - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s  - %-10d
+Laufendes Budget   -   %-10d
+                (Bevölkerung - %5d Menschen)
+
+#PAGE41 Missions\Pictures\England 30
+         %-15s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+
+#PAGE42 Missions\Pictures\England 30
+         %-15s
+    Wir tauschen Essen, Holz und Stein gegen Gold, Eisen und Kohle. 
+
+
+#PAGE12 Missions\Pictures\England 17
+Steuer festlegen:
+
+#PAGE13 Missions\Pictures\austria 44
+Handel
+
+#PAGE131 Missions\Pictures\England 17
+Preise im Dorf z.Zt.:
+Wir tauschen
+%-10s  - %-10d
+gegen
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Änderung der Marschroute für die Karawane:
+
+#PAGE1331 Missions\Pictures\poland 20
+Was möchten Sie mit der Karawane tun?
+
+#PAGE2 Missions\Pictures\poland 1
+Leider haben wir diese Karawane nicht mehr.
+
+#PAGE3 Missions\Pictures\poland 1
+Die Karawane ist vernichtet.
+
+#PAGE4 Missions\Pictures\poland 1
+Mit wem soll gehandelt werden?
+
+#PAGE5 Missions\Pictures\poland 1
+Womit aus den Lagerhäusern sollen die Packpferde für den Verkauf beladen werden? 
+
+#PAGE6 Missions\Pictures\poland 1
+Wogegen soll die Ladung getauscht werden?
+
+#PAGE7 Missions\Pictures\poland 20
+handelt mit   %-10s
+verkauft     %-10s
+kauft ein    %-10s
+geladen
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+Sie verfügen nicht mehr über die Karawane.
+
+#PAGE21 Missions\Pictures\austria 8
+Sie haben verloren ...
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+Sie haben gewonnen!!! Hurra!!!!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Unsere verbündeten spanischen und portugiesischen Truppen kämpfen auf dem Festland mit England und Frankreich. Sie müssen ihnen im Kampf beistehen. Zu Wasser herrscht die türkische Flotte, deshalb können Sie nur über Kaufmänner Truppen transportieren und Handel treiben, weil sie einen Nichtangriffspakt mit der Türkei abgeschlossen haben. Sollten Sie Ihre Armee auf das Festland transportieren müssen, bringen Sie sie zur Schiffswerft. Dann wird sie mit der Fähre übergesetzt. 
+Ihre Mameluken können Handel mit Ihren Verbündeten in deren Territorium betreiben. Ihre Verbündeten werden Ihnen Packpferde schicken. Bauen Sie eine Flotte, erobern Sie das Meer und vernichten Sie Engländer und Franzosen. 
+
+#PAGE911 Missions\Pictures\mord_tut 39
+das ist 911 
+%-10d	%-10d
+

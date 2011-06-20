@@ -1,0 +1,36 @@
+#BRIEFING faces 0
+{A} Kampf um neue Länder 
+    
+Für den Sieg müssen Sie alle Inseln in dieser Region einnehmen und alle Piratenschiffe vernichten. 
+Sie haben verloren, wenn Ihre Kräfte geschlagen werden. 
+ 
+#PAGE0 Missions\Pictures\mord3_tut 0
+Nach dem Befehl Seiner Königlichen Majestät, Ludwig dem XIII, werden Sie ausgesandt, um neue Länder zu entdecken. 
+Neue Siedler angeführt von einem Trupp tapferer königlicher Musketiere sind gerade an der Küste einer an Ressourcen reichen Meeresinsel gelandet. 
+Ihr Ziel ist es, die wunderschöne Insel gegen fremde Anschläge zu schützen und andere Inseln in dieser Region einzunehmen. 
+Sie müssen auch auf Piratenangriffe gefasst sein. 
+Piraten besitzen gefährliche und schnelle Fregatten mit erfahrenen Kanonieren. Im Ozean gibt es Gebiete, die ausschließlich von Piraten kontrolliert werden. 
+   
+Beeilen Sie sich! Ihre Feinde rüsten sich aus und bereiten ihre Marine für den Kampf um die Inseln vor. 
+
+#PAGE1 Missions\Pictures\faces 14
+Englische Truppen in der Region sind vernichtet (der blaue Gegner). 
+
+#PAGE2 Missions\Pictures\faces 14
+Portugiesische Truppen in der Region sind vernichtet (der grüne Gegner). 
+
+#PAGE3 Missions\Pictures\faces 14
+Spanische Truppen in der Region sind vernichtet (der violette Gegner). 
+
+#PAGE5 Missions\Pictures\mord_d 2
+Piraten sind vernichtet (der schwarze Gegner). Nun werden sie keinen Schaden mehr anrichten. 
+
+#PAGE8 Missions\Pictures\faces 14
+Gratulation! Sieg!!!
+   
+Sie kontrollieren nun die gesamte Region, weil Sie Ihre mächtigen Gegner (englische, spanische und portugiesische Ansiedler und Piraten) besiegt haben. 
+
+#PAGE9 Missions\Pictures\mord_tut 15
+Leider haben Sie es nicht geschafft. Ihr König ist enttäuscht. Er hat die heiß ersehnte Kontrolle über den Inseln nicht erlangt. 
+
+

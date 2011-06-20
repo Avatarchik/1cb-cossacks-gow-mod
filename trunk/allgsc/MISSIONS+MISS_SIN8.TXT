@@ -1,0 +1,68 @@
+R1 Holz
+R2 Nahrung
+R3 Stein
+R4 Gold
+R5 Eisen
+R6 Kohle
+VI1_1 Dorf-Info anzeigen
+VI1_2 Steuer ändern
+VI1_11 Information
+VI1_3 Handel
+VI1_12 Verlassen
+VI1_4 Das Dorf verlassen
+TPW1_0 Keine Steuer erheben
+TPW1_1 Eine niedrige Steuer erheben (Gold für Dorfentwicklung lassen)
+TPW1_2 Eine mittlere Steuer erheben (Gold nur für Produktion lassen)
+TPW1_3 Eine hohe Steuer erheben (Dorf nicht entwickeln und nichts produzieren)
+TR1_1 Aktuelle Dorfpreise
+TR1_3 Karawane wählen
+TR1_4 Zurück
+
+NO1_1 Karawane 1
+NO1_2 Karawane 2
+NO1_3 Karawane 3
+NO1_4 Karawane 4
+NO1_5 Karawane 5
+NO1_6 Karawane 6
+NO1_7 Karawane 7
+NO1_8 Karawane 8
+NO1_9 Karawane 9
+NO1_10 Karawane 10
+OD1_0 Karawanen-Info anzeigen
+OD1_1 Eine Karawane erstellen oder ihre Marschroute ändern
+OD1_2 Karawane löschen
+V01 York
+V02 Hauptstadt
+V10_1 Oxford
+V10_2 Nottingham
+V10_3 Hauptstadt 
+V11_1 Warschau
+V11_2 Hannover
+V11_3 Oslo
+V11_4 Hauptstadt 
+P11_1 Österreich
+P11_2 Schweden
+V12_0 Hauptstadt 
+V12_1 Helpasar 
+V12_2 Sarykaja
+V12_3 Nalychan 
+V12_4 Michallytschik 
+V12_5 Nalychan 1
+V12_6 Nalychan 2
+V12_7 Michallytschik 1
+V12_8 Michallytschik 2
+P12_1 Algerien
+P12_2 Türkei 
+V13_0 Hauptstadt 
+V13_1 Portugiesen
+V13_2 Spanier
+
+V14_0 Orsera
+V14_1 Alkaras
+V14_2 Balasote
+V14_3 Spanier 
+V14_4 Portugiesen
+M20_01 Russland
+M20_02 Türkei
+M20_03 Dänemark
+M20_04 Preußen

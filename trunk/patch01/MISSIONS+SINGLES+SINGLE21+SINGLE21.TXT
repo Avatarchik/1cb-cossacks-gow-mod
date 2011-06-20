@@ -1,0 +1,124 @@
+#BRIEFING faces 0
+{E} Politische Spiele 
+Sie siegen erst dann, wenn Sie die österreichische und schwedische Armee zerschlagen haben. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Armee und Einrichtungen verlieren. 
+  
+Gegenwärtiges Ziel:
+{A}Beginnen Sie mit dem Ressourcenhandel.
+{B}~Beginnen Sie mit dem Ressourcenhandel.~
+{C}Hannover produziert Eisen, wenn genug Nahrung vorhanden ist. 
+{D} Warschau produziert Kohle, wenn genug Nahrung vorhanden ist.
+{G}Oslo tauscht Gold gegen Nahrung. 
+{F}Im Dorf werden Befehle von Ihren Husaren gegeben. 
+
+#PAGE1 Missions\Pictures\England 30
+Wählen Sie eine Handlung, die Sie im Dorf ausführen möchten. 
+
+#PAGE11 Missions\Pictures\England 30
+         %-10s
+Produktion: %-10s
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s - %-10d
+%-10s  - %-10d
+Budget-Einkommen - % - 10d
+Schatz-Einkommen - % - 10d
+Erforderlich für Produktion - % - 10d
+Laufendes Budget   -   % - 10d
+(Bevölkerung - %5d Menschen)
+
+#PAGE12 Missions\Pictures\England 17
+Steuer festzusetzen: 
+
+#PAGE13 Missions\Pictures\austria 44
+Handel
+
+#PAGE131 Missions\Pictures\England 17
+Preise im Dorf z.Zt.:
+Wir tauschen
+%-10s  - %-10d
+gegen 
+%-10s  - %-10d
+
+#PAGE133 Missions\Pictures\poland 20
+Die Marschroute für die Karawane festlegen:
+
+#PAGE1331 Missions\Pictures\poland 20
+Was möchten Sie mit der Karawane tun? 
+
+#PAGE2 Missions\Pictures\poland 1
+Leider verfügen wir nicht über diese Karawane. 
+
+#PAGE3 Missions\Pictures\poland 1
+Die Karawane ist vernichtet. 
+
+#PAGE4 Missions\Pictures\poland 1
+Mit wem soll gehandelt werden? 
+
+#PAGE5 Missions\Pictures\poland 1
+Welche Ware soll hier aus dem Lagerhaus auf das Packpferd geladen werden?
+
+#PAGE6 Missions\Pictures\poland 1
+Welche Eurer Waren wollt Ihr nun dafur hergeben?
+
+#PAGE7 Missions\Pictures\poland 20
+handelt mit %-10s
+verkauft     %-10s
+kauft    %-10s
+geladen
+%-10s       %-10d
+%-10s       %-10d
+
+#PAGE8 Missions\Pictures\poland 1
+Sie verfügen nicht mehr über diese Karawane ...
+
+#PAGE9 Missions\Pictures\poland 1
+Wir sind das friedliche Dorf Warschau und bereit, mit Euch zu handeln. 
+Wir erzeugen Kohle, wenn wir genug Nahrungsvorräte haben. Wenn Ihr unser Dorf vor Räubern schützt, sind wir bereit, Euch Kohle zu liefern, wenn Ihr uns genug Nahrung besorgt. 
+
+#PAGE10 Missions\Pictures\poland 1
+Wir sind das friedliche Dorf Hannover und bereit, mit Euch zu handeln. 
+Wir erzeugen Eisen, wenn wir genug Nahrungsvorräte haben. Wenn Ihr unser Dorf vor Räubern schützt, sind wir bereit, Euch Eisen zu liefern, wenn Ihr uns genug Nahrung besorgt. 
+
+#PAGE21 Missions\Pictures\austria 8
+Sie haben verloren ... Schade ...
+
+#PAGE22 Missions\Pictures\mord2_tut 23
+
+Sieg!!! Hurra!!
+
+#PAGE23 Missions\Pictures\mord_tut 39
+Vernichten Sie die Österreicher und Schweden in diesem Gebiet. Beginnen Sie dazu, mit den Einheimischen zu handeln. 
+Durch den Außenminister können Sie einen vorläufigen Waffenstillstand mit einer der Seiten erreichen, um Zeit zu gewinnen. 
+
+#PAGE24 Missions\Pictures\mord_tut 39
+Unser Dorf heißt Oslo. Wir tauschen Gold gegen Nahrung. Aber sie wird nur mit Karawanen geliefert, deshalb müsst Ihr sie schützen.
+
+#PAGE25 Missions\Pictures\mord_tut 39
+Mit wem möchten Sie einen vorläufigen Waffenstillstand unterschreiben? 
+
+#PAGE26 Missions\Pictures\mord_tut 39
+Sie sind im Frieden mit Schweden. Möchten Sie den Krieg erklären? 
+
+#PAGE27 Missions\Pictures\mord_tut 39
+Sie sind im Frieden mit Österreich. Möchten Sie den Krieg erklären? 
+
+#PAGE28 Missions\Pictures\mord_tut 39
+Der Waffenstillstand kostet: %-10d Gold.
+
+#PAGE29 Missions\Pictures\mord_tut 39
+Sind Sie bereit zu zahlen?
+
+#PAGE30 Missions\Pictures\mord_tut 39
+Ihr Gold reicht nicht aus.
+
+#PAGE32 Missions\Pictures\mord_tut 39
+Stillstand abgeschlossen.
+
+#PAGE34 Missions\Pictures\mord_tut 39
+Stillstand ist abgelaufen.
+
+#PAGE911 Missions\Pictures\mord_tut 39
+das ist	911.

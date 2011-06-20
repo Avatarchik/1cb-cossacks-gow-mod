@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Der türkischer Krieg
+ 
+Ihre Aufgabe ist es, die Allianz von Polen, Russland und der Ukraine zu vernichten. Passen Sie aber auf, denn Polen kontrolliert das Schwarze Meer und kann die Küste mit Schiffen überfallen. 
+Außerdem gibt es Banditen in der Region, die zu allem fähig sind, wenn sie Gold sehen. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B} Vernichten Sie die Allianz von Polen, Russland und der Ukraine. 
+{C}~ Vernichten Sie die Allianz von Polen, Russland und der Ukraine.~
+{D}~Zerschlagen Sie das Banditenlager westlich von Ihnen. ~
+{F} Zerschlagen Sie das Banditenlager westlich von Ihnen. 
+{G}~ Zerschlagen Sie das Banditenlager östlich von Ihnen.~
+{K}Zerstören Sie die polnischen Werften im Westen (insgesamt 3). 
+{L}~Zerstören Sie die polnischen Werften im Westen (insgesamt 3).~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie sollen die Allianz von Polen, Russland und der Ukraine vernichten. 
+
+#PAGE0B Missions\Pictures\faces 31
+Der Flussübergang nach Westen ist durch Banditen versperrt. Sie müssen Gold haben! Vernichten Sie ihr Lager! 
+
+#PAGE0C Missions\Pictures\faces 31
+
+
+Der Flussübergang ist durch polnische Schiffe versperrt. Um sie zu besiegen, müssen Sie die Werften im Westen (insgesamt 3) zerstören und danach die Schiffe vernichten (orangefarben). Im Westen gibt es auch ein Banditenlager mit Kriegsgefangenen. Zerstören Sie es befreien Sie Ihre Leute! 
+
+#PAGE0C1 Missions\Pictures\faces 31
+Um Werften vernichten zu können, muss man Mörser bauen! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Banditenlager vernichtet und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\faces 34
+Gratulation! Sie haben die polnischen Werften im Westen vernichtet! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Polen, Russland und der Ukraine vernichtet!  
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Russland vernichtet! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben die Ukraine vernichtet! 
+
+
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben Polen vernichtet! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erledigt und gewonnen!!! Hurra!!

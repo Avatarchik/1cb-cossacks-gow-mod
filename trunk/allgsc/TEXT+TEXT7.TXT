@@ -1,0 +1,13 @@
+CSNOGL Sie haben kein Gold. %s kann nicht schießen.
+CSNORS Sie haben weder Kohle noch Eisen. %s kann nicht schießen.
+READYTX Bereit
+LOOKSTX Befindet sich im Menübildschirm
+LOADTX Lädt.
+NOANSTX Antwortet nicht.
+NOPALTX Hat das Spiel verlassen.
+DISCNTX Drücken Sie F3, um das Spiel zu verlassen.
+NOCD Musik nicht abspielen
+NATMUS Nur landestypische Musik spielen
+RNDMUS Zufällige Musikauswahl
+ENCHAT Nachricht:
+MONTR Ressourcen wurde erfolgreich verschickt.

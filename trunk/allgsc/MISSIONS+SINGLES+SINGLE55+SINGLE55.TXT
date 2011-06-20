@@ -1,0 +1,41 @@
+#BRIEFING faces 0
+{A}Königliches Expeditionskorps 
+
+Um zu gewinnen, müssen Sie alle Gegner in der Region vernichten. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden. 
+   
+ Gegenwärtiges Ziel:
+{B} Befreien Sie das Expeditionskorps aus der Umzingelung. 
+{C}~Befreien Sie das Expeditionskorps aus der Umzingelung.~
+{D}Erlangen Sie feindliche Bauern. 
+{E}~Erlangen Sie feindliche Bauern.~
+{H}Vernichten Sie alle Gegner in der Region.
+                                        
+#PAGE0 Missions\Pictures\faces 14
+Das 18. Jahrhundert: Der König hat ein Expeditionskorps für die Eroberung neuer Länder ausgesandt. 
+Um eine Stadt zu bauen, müssen die Truppen eine der feindlichen Festungen stürmen und gefangene Bauern befreien.  
+Unterwegs wird das Korps während einer Rast umstellt. 
+Die Aufgabe des Korps ist es, die Umzingelung zu überwinden, eine der feindlichen Festungen zu stürmen, gefangene Bauern zu befreien und die ganze Region einzunehmen. 
+
+#PAGE1 Missions\Pictures\faces 9
+Das Korps ist frei. Nun müssen Sie eine der feindlichen Burgen angreifen und die gefangenen Bauern befreien. 
+
+#PAGE2 Missions\Pictures\faces 9
+Sie haben die gefangenen Bauern befreit und einen Stadtteil eingenommen. In der Stadt haben Sie Gold-, Stein- und Holzvorräte entdeckt. 
+Nun müssen Sie Ihre Position festigen und alle Gegner in der Region vernichten.  
+
+#PAGE10 Missions\Pictures\faces 14
+Leider haben Sie es nicht geschafft. Das Korps ist zerschlagen. 
+
+#PAGE11 Missions\Pictures\faces 9
+Der blaue Gegner ist geschlagen.
+
+#PAGE12 Missions\Pictures\faces 9
+Der grüne Gegner ist geschlagen.
+
+#PAGE13 Missions\Pictures\faces 9
+Der violette Gegner ist geschlagen.
+
+#PAGE20 Missions\Pictures\faces 14
+Alle Gegner sind geschlagen.
+Sieg!!!!!!!!!!!

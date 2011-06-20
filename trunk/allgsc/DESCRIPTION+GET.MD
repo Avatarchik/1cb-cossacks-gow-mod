@@ -1,0 +1,1 @@
+Mit einem Säbel bewaffneter Kavallerist. Effektiv sowohl gegen Infanterie als auch gegen Kavallerie. Sehr gut im Angriff und bei der Verteidigung. Hohe Herstellungskosten. Seine Herstellung braucht wenig Zeit.

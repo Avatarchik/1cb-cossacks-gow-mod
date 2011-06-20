@@ -1,0 +1,69 @@
+#BRIEFING faces 0
+{A} In der Hitze des Gefechts  
+   
+Sie kämpfen für Frankreich. Um zu gewinnen, müssen Sie alle Gegner in der Region vernichten. 
+Sie haben verloren, wenn der General oder der Husar ermordet werden. 
+   
+Gegenwärtiges Ziel:
+{B}Besuchen Sie den General.
+{C}~Besuchen Sie den General.~
+{D}Verteidigen Sie den Zutritt zum Lager, bis Verstärkung kommt. 
+{E}~ Verteidigen Sie den Zutritt zum Lager, bis Verstärkung kommt.~
+{F}Stürmen und zerstören Sie die Festung. 
+{G}~Stürmen und zerstören Sie die Festung.~
+{H} Vernichten Sie alle Gegner in der Region. 
+                                        
+  
+#PAGE0 Missions\Pictures\faces 14
+Das 18. Jahrhundert: Die französische Armee widersteht den österreichischen, englischen und spanischen Truppen. 
+In einem kleinen Tal lagern französische Truppen einem General an der Spitze. Sie werden mit vielen Gegnern kämpfen. 
+
+
+Sie dürfen nicht zulassen, dass der Feind in das Lager eindringt. 
+
+#PAGE1 Missions\Pictures\faces 9
+Ihnen wurde der Befehl des Generals übermittelt, in das Kommandozentrum zu kommen. 
+
+
+#PAGE2 Missions\Pictures\mord_tut 10
+General:
+- Kapitän, ich befehle Euch, die Leitung des Vortrupps zu übernehmen und den Zutritt zum Lager zu verteidigen, bis Verstärkung kommt. Nehmt drei Kavallerietruppen mit. 
+(Um eine Truppe zu wählen, muss man sich ihr nähern).
+
+#PAGE3 Missions\Pictures\faces 9
+Möchten Sie diese Gruppe wählen?
+
+#PAGE4 Missions\Pictures\faces 1
+Eine Depesche vom General:
+"Ihr habt perfekt gekämpft, Kapitän. 
+Verstärkung ist endlich eingetroffen. Ich übergebe Euch ein Dragonerregiment, einen Trupp von Kürrasieren, Musketiere und Artillerie. 
+Ich befehle Euch, die Festung im Norden zu stürmen und zu zerstören".
+(Alle Kasernen, Schmieden und Pferdeställe müssen vernichtet werden.)
+
+#PAGE5 Missions\Pictures\faces 1
+Eine Depesche vom General:
+"Unser König ist sehr zufrieden mit Euch. 
+Nehmt Truppen, Ressourcen und Bauern mit. Ihr seid beauftragt, eine Stadt zu bauen und alle Gegner in der Region zu vernichten". 
+
+#PAGE10 Missions\Pictures\faces 9
+Die Mission ist gescheitert. 
+
+#PAGE10G Missions\Pictures\faces 9
+Der General ist tot. Die Mission ist gescheitert.
+
+#PAGE10H Missions\Pictures\faces 9
+Der Husar ist tot. Die Mission ist gescheitert.
+
+#PAGE11 Missions\Pictures\faces 9
+Der blaue Gegner ist geschlagen.
+
+#PAGE12 Missions\Pictures\faces 9
+Der grüne Gegner ist geschlagen.
+
+#PAGE13 Missions\Pictures\faces 9
+Der violette Gegner ist geschlagen.
+
+#PAGE20 Missions\Pictures\faces 14
+Gratulation!!! Sieg!!!!!
+Die starken und furchtbaren Gegner sind geschlagen!
+Gratulation! Hurra!!

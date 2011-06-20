@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Die Insel des Sultans 
+ 
+Ihre Aufgabe ist es, die Allianz zwischen der Türkei und Algerien zu zerschlagen. Dafür müssen Sie nur den türkischen Sultan (orangefarben) eliminieren, der sich auf der Insel nördlich von Ihnen befindet. Passen Sie auf, weil die Türken das Schwarze Meer kontrollieren und alle Wege zu Lande sperren. Außerdem müssen Sie Ihre Bauern aus der Gefangenschaft befreien, weil sie über für Sie wichtige Informationen verfügen. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen sind oder wenn Sie Kriegsgefangene nicht befreien konnten. 
+
+Gegenwärtiges Ziel:
+{B} Eliminieren Sie den türkischen Sultan (orangefarben), der sich auf der Insel nördlich von Ihnen befindet.
+{C}~Eliminieren Sie den türkischen Sultan (orangefarben), der sich auf der Insel nördlich von Ihnen befindet.~
+{D}Befreien Sie die gefangenen Bauern im Südwesten. 
+{E}~Befreien Sie die gefangenen Bauern im Südwesten.~
+{F}Zerstören Sie den türkischen Posten südlich von Ihnen. 
+{G}~Zerstören Sie den türkischen Posten südlich von Ihnen.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie müssen das Bündnis zwischen der Türkei und Algerien zerschlagen! Dazu müssen Sie den Befehlshaber der Allianz, den türkischen Sultan (orange), eliminieren. Er befindet sich auf der Insel westlich von Ihnen! 
+
+#PAGE0B Missions\Pictures\faces 31
+Leider können Ihre Bauern keine Schiffswerften bauen! Deshalb müssen Sie die gefangenen Arbeiter befreien, die sich in einem der Forts im Südwesten befinden. Sie können Werften bauen. Seien Sie aber vorsichtig, denn wenn die Gefangenen ums Leben kommen, erreichen Sie nicht die Insel, auf der sich der türkische Sultan befindet. Das würde die Niederlage bedeuten! 
+
+#PAGE0C Missions\Pictures\faces 31
+Der Weg von Norden nach Süden ist durch Türken blockiert! Sie wissen von Ihnen und schicken Ihnen Soldaten entgegen! Zerstören Sie ihren Posten südlich von Ihnen! Der Weg nach Südwesten wird von türkischen Schiffen überwacht. Um sie aufzuhalten, müssen die Schiffswerften auf der Insel des Sultans (westlich von Ihnen) vernichtet werden. Zunächst müssen Sie jedoch Ihre Schiffswerft bauen. 
+
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben den türkischen Posten zerschlagen! Dort haben Sie %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einer schweren Schlacht ums Leben gekommen! 
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert. 
+
+#PAGE2 Missions\Pictures\faces 34
+Gratulation! Sie haben die türkischen Werften auf der Insel des Sultans zerschlagen! 
+
+#PAGE8 Missions\Pictures\austria 6
+Sie haben die Allianztruppen neutralisiert! Aber der Wichtigste ist geblieben - der türkische Sultan (türkischer Offizier ist orangefarben), der sich auf der Insel versteckt! Er darf nicht fliehen! 
+
+#PAGE8A Missions\Pictures\austria 6
+
+Gratulation! Sie haben den Hauptteil des türkischen Heeres zerschlagen! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben das algerische Heer zerschlagen! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben es geschafft! Sie haben gewonnen!!! 
+
+
+#PAGE10 Missions\Pictures\faces 4
+Gratulation! Sie haben den türkischen Sultan eliminiert und die türkisch-algerische Allianz zerschlagen! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Alle gefangenen Bauern sind gefallen! Sie haben verloren! 
+
+#PAGE12 Missions\Pictures\faces 13
+Sie haben einen gefangenen Bauern befreit! Nun verfügen Sie über Werftpläne und können mit dem Bau beginnen! 

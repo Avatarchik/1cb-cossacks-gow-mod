@@ -1,0 +1,27 @@
+#BRIEFING faces 0
+{A} Fort
+
+Für den Sieg müssen Sie die Festungen der Spanier im Westen zerstören. (Vernichten Sie alle Militäreinheiten auf der Insel). 
+Sie haben verloren, wenn Sie Ihren Hauptcharakter verlieren. 
+
+#PAGE1 Missions\Pictures\austria 7
+Sie befehligen nun eine kleine Provinzstadt. 
+Ihre Aufgabe ist es, die spanischen Festungen im Westen zu zerstören.  
+
+#PAGE2 Missions\Pictures\austria 7
+Im Norden befindet sich eine kleine preußische Stadt. 
+Seien Sie vorsichtig: Es kann jeden Augenblick zum Angriff kommen. 
+
+#PAGE11  Missions\Pictures\austria 8
+Sie sind ums Leben gekommen!!! Man hat große Hoffnungen auf Sie gesetzt, aber Sie haben sie enttäuscht!! 
+
+#PAGE10  Missions\Pictures\mord_tut 14
+Ausgezeichnet!!! Sie haben die Aufgabe erfüllt!!!
+Es war kein leichter Sieg!!!
+
+#PAGE12  Missions\Pictures\mord_tut 14
+Sie haben die preußische Armee geschlagen und reiche Bodenschätze erbeutet. 
+
+#PAGE15  Missions\Pictures\mord_tut 14
+Sie haben das Räuberlager zerschlagen. 
+Sie finden 5000 Goldmünzen in den Taschen der Schurken. 

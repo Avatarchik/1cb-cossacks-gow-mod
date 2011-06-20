@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{B} Königlicher Wille
+
+Um zu gewinnen, müssen Sie die österreichischen und polnischen Truppen vernichten.
+Sie erleiden eine Niederlage, wenn Sie Ihre Einheiten und Einrichtungen verlieren. 
+
+Aktuelles Ziel:
+{D}Finden Sie die Verbundeten.
+{E}~Finden Sie die Verbundeten.~
+{F}Uberwachen Sie das verbundete Lager.
+{G}~Uberwachen Sie das verbundete Lager~
+{M}Ihre Verbundeten werden die feindlichen Minen angreifen. 
+{N}~Ihre Verbundeten werden die feindlichen Minen angreifen~.
+
+#PAGE2001 Missions\Pictures\Mord_tut 39
+Wählen Sie die Nation, die Sie zum Sieg führen möchten, indem Sie alle Feinde vernichten!
+Finden Sie das Kommandozentrum der Verbündeten in den Wäldern; sie werden Ihnen im Kampf helfen. 
+
+#PAGE2002 Missions\Pictures\England 16
+Sie haben das Kommandozentrum der Verbündeten gefunden. Solange das Kommandozentrum nicht eingenommen oder vernichtet ist, werden verbündete Partisanentruppe die feindlichen Minen angreifen. 
+
+#PAGE2003 Missions\Pictures\Austria 16
+Das dänische Kommandozentrum ist vernichtet, die verbündeten Partisanentruppen können Ihnen nicht mehr helfen. 
+
+#PAGE2004 Missions\Pictures\Mord_tut 38
+Sie haben sich wie ein Held benommen, dafür werden Sie vom König ausgezeichnet. 
+
+#PAGE2005 Missions\Pictures\Faces 10
+Leider ist die Mission gescheitert. 
+Diese Region können wir in der näheren Zukunft nicht zurückgewinnen.

@@ -1,0 +1,80 @@
+#BRIEFING faces 0
+{Z} Erste Schwierigkeiten
+                                
+Sie haben verloren, wenn Sie keine Bauern mehr haben und sie auch nicht mehr erstellen können und wenn die Anzahl Ihrer militärischen Einheiten auf unter 8 sinkt (Standardbedingungen für die Niederlage).
+Schützen Sie Ihre Siedlung!
+                                  
+  Gegenwärtige Ziele:
+{J}Bauen Sie eine Schmiede.
+{P}~Bauen Sie eine Schmiede.~
+{A}Bauen Sie eine Kaserne.
+{Q}~Bauen Sie eine Kaserne.~
+{K}Erstellen Sie 10 Pikeniere.
+{B}Schlagen Sie den Angriff zurück.
+{C}Bauen Sie eine Akademie.
+{R}~Bauen Sie eine Akademie.~
+{D}Erstellen Sie einen Trommler und einen Kommandanten.
+{E}Bauen Sie eine Kirche.
+{S}~Bauen Sie eine Kirche.~
+{F}Erstellen Sie einen Priester.
+{H}Bauen Sie einen Reitstall.
+{T}~Bauen Sie einen Reitstall.~
+{G}Erstellen Sie mehrere Vityazen.
+{I}Bilden Sie Truppen.
+{L}Stellen Sie Wachen auf.
+{M}Wehren Sie den Überfall ab.
+{N}Vernichten Sie die feindlichen Truppen.
+{O}Schützen Sie das Anwesen!
+
+#PAGE1 Missions\Pictures\russia 8
+Jetzt können Sie andere Gebäude bauen: Bauen Sie eine Schmiede, damit Sie auch eine Kaserne und einen Stall errichten können. Wählen Sie nun Bauern und bauen Sie die Schmiede, so schnell Sie können.
+#PAGE2 Missions\Pictures\mord_d 3
+Die Schmiede ist gebaut. Jetzt können Sie militärische Einrichtungen errichten.
+#PAGE3 Missions\Pictures\russia 8
+Bauen Sie als nächstes eine Kaserne. In der Kaserne können Sie Infanteristen des 17. Jahrhunderts erstellen. Wählen Sie Bauern und bauen Sie eine Kaserne des 17. Jahrhunderts.
+#PAGE4 Missions\Pictures\russia 17
+Gut! Ihre Kaserne ist vollendet. Wählen Sie sie und erstellen Sie einen Pikenier. Wenn Sie 5 Einheiten auf einmal einen Befehl geben wollen, können Sie dies mit gedrückter Umschalttaste und einem Linksklick auf das Icon für den Pikenier tun. Alternativ können Sie auch die unbegrenzte Erstellung von Einheiten aktivieren, indem Sie bei gedrückter Strg-Taste mit der linken Maustaste auf das Icon klicken.
+#PAGE5 Missions\Pictures\russia 20
+Erstellen Sie Einheiten unbegrenzt, wenn Sie sie wirklich benötigen und außerdem über ausreichend Ressourcen verfügen.
+#PAGE6 Missions\Pictures\mord_tut 10
+Jetzt erstellen Sie 10 Pikeniere.
+#PAGE7 Missions\Pictures\mord_tut 3
+Gut. Es gibt Gerüchte, dass Banditen Sie von Nordosten her überfallen möchten. Seien Sie wachsam.
+#PAGE8 Missions\Pictures\mord_tut 4
+Gut, Sie haben den Angriff zurückgeschlagen! Jetzt sollten Sie sich um die Sicherheit in Ihrer Siedlung kümmern. Im Spiel können ungeschützte Gebäude, Minen und Bauern leicht vom Feind eingenommen werden. Daher ist zu empfehlen, dass Sie 2 oder 3 Wachen in der Nähe jedes Gebäudes, jeder Mine und jedem Bereich, in dem Bauern arbeiten, positionieren.
+#PAGE9 Missions\Pictures\russia 8
+Sie können Ihren Truppen befehlen, beliebige Objekte Ihrer Siedlung zu schützen. Wählen Sie dazu 2 oder 3 Soldaten, zum Beispiel Pikeniere. Unten links im Interface sehen Sie das Icon für den Befehl "Bewachen". Klicken Sie darauf, damit sich der Mauszeiger in einen Schild verwandelt. Wenn Sie den Mauszeiger auf der Karte bewegen, sehen Sie, dass der Schild grau wird, wenn es in seiner gegenwärtigen Position nichts gibt, das man bewachen könnte. Sobald Sie den Mauszeiger auf ein Objekt richten, das bewacht werden kann, erscheint der Schild in Farbe. Wenn Sie nun den Soldaten mit einem Linksklick befehlen, das Objekt zu bewachen, werden sie dies tun, bis Sie ihnen einen anderen Befehl erteilen.
+#PAGE23 Missions\Pictures\russia 20
+Platzieren Sie nun Wachen überall im Dorf, so dass der Feind es nicht einnehmen kann.
+#PAGE10 Missions\Pictures\ukraine 25
+Die rebellischen Kosaken im Südwesten wollen Sie angreifen! Bewegen Sie den Hauptteil Ihrer Truppen in diese Richtung. Seien Sie vorsichtig, denn der Feind kann unbewachte Gebäude, Minen und Bauern einnehmen.
+#PAGE11 Missions\Pictures\russia 19
+Das haben Sie gut gemacht!
+#PAGE12 Missions\Pictures\russia 8
+Bauen Sie nun eine Akademie. Wählen Sie dazu Bauern aus.
+#PAGE13 Missions\Pictures\mord_tut 23
+Großartig, die Akademie ist fertig gestellt. Nun können Sie in der Kaserne Kommandanten und Trommler, also die Einheiten, die für Formationen benötigt werden, erstellen. Wählen Sie die Kaserne und erstellen Sie einen Kommandanten und einen Trommler.
+#PAGE14 Missions\Pictures\russia 20
+Nun können Sie eine Schwadron erstellen. Dazu benötigen Sie 36 Pikeniere, einen Kommandanten und einen Trommler. Versammeln Sie all diese Einheiten und wählen Sie den Kommandanten. Unten links im Interface sehen Sie nun Icons für Formationen. Es gibt drei davon, von denen jede einer bestimmten Formation entspricht, nämlich der Linien-, Säulen- und Karreeformation. Wählen Sie die gewünschte Formation. Außer der Formation mit 36 Einheiten stehen Ihnen auch Formationen mit 15, 72, 120 und 196 Einheiten zur Verfügung.
+#PAGE15 Missions\Pictures\russia 16
+Wenn Sie sehen, dass ein zahlenmäßig überlegener Feind Sie angreift und Sie glauben, dass Sie die Schlacht verlieren könnten, können Sie Ihre Bauern zum Angriff einsetzen. Natürlich sind Bauern weniger effektiv als reguläre Truppen, ihr Einsatz könnte aber dennoch für den Ausgang der Schlacht entscheidend sein. Wenn Sie mit Bauern angreifen, sollten Sie sicherstellen, dass Ihre Truppen in der Nähe sind. Ansonsten könnten die Bauern gefangen genommen werden.
+#PAGE24 Missions\Pictures\mord2_tut 2
+Wählen Sie eine Gruppe, drücken Sie die Taste A und setzen Sie den Wegpunkt durch einen Linksklick mit der Maus. Dies ist die gebräuchlichste Methode, um die Einheiten in den Angriffsmodus zu bringen. Eine Gruppe im Angriffsmodus greift jede feindliche Einheit an, der sie begegnet.
+#PAGE16 Missions\Pictures\mord_tut 3
+Ihr Nachbar will Sie angreifen. Sie haben erfahren, dass er Truppen in Ihr Dorf gesendet hat. Benutzen Sie Ihre neu gebildete Schwadron, um den Feind zu bekämpfen.
+#PAGE17 Missions\Pictures\mord_d 6
+Das wird Ihren Nachbarn eine Weile von Ihnen fernhalten! Sie haben nun gesehen, dass eine Schwadron effektiver ist und gegen größere Truppenverbände kämpfen kann. Dies liegt daran, das Formationen sowohl einen Angriffs- als auch einen Verteidigungsbonus haben.
+#PAGE18 Missions\Pictures\mord_tut 32
+Nun, da es relativ ruhig ist in Ihrem Land, können Sie einen Reitstall und eine Kirche bauen. Wenn Sie dazu nicht über genügend Ressourcen verfügen, sollten Sie weitere sammeln.
+#PAGE19 Missions\Pictures\russia 12
+Großartig! Die Kirche ist gebaut. Erstellen Sie nun mehrere Priester. Ein Priester kann Wunden heilen, wenn Sie ihn zu einer Schwadron bringen. Die Anwesenheit von Priestern in Schlachtformationen kann Ihre Truppen also beim Kampf stärken.
+#PAGE20 Missions\Pictures\russia 0
+Exzellent, der Reitstall ist vollendet. Kavallerie-Einheiten haben gegenüber Infanteristen viele Vorteile. Sie sind schneller und stärker. Die Beteiligung der Kavallerie ist bei Kampfhandlungen sehr wichtig. Erstellen Sie mehrere Vityazen.
+#PAGE21 Missions\Pictures\mord_tut 3
+Ihr Nachbar plant, Sie erneut anzugreifen. Machen Sie sich also zur Verteidigung bereit, denn er könnte aus jeder Richtung angreifen.
+#PAGE22 Missions\Pictures\austria 6
+Wundervoll! Der Feind ist geschlagen!
+#PAGE99 Missions\Pictures\mord_tut 36
+Sie haben die Mission vollendet. Beim nächsten Mal wird es schwieriger!
+#PAGE100 Missions\Pictures\mord_tut 39  
+Leider haben Sie verloren! Versuchen Sie es noch mal!

@@ -1,0 +1,76 @@
+#BRIEFING faces 0
+{A}	Die französische Festung
+ 
+Ihre Aufgabe ist es, die Allianz von Bayern und Preußen zu vernichten. Frankreich unterstützt die Allianz und besitzt eine Festung in der Zentralregion. Die Franzosen werden sich Ihnen entgegen stellen. 
+Im Süden sind die Befehlshaber der westlichen und östlichen Forts angekommen. Sie helfen Ihnen, nachdem Sie ihnen Ressourcen für die Entwicklung gebracht haben. 
+Sie haben verloren, wenn Ihr Hauptcharakter ums Leben kommt oder wenn die Truppen der westlichen oder östlichen Front geschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B} Vernichten Sie die Allianz von Bayern und Preußen als auch Frankreich. 
+{C}~Vernichten Sie die Allianz von Bayern und Preußen als auch Frankreich.~
+{D}Sprengen Sie das französische Rathaus. 
+{E}~Sprengen Sie das französische Rathaus.~
+{F}Vernichten Sie das Banditenlager im Osten. 
+{G}~Vernichten Sie das Banditenlager im Osten.~
+{K} Vernichten Sie das Banditenlager im Westen.
+{L}~ Vernichten Sie das Banditenlager im Westen.~
+{M} Zusätzliches Ziel:
+{N}Bringen Sie den Befehlshabern der westlichen und der östlichen Front je 1000 Bäume mit Packpferden.
+{O}~Bringen Sie den Befehlshabern der westlichen und der östlichen Front je 1000 Bäume mit Packpferden.~
+
+#PAGE0AA Missions\Pictures\austria 18
+Sie müssen die Allianz von Bayern und Preußen neutralisieren! Die verbündeten Franzosen haben von Ihrem Standort erfahren und schicken ihre Soldaten zu Ihnen! Um Angriffe der Franzosen aufzuhalten, vernichten Sie ihr Rathaus, in dem sich das französische Oberkommando befindet. 
+  
+#PAGE0A Missions\Pictures\faces 31
+Im Südwesten und Südosten sind Offiziere der österreichischen Truppen angekommen, um Ihnen zu helfen, den Gegner zu bewältigen! Sie haben aber kein Holz für angehende Entwicklung. Sie sollten deshalb 2000 Holz sammeln und es den Befehlshabern mit Packpferden bringen. 
+Außerdem sollten Sie die Offiziere und ihre Arbeiter vor französischen Angriffen schützen. 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungerechten Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\poland 4
+Westlich und östlich von Ihnen gibt es Räuber! Vernichten Sie ihre Lager! 
+
+#PAGE7 Missions\Pictures\austria 37
+Gratulation! Sie haben das französische Rathaus vernichtet! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Bayern und Preußen als auch Frankreich vernichtet!  
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Bayern vernichtet! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben Preußen vernichtet! 
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben die Franzosen vernichtet! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben den Befehl erfüllt und gewonnen!!!
+
+#PAGE11  Missions\Pictures\mord_d 6
+Die Armee der westlichen Front hat eine Niederlage erlitten!! Sie haben verloren!
+
+#PAGE11A  Missions\Pictures\mord_d 6
+Die Armee der östlichen Front hat eine Niederlage erlitten!! Sie haben verloren!
+
+#PAGE10 Missions\Pictures\austria 4
+Sie haben schon genug Ressourcen für die österreichischen Offiziere! Senden Sie die Packpferde zum Beladen zum Lagerhaus. 
+
+
+#PAGE10A Missions\Pictures\austria 4
+Die Packpferde sind beladen! Schicken sie eins zum Befehlshaber der westlichen Armee und eins zum Befehlshaber der östlichen Armee. Falls beide Packpferde zu einem einzigen Befehlshaber gelangen, nimmt er beide, und Sie werden dem zweiten kein Holz mehr bringen können. 
+
+#PAGE12  Missions\Pictures\mord_d 6
+Sie haben ein Packpferd verloren und können nun einem der Befehlshaber keine Ressourcen mehr bringen! Jetzt wird es schwieriger, die Gegner zu vernichten!
+
+#PAGE13 Missions\Pictures\faces 13
+Ah! Sie haben uns die notwendigen Einstiegsressourcen gebracht! Wir beginnen sofort mit der Entwicklung, um den Gegner gemeinsam zu zerschlagen! 
+(Wachen sollten nicht unmittelbar bei den Bauern stehen, weil sie Platz für die Entwicklung brauchen).

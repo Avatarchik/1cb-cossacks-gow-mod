@@ -1,0 +1,49 @@
+GMTP_TP1 Startoptionen
+@GMTP_TP1_00 Standard
+@GMTP_TP1_01 Armee
+@GMTP_TP1_02 Mittlere Armee
+@GMTP_TP1_03 Großarmee
+@GMTP_TP1_04 Bauern-Heer
+@GMTP_TP1_05 Verschiedene Nationen
+@GMTP_TP1_06 Türme
+@GMTP_TP1_07 Kanonen
+@GMTP_TP1_08 Kanonen und Haubitzen
+@GMTP_TP1_09 Kaserne des 18. Jh.
+GMTP_TP2 Ballon-Optionen
+@GMTP_TP2_00 Standard
+@GMTP_TP2_01 Kein Ballon
+@GMTP_TP2_02 Ballon
+GMTP_TP3 Kanonen
+@GMTP_TP3_00 Standard
+@GMTP_TP3_01 Keine Kanonen, Türme und Mauern
+@GMTP_TP3_02 Teure Kanonen
+GMTP_TP4 Friedenszeit
+@GMTP_TP4_00 Keine Friedenszeit
+@GMTP_TP4_01 10 min
+@GMTP_TP4_02 20 min
+@GMTP_TP4_03 30 min
+@GMTP_TP4_04 45 min
+@GMTP_TP4_05 60 min
+@GMTP_TP4_06 1,5 Stunden
+@GMTP_TP4_07 2 Stunden
+@GMTP_TP4_08 3 Stunden
+@GMTP_TP4_09 4 Stunden
+GMTP_TP5 Optionen für das 18. Jhdt
+@GMTP_TP5_00 Standard
+@GMTP_TP5_01 Nie
+@GMTP_TP5_02 Immer
+GMTP_TP6 Eroberung
+@GMTP_TP6_00 Standard
+@GMTP_TP6_01 Keine Bauern
+@GMTP_TP6_02 Keine Gefangennahme 
+@GMTP_TP6_03 Nur Artillerie erobern
+GMTP_TP7 Autospeichern
+@GMTP_TP7_00 Jede Minute
+@GMTP_TP7_01 Alle 2 Minuten
+@GMTP_TP7_02 Alle 4 Minuten
+@GMTP_TP7_03 Alle 6 Minuten
+@GMTP_TP7_04 Alle 8 Minuten
+@GMTP_TP7_05 Alle 10 Minuten
+@GMTP_TP7_06 Nie
+TMMS_NOPT Spielzeit: %d:%d%d:%d%d [%d]
+TMMS_PT Spielzeit: %d:%d%d:%d%d [%d] P.t:%d:%d%d:%d%d

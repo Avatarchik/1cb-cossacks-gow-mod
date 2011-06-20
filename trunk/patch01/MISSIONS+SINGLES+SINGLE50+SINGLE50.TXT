@@ -1,0 +1,75 @@
+#BRIEFING faces 0
+{A} Schild des Verbündeten
+ 
+Ihre Aufgabe als polnischer Befehlshabers ist es, die Allianz von Bayern, Preußen und Sachsen zu vernichten. Die Preußen haben die Zentralinsel (siehe Karte) erobert und dort eine starke Flotte aufgebaut. 
+Ihr Verbündeter Russland verfügt auch über eine starke Marine. Sie brauchen die Hilfe Russlands, damit es als "Seeschild" für Sie fungiert. 
+Sie haben verloren, wenn Ihre oder verbündete Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B} Vernichten Sie die Allianz von Bayern, Preußen und Sachsen. 
+{C}~Vernichten Sie die Allianz von Bayern, Preußen und Sachsen. ~
+{D}Zerstören oder besetzen Sie das preußische Rathaus. 
+{E}~Zerstören oder besetzen Sie das preußische Rathaus.~
+{F}Zerstören Sie 4 preußische Werften auf der Insel in der Mitte der Karte.
+{G}~Zerstören Sie 4 preußische Werften auf der Insel in der Mitte der Karte.~
+{K}Zerstören Sie das Banditenlager auf Ihrer Insel. 
+{L}~Zerstören Sie das Banditenlager auf Ihrer Insel.~
+
+#PAGE0AA Missions\Pictures\austria 18
+Sie werden nur dann gewinnen, wenn Sie die Allianz von Bayern, Preußen und Sachsen vernichten. Die Preußen haben von Ihrem Standort erfahren und schicken Ihnen ihre Kriegsschiffe entgegen! Um die preußischen Angriffe aufzuhalten, müssen Sie ihre Werften auf der Insel (insgesamt 4) vernichten. 
+Zerstören Sie das preußische Rathaus oder nehmen Sie es ein, damit die preußischen Truppen ihre Anführer verlieren. Sonst fängt Preußen einen breitgefächerten Krieg gegen Sie an. 
+
+#PAGE0A Missions\Pictures\faces 31
+Es wird sehr schwer, die preußische Flotte allein zu bezwingen! Sie brauchen die Hilfe der russischen Marine. Dazu müssen Sie mit einem Kutter zur russischen Insel vordringen. Sollten Sie den Kutter verlieren, bauen Sie einen neuen und fahren weiter! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Das Banditenlager ist vernichtet und Sie haben dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen ... 
+
+#PAGE1A Missions\Pictures\poland 21
+
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\poland 4
+Räuber auf Ihrer Insel! Vernichten Sie ihr Lager! 
+
+#PAGE3 Missions\Pictures\faces 34
+Seid gegrüßt, unsere Verbündeten! Wir brauchen Eure Hilfe, weil wir ständig von preußischen Schiffen überfallen werden! 
+
+#PAGE4 Missions\Pictures\faces 6
+Wir begrüßen Euch, slawische Brüder! Wir senden Fregatten des 18. Jahrhunderts in Euer Land, damit Ihr die preußischen Angriffe abwehren könnt! Ihr könnt Sie als Schutzschild verwenden! Wenn Ihr sie verliert, werden wir Euch weitere schicken, bis die preußischen Werften vernichtet sind! 
+
+#PAGE6 Missions\Pictures\austria 37
+Gratulation! Vier preußische Werften sind zertrümmert!
+
+#PAGE7 Missions\Pictures\austria 37
+Gratulation! Sie haben das preußische Rathaus zerstört! 
+
+#PAGE7A Missions\Pictures\austria 30
+Gratulation! Sie haben das preußische Rathaus eingenommen! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Bayern, Preußen und Sachsen vernichtet!  
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Bayern vernichtet!
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Sie haben Preußen vernichtet!
+
+#PAGE8C Missions\Pictures\austria 6
+Gratulation! Sie haben Sachsen vernichtet!
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!!
+
+#PAGE10 Missions\Pictures\austria 4
+Bayern beginnt einen großen Krieg gegen Sie!
+
+#PAGE10A Missions\Pictures\austria 4
+Russland beginnt Kampfhandlungen, um Ihnen zu helfen, den Gegner zu zerschlagen!  
+
+#PAGE11  Missions\Pictures\mord_d 6
+Ihr Verbündeter erleidet eine Niederlage! Sie haben verloren ... 

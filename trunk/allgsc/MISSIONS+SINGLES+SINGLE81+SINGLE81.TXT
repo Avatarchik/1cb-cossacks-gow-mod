@@ -1,0 +1,41 @@
+#BRIEFING faces 0
+{B} Der Kampf in den Hügeln
+
+Für den Sieg müssen Sie spanische und venezianische Truppen vernichten. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren. 
+
+Gegenwärtiges Ziel:
+{C}Verteidigen Sie Ihre Stellung.
+{D}Bringen Sie das Gold in Sicherheit.
+{E}~Verteidigen Sie Ihre Stellung.~
+{F}~Bringen Sie das Gold in Sicherheit.~
+
+#PAGE2101 Missions\Pictures\Mord_tut 26
+es befindet sich %d Gold im Lager.
+
+#PAGE2102 Missions\Pictures\Mord_tut 39
+Sie haben den Befehl bekommen, die Lager so lange zu überwachen, bis die Packpferde das Gold aus den Lagerhäusern transportieren. (Wählen Sie ein Lagerhaus, um die verbliebene Menge zu erfahren). 
+Leider haben englische Söldner vom Gold erfahren und werden Ihnen dazwischenkommen. Verteidigen Sie sich und vernichten Sie ihre Stützpunkte, wenn dies möglich ist. 
+
+#PAGE2103 Missions\Pictures\Mord_tut 8
+Ihre Truppen wurden beim spanischen Lager der Goldsucher bemerkt. Die Spanier werden das nicht dulden. Nun geht es los! Seien Sie bereit! 
+
+#PAGE2104 Missions\Pictures\Mord_tut 3
+Die Venezianer haben Ihre Anwesenheit entdeckt und bereiten sich auf einen mächtigen Angriff vor. 
+
+#PAGE2105 Missions\Pictures\Austria 12
+Die königlichen Packpferde sind mit dem Goldausfuhr fertig. Für Sie aber fängt alles erst an. 
+Der König forderte den Bau eines befestigten Forts und die Fortsetzung des Goldabbaus. Seine Majestät erlauben Ihnen, Militäreinrichtungen zu bauen und Ausstattung sowie Ressourcen wurden Ihnen übergeben. 
+
+#PAGE2106 Missions\Pictures\Austria 14
+Sie haben all Ihre Einheiten verloren und eine Niederlage erlitten. 
+
+#PAGE2107 Missions\Pictures\Austria 9
+Goldlager wurden vor der endgültigen Ausfuhr vernichtet. Die Mission ist gescheitert. 
+
+#PAGE2108 Missions\Pictures\Mord_tut 38
+Nun kontrollieren Sie diese Hügel mit den riesigen Goldvorkommen. Sie haben Ihre Aufgabe perfekt erfüllt und eine Auszeichnung verdient. 
+
+#PAGE2109 Missions\Pictures\Austria 42
+Ein Kriegsberater:
+"Wir haben einen Vorteil in dieser Hügelgegend. Ein Gegner kann uns nur vom Norden oder Westen her überfallen. Wenn wir die Bergschluchten befestigen, können wir dem Feind lange widerstehen."

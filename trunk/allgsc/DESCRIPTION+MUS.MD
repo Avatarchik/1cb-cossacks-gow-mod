@@ -1,0 +1,1 @@
+Mit einer Muskete und einem Bajonett bewaffneter Infanterist. Trifft Ziele auf große Entfernung und im Nahkampf. Niedrige Kosten nach entsprechender Aufrüstung in der Akademie. Effektiv beim Handgemenge.

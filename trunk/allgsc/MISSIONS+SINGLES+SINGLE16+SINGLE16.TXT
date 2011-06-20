@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A}   	Stadt an den Hängen 
+   
+Um zu gewinnen, müssen Sie die niederländischen und französischen Truppen in der Region vernichten. 
+Sie haben verloren, wenn Ihre Truppen geschlagen werden.   
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die Banditen auf dem Hügel.
+{C}~Vernichten Sie die Banditen auf dem Hügel.~
+{D}Bringen Sie den Bauern in die Siedlung und schützen Sie sein Packpferd. 
+{E}~Bringen Sie den Bauern in die Siedlung und schützen Sie sein Packpferd.~
+{F}Senden Sie Soldaten in das Dorf und schließen Sie sich der Landwehr an. 
+{G}~Senden Sie Soldaten in das Dorf und schließen Sie sich der Landwehr an.~
+
+
+#PAGE0 Missions\Pictures\poland 2
+Herr! Ich bin ein einfacher Bauer und wohne in einem Dorf in der Nähe. Der Weg in das Dorf ist durch Räuber blockiert. 
+Herr, ich bitte Euch, helft uns, den Weg von den Banditen zu befreien. Ich kann Euch helfen, im Dorf eine Landwehr aus berittenen Bauern zu sammeln. 
+
+#PAGE1 Missions\Pictures\poland 2
+Herr, Ihr habt tapfer gekämpft und unsere Landwehr wird sich Euch mit Freude anschließen. Unsere Bauern sind aber barfuss und haben keine Kleidung ... Sie müssen erst ausgerüstet und eingekleidet werden, das wird 1000 Goldmünzen kosten. Seid Ihr einverstanden? 
+#PAGE2 Missions\Pictures\poland 2
+Ich bin froh, Euch wieder zu sehen, Herr. Unsere Landwehr wird sich Euch mit Freuden anschließen. Seid Ihr nun bereit, den Trupp auszurüsten und einzukleiden? 
+
+Nach wie vor wird es 1000 kosten. 
+
+#PAGE3 Missions\Pictures\poland 23
+Der Bauer kam ums Leben. Die Landwehr schließt sich Euch nicht an. Wir glauben nicht an Euch ...
+
+#PAGE4 Missions\Pictures\poland 2
+Mein Packpferd ist tot. Die Landwehr schließt sich Euch nicht an.
+
+#PAGE5 Missions\Pictures\poland 2
+Danke für die Hilfe! Nun ist der Weg frei von Räubern. 
+Gehen wir ins Dorf, Herr, wir werden von der Landwehr erwartet. 
+
+#PAGE6 Missions\Pictures\poland 2
+Schade, dass Ihr nicht genug Geld habt. Wenn Ihr 1000 Goldmünzen habt, kommt wieder. 
+
+#PAGE7 Missions\Pictures\poland 2
+Der Bauer hat sich ins Dorf begeben. Schicken Sie Soldaten ins Dorf zu dem Bauern mit dem Packpferd. Der Bauer schlägt Ihnen vor, Ihre Truppen durch die Landwehr zu verstärken. 
+
+#PAGE8 Missions\Pictures\faces 14
+Gratulation! Sieg!!!
+Sie halten diese Region unter Ihrer Kontrolle und haben alle Ihre Gegner, starke niederländische und französische Truppen, besiegt. 
+
+#PAGE9 Missions\Pictures\mord_d 3
+Die Räuber sind geschlagen. Sie haben in ihrem Lager die aus den Minen geraubten Ressourcen entdeckt: %d Gold, %d Eisen und %d Kohle.
+
+#PAGE10 Missions\Pictures\faces 14
+Der blaue Feind ist vernichtet.
+
+#PAGE11 Missions\Pictures\faces 14
+Der grüne Feind ist vernichtet.
+
+#PAGE12 Missions\Pictures\faces 14
+Auf dem Hügel nordöstlich Ihrer Siedlung lagern Banditen. Sie greifen ständig die Einheimischen an und plündern die Minen und Packpferde von vorbeiziehenden Kaufleuten. 
+Solange Sie die Banditen nicht vernichten, werden sie die Minen und die Stadt überfallen. 

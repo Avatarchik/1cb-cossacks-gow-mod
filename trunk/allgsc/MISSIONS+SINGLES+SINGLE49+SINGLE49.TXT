@@ -1,0 +1,63 @@
+#BRIEFING faces 0
+{A} Insel N  
+ 
+Ihre Aufgabe ist es, die Allianz von Bayern und Dänemark zu vernichten. 
+Die Bayern sammeln sich im Osten in einer Burg und blockieren damit den Weg zu den Dänen. 
+Sie müssen möglichst schnell Bayern neutralisieren, und danach die Dänen zu bewältigen. 
+Sie haben verloren, wenn Ihre und die verbündeten Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die bayerisch-dänische Allianz.
+{C}~Vernichten Sie die bayerisch-dänische Allianz.~
+{D}Zerstören Sie das Banditenlager im Süden. 
+{E}~Zerstören Sie das Banditenlager im Süden.~
+{M} Zusätzliches Ziel:
+{N}Bringen Sie Packpferde mit Munition zum Lager Ihres Verbündeten (südlicher Teil der Insel). 
+{O}~Bringen Sie Packpferde mit Munition zum Lager Ihres Verbündeten (südlicher Teil der Insel).~
+
+#PAGE0AA Missions\Pictures\austria 18
+Sie müssen die Allianz von Bayern und Dänemark vernichten. Die Bayern sammeln sich einer Festung im Südosten. Sie haben von Ihrer Ankunft auf der Insel erfahren und schicken Ihnen ihre Soldaten entgegen! Neutralisieren Sie die Bayern möglichst schnell, sonst könnten sie einen Krieg auf breiter Front gegen Sie anfangen!
+Südlich von Ihnen gibt es ein Lager mit Banditen, die aus bayerischen Gefängnissen geflohen sind. Vernichten Sie sie!   
+
+#PAGE0A Missions\Pictures\faces 31
+Ihre Arbeiter können keine Artilleriedepots bauen und deshalb wird es für sie schwierig, die Bayern ohne mehrläufige Gewehre zu besiegen! Bringen Sie Packpferde mit Munition zum Lager Ihres Verbündeten (südlicher Teil der Insel). Dann wird er Ihnen seine Arbeiter für einige Zeit zur Verfügung stellen!  
+
+#PAGE0 Missions\Pictures\poland 13
+
+Gratulation! Das Banditenlager ist vernichtet und Sie haben dort %d Goldmünzen entdeckt! 
+
+#PAGE0B Missions\Pictures\poland 13
+Ihre Verbündeten haben das Banditenlager vernichtet und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen ...
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Bayern und Dänemark vernichtet!
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Die Bayern sind geschlagen!
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Die Dänen sind geschlagen!
+
+#PAGE9 Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!!
+
+#PAGE11 Missions\Pictures\mord_d 6
+Ihr Verbündeter erleidet eine Niederlage! Sie haben verloren!
+
+#PAGE10 Missions\Pictures\austria 18
+Bayern beginnt einen Krieg auf breiter Front gegen Sie!
+
+#PAGE12  Missions\Pictures\mord_d 6
+Sie haben Packpferde mit Munition verloren! Nun müssen Sie ohne Artillerie kämpfen! 
+
+#PAGE13 Missions\Pictures\faces 13
+Ah! Ihr habt uns Munition gebracht! Wir stellen Euch unsere Arbeiter für einige Zeit zur Verfügung! 
+Bauen Sie ein Rathaus auf Ihrem Gebiet. 
+
+#PAGE13A Missions\Pictures\faces 13
+Wir brauchen unsere Arbeiter. Wir nehmen sie wieder mit! 

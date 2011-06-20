@@ -1,0 +1,4 @@
+Um diese Schlacht zu gewinnen, muss die österreichisch-sächsische Armee (rot) drei der fünf spezifizierten Positionen einnehmen und halten oder die preußische Armee (blau) völlig zerstören. "Einnehmen" bedeutet hier die Abwesenheit aller feindlichen Militärstreitkräfte und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die Preußen gewinnen, wenn sie den Feind völlig vernichten oder es schaffen, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

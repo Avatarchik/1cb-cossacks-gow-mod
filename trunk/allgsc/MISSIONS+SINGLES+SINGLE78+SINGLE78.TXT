@@ -1,0 +1,25 @@
+#BRIEFING faces 0
+{A} Schlacht am Flussbett
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie das feindliche Heer.
+   Befehle werden durch Boten weitergeleitet.
+
+#PAGE0 Missions\Pictures\England 29
+Sie sind Befehlshaber der spanischen Armee und Ihre Aufgabe ist es, das feindliche Heer zu vernichten. Befehle werden durch Boten weitergeleitet.
+
+#PAGE1 Missions\Pictures\England 29
+Alles wartet auf mein Kommando!
+
+#PAGE2 Missions\Pictures\England 29
+  
+#PAGE3 Missions\Pictures\England 29
+SIEG!!! 
+Das feindliche Heer ist vernichtet.  
+
+#PAGE4 Missions\Pictures\England 29
+Niederlage ...
+Die Befehlshaber des feindlichen Heeres erwiesen sich als weiser ...  
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

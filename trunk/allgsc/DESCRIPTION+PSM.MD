@@ -1,0 +1,1 @@
+Kartätschenfeuer auf kurze Entfernung. Effektiv gegen Infanterie. Hohe Feuerrate. Benötigt Gold zur Wartung. Wenn kein Gold mehr vorhanden ist, hört das Feuer der mehrläufigen Kanone auf. Mehrläufige Kanonen, die nicht verteidigt werden, können vom Feind eingenommen werden. Verbraucht viel Kohle und Eisen.

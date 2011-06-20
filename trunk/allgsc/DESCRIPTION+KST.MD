@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffnet. Trifft Ziele auch auf große Entfernung. Nur in Verbindung mit Infanterie effektiv. Kann nicht feuern, wenn der Feind zu nahe herankommt. Einer der besten Schützen im Spiel. Große Reichweite.

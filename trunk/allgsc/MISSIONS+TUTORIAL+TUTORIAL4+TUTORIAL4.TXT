@@ -1,0 +1,87 @@
+#BRIEFING faces 0
+{Z} Militärtricks!
+                                                 
+Sie haben verloren, wenn Sie keine Bauern mehr haben und sie auch nicht mehr erstellen können und wenn die Anzahl Ihrer militärischen Einheiten auf unter 8 sinkt (Standardbedingungen für die Niederlage).
+Vergessen Sie die Wachen nicht!
+           
+  Gegenwärtiges Ziel:
+{A}Wählen Sie die Kaserne.
+{J}Führen Sie Aufrüstungen für Angriff und Verteidigung der Pikeniere aus.
+{K}Schlagen Sie den Angriff der Deserteure zurück. 
+{B}Wählen Sie den Reitstall.
+{C}Lassen Sie sich die Beschreibung der Einheiten anzeigen.
+{D}Suchen Sie die dargestellten Aufrüstungen. 
+{L}Führen Sie die Verteidigungs-Aufrüstung für gepanzerte Einheiten aus.
+{N}Wählen Sie die Akademie.
+{E}Schlagen Sie den Angriff der Bande zurück. 
+{M}Führen Sie die Aufrüstung aus und bauen Sie noch eine mehrläufige Kanone.
+{F}Wählen Sie das Artilleriedepot. 
+{H}Schlagen Sie den Angriff zurück.
+{I}Wählen Sie eine berittene Einheit.
+{G}Wehren Sie sich gegen den Angriff der Tataren.
+{O}Führen Sie beide Aufrüstungen für die Feuerrate und zwei Aufrüstungen für die Feuerkraft aus (10% und 15%).
+
+#PAGE1 Missions\Pictures\mord_tut 1
+Die Aufrüstungen, die Sie im Laufe Ihrer Entwicklung ausführen, sollten mit Ihren Zielsetzungen übereinstimmen. Abhängig von der Taktik und der Strategie, für die Sie sich entschieden haben, werden Aufrüstungen in einer bestimmten Reihenfolge ausgeführt. Dennoch hat jeder Befehlshaber seinen eigenen Weg zum Sieg.
+#PAGE21 Missions\Pictures\mord_tut 1
+In der vorherigen Mission haben Sie sich mit den Aufrüstungen beschäftigt, die Ihnen beim wirtschaftlichen Wachstum geholfen haben. In dieser Mission schauen wir uns die Aufrüstungen an, die Ihre Militärmacht verbessern.
+#PAGE22 Missions\Pictures\mord_tut 1
+Sie werden nun lernen, wie man Militär-Einheiten im Spiel verbessert. Sie können jede Art von Einheiten, ob Kavallerist oder Infanterist, trainieren und so die jeweiligen Eigenschaften der Einheit stärken.
+#PAGE2 Missions\Pictures\russia 17
+Wie Sie sehen können, gibt es unter den Icons jeder Einheit zwei Aufrüstungen. Mit der oberen können Sie die Angriffsparameter, mit der unteren die Verteidigungsparameter bei direkten Angriffen erhöhen. Insgesamt betrachtet verfügen die verschiedenen Infanterie-Einheiten über vier bis sieben Aufrüstungen für Angriff und Verteidigung. Mit diesen Aufrüstungen werden Ihre Soldaten von blutigen Anfängern zu professionellen Kämpfern. Jede Aufrüstung wirkt sich auf alle Einheiten des gewählten Typs aus, die Sie momentan besitzen oder zu einem späteren Zeitpunkt erstellen. Vergessen Sie nicht, Ihre Soldaten zu trainieren, da eine Masse schlecht vorbereiteter neuer Rekruten schon gegen eine geringe Anzahl geübter Soldaten verliert.
+#PAGE23 Missions\Pictures\russia 17
+Führen Sie alle sechs Angriffs- und Verteidigungs-Aufrüstungen für die Pikeniere aus. Wenn Sie über zu wenig Ressourcen verfügen, sammeln Sie sie oder erlangen Sie sie auf dem Markt.
+#PAGE24 Missions\Pictures\russia 17
+Wehren Sie den Angriff der Gruppe von Deserteuren ab, die sich von Südwesten her nähern.
+#PAGE25 Missions\Pictures\russia 17
+Exzellent. Wie Sie sehen können, schlagen Ihre ausgebildeten Soldaten die untrainierten feindlichen Kräfte, obwohl sie in der Überzahl sind.
+#PAGE26 Missions\Pictures\russia 17
+Beschäftigen wir uns nun mit der Kavallerie. Wählen Sie den Reitstall.
+#PAGE3 Missions\Pictures\russia 18
+Das System, nach dem Kavallerie-Einheiten im Reitstall ausgebildet werden, funktioniert genauso wie das Training der Pikeniere in der Kaserne, das Sie eben kennen gelernt haben. Unter jedem Icon für die verschiedenen Einheiten befinden sich zwei Aufrüstungen. Die obere erhöht die Angriffsparameter, mit der unteren können Sie die Verteidigung verbessern. Die verschiedenen Kavallerie-Einheiten verfügen über sechs Aufrüstungen für Verteidigung und Angriff.
+#PAGE27 Missions\Pictures\russia 18
+"Pferdegeschirre schmieden" ist eine Aufrüstung, die für die Kavallerie von immenser Bedeutung ist, da Sie Kavallerie-Einheiten mit ihr viermal schneller erstellen können. Ähnlich wichtig ist die Aufrüstung "Neue Breitschwert- und Säbel-Typen schmieden", da sie die Angriffsparameter der Kavallerie um 5 erhöht. Diese beiden Aufrüstungen können in der Schmiede gefunden werden.
+#PAGE28 Missions\Pictures\russia 18
+Es gibt im Spiel ein Referenz-System, durch das Sie Informationen über Einheiten und Gebäude finden können. Wählen Sie eine beliebige Einheit und drücken Sie die Taste U, damit Ihnen die Eigenschaften der Einheit oben rechts auf dem Bildschirm angezeigt werden. Wenn Sie die Aufrüstungen der Untersektion gewählt haben, sehen Sie, wie jede Aufrüstung die Angriffs- und Verteidigungsparameter der Einheit erhöht. Halten Sie den Mauszeiger auf die Nummer der Aufrüstung, um ihre Kosten in einem Pop-Up-Menü anzeigen zu lassen. Wenn Sie dieses Informationsfenster wieder verstecken möchten, drücken Sie die Taste U erneut.
+#PAGE4 Missions\Pictures\england 24
+Unter den Aufrüstungen befinden sich solche, die alle Einheitenarten betreffen und solche, die nur für bestimmte Einheiten gelten. So gibt es zum Beispiel in der Akademie die Aufrüstungen "Verbesserte Brustharnisch-Stahltypen erforschen" und "Neue Brustharnische schmieden", die der Verteidigung gepanzerter Einheiten 2 Punkte hinzufügen. Wenn Sie diese Verbesserungen eingeführt haben, sind die Verteidigungsparameter all Ihrer gepanzerten Einheiten erhöht. Führen Sie nun eine dieser Aufrüstungen aus.
+#PAGE29 Missions\Pictures\england 24
+Die Aufrüstung ist abgeschlossen. Alle Ihre gepanzerten Einheiten haben einen Verteidigungsbonus erhalten.
+#PAGE30 Missions\Pictures\england 24
+Nun wollen wir uns die Aufrüstungen ansehen, die es Ihnen ermöglichen, die Parameter von schießenden Einheiten zu verbessern. Wählen Sie dazu die Akademie.
+#PAGE5 Missions\Pictures\mord_d 8
+Hier können Sie die Aufrüstungen "Gewehrdrehschloss entwerfen" und "Papierpatrone und Eisenladestock" ausführen. Jede dieser Aufrüstungen erhöht die Feuerrate Ihrer schießenden Einheiten um 35 Prozent. Hier finden Sie auch die Aufrüstungen "Granulares Schießpulver erforschen", "Feuerwaffen verbessern: Gewehrlauf", "Neue Schwefel-Rektifikationsmethoden erforschen" und "Neue Salpeter-Rektifikationsmethoden erforschen", die alle die Feuerkraft erhöhen. Beachten Sie: Kaufleute sind von Aufrüstungen nicht betroffen. Führen Sie beide Aufrüstungen für die Feuerrate und die zwei Aufrüstungen zur Erhöhung der Feuerkraft (um 10 und 15 Prozent) aus.
+#PAGE31 Missions\Pictures\england 24
+Großartig, die Angriffsparameter Ihrer schießenden Einheiten haben sich erhöht. Kümmern wir uns nun um die Artillerie.
+#PAGE6 Missions\Pictures\poland 5
+Sie verfügen über eine mehrläufige Kanone. Solche Waffen sind sehr effektiv gegen Infanterie- und Kavallerie-Einheiten, die nicht gepanzert sind. Seien Sie wachsam, denn eine Räuberbande will Sie von Nordosten aus angreifen. Nutzen Sie die mehrläufige Kanone, um den Angriff zurückzuschlagen.
+#PAGE7 Missions\Pictures\russia 8
+Wie Sie selbst gesehen haben, war Ihre Angriffsmethode ziemlich effektiv. Da sind aber immer noch einige Einheiten mit einer schützenden Rüstung. Mehrläufige Kanonen sind gegen diese Einheiten machtlos. Ihre Pikeniere zum Beispiel sind gepanzert. Wählen Sie einen von ihnen, um sich seine Parameter unten links im Interface anzusehen. Der Verteidigungswert des Pikeniers gegen diese Art von Angriff beträgt 150.
+#PAGE8 Missions\Pictures\mord2_tut 19
+Mehrläufige Kanonen sind nicht verfügbar, wenn Sie das Artilleriedepot gerade erst gebaut haben. Um sie verfügbar zu machen, müssen Sie erst die Aufrüstung "Mehrläufige Kanone entwerfen" ausführen. Wählen Sie nun die Akademie.
+#PAGE32 Missions\Pictures\england 24
+Gut, nun führen Sie die Aufrüstung für die mehrläufige Kanone aus und wählen Sie das Artilleriedepot. Bauen Sie hier eine mehrläufige Kanone.
+#PAGE9 Missions\Pictures\russia 28
+Schön. Jetzt schauen Sie sich einmal die Kanonen an. Kanonen sind Artillerie-Einheiten, die Geschosse auf weite Distanz feuern. Wenn ein Ziel nahe genug ist, können sie auch Kartätschen feuern. Wählen Sie das Artilleriedepot.
+#PAGE33 Missions\Pictures\russia 28
+Unter dem Icon der Kanone können Sie zwei Aufrüstungen sehen: "Gießerei-Mechanisierung" und "Neue Metallverarbeitungs-Methoden entwickeln" ermöglichen Ihnen, die Kosten und die Bauzeit der Kanone zu verringern.
+#PAGE34 Missions\Pictures\russia 28
+Eine Haubitze ist eine Bomben feuernde Artillerie-Einheit, die auf kurze Distanz wirksam ist. Haubitzen sind gleichermaßen effektiv gegen Truppen und Gebäude. Anders als Kanonen schießen Haubitzen ihre Geschosse in einem Bogen, so dass sie das Ziel über unregelmäßige Oberflächen hinweg treffen können. Genau wie bei den Kanonen können Sie mit den Aufrüstungen "Gießerei-Mechanisierung" und "Neue Metallverarbeitungs-Methoden entwickeln" die Kosten und Bauzeit der Haubitzen verringern.
+#PAGE35 Missions\Pictures\russia 28   
+Der Mörser ist eine Artillerie-Einheit mit außergewöhnlich großer Reichweite, die nur gegen Gebäude und Einrichtungen effektiv ist. Der Flugweg von Mörsergeschossen verläuft bogenförmig, so dass sie ein Ziel auch bei unregelmäßigen Oberflächen treffen können.
+#PAGE10 Missions\Pictures\mord_tut 13
+Jetzt können die konventionelle Kanone und die Haubitze zum Einsatz kommen, denn feindliche Truppen tauchen aus dem Dickicht auf. Deaktivieren Sie den Angriffsmodus der Kanone, indem Sie auf das entsprechende Icon klicken. Wenn der Feind nahe genug ist, können Sie den Angriff aktivieren (Kartätschen).
+#PAGE11 Missions\Pictures\mord_tut 17
+Hoffentlich war das nicht zu schwierig. Wählen Sie nun eine beliebige berittene Einheit (außer den Kaufleuten).
+#PAGE15 Missions\Pictures\ukraine 29
+Unten links im Interface können Sie drei Icons für die Erstellung berittener Formationen sehen. Erstellen Sie 40 Einheiten eines Typs (Don-Kosaken), wählen Sie eine davon und klicken Sie auf das Icon für die Formation, um eine solche zu erstellen. Kavallerie- wie Infanterie-Einheiten erhalten in Formationen einen Bonus. Schnelle Kavallerie-Einheiten lassen sich nicht zu Formationen zusammenfassen.
+#PAGE36 Missions\Pictures\ukraine 29
+Eine Schwadron Don-Kosaken hat sich Ihnen angeschlossen.
+#PAGE16 Missions\Pictures\poland 23
+Wenn Sie keine Unterkünfte mehr frei haben, sollten Sie mehrere Izbas bauen. Wählen Sie das Rathaus, um zu sehen, wie viele Unterkünfte verfügbar sind (unten) und wie viele Einheiten Sie haben (oben). Die Anzahl der Unterkünfte sollte wesentlich höher sein als die der Einheiten.
+#PAGE17 Missions\Pictures\russia 29
+Der Zar hat Ihnen eine Schwadron Don-Kosaken und ein Streleten-Regiment geschickt, damit Sie die Überfälle der Tataren abwehren können, die aus Südosten erwartet werden.
+#PAGE20 Missions\Pictures\russia 15
+Bravo! Es wird wohl Zeit, dass Sie ins 18. Jahrhundert gelangen.
+#PAGE100 Missions\Pictures\england 22
+Sie hätten es fast geschafft! Schade ...

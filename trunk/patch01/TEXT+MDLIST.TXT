@@ -1,0 +1,354 @@
+BAR.MD Trommler 18. Jhd.
+BA1.MD Trommler 17. Jhd.
+BAE.MD Trommler 17. Jhd.
+MUS.MD Musketier 18. Jhd.
+PUS.MD Kanone
+KRE.MD Leibeigener
+LOK.MD Sich-Kosake
+PIE.MD Pikenier 17. Jhd.
+OFI.MD Offizier 18. Jhd.
+MEL.MD Mühle
+MELN2.MD Mühle
+SHA.MD Mine
+SHAFE.MD Mine
+SHAUG.MD Mine
+AKA.MD Akademie
+KON.MD Reitstall
+ART.MD Artilleriedepot
+EUD.MD Wohngebäude
+RUD.MD Izba
+UKD.MD Hütte
+KRU.MD Bauer
+RIC.MD Kavallerist
+TOW.MD Turm
+TO2.MD Turm
+KAZ.MD Kaserne 18. Jhd.
+GET.MD Hetman
+KZK.MD Register-Kosake
+PE2.MD Pikenier 18. Jhd.
+DRA.MD Dragoner 17. Jhd.
+EVR.MD Rathaus
+PIR.MD Speerträger
+CUR.MD Rathaus
+STR.MD Streleten
+DIP.MD Diplomatiezentrum
+KOS.MD Katholische Kirche
+KUZ.MD Schmiede
+K2Z.MD Kaserne 17. Jhd.
+RUS.MD Rathaus
+RST.MD Streleten-Kaserne
+FIELD1.MD Korn
+RIN.MD Markt
+CER.MD Kirche
+UKS.MD Kosakenhaus
+KOM.MD Kommandant
+KST.MD Serdiuke
+MOR.MD Haubitze
+TAG.MD Don-Kosake
+KR3.MD Bauer
+MUE.MD Musketier 17. Jhd.
+GRE.MD Grenadier
+GUS.MD Husar
+WALL_KR.MD Mauer
+WALL_EV.MD Mauer
+WALL_UKR.MD Lattenzaun
+TAK.MD Vityaz
+SVE.MD Priester
+SVU.MD Papst
+BRT.MD Trommler
+OFT.MD Offizier
+TAT.MD Tatar
+JIA.MD Janitschar
+KPO.MD Bauer
+KAA.MD Kroate
+KRP.MD Bauer
+STI.MD Musketier 17. Jhd.
+LPF.MD Chasseur
+MUA.MD Musketier 17. Jhd.
+SWR.MD Schwedischer Reiter
+SWP.MD Pikenier 18. Jhd.
+SAG.MD Grenadier
+SAK.MD Kavallerist
+ENS.MD Highlander
+ENV.MD Dudelsackspieler
+LRE.MD Leichter Kavallerist
+VGA.MD Bogenschütze
+LPT.MD Leichter Infanterist
+L2T.MD Osmanischer Pikenier
+MUT.MD Mullah
+MUP.MD Musketier 17. Jhd.
+MUN.MD Musketier 17. Jhd.
+KVT.MD Spahis
+DRF.MD Dragoner 18. Jhd.
+KOF.MD Königlicher Musketier
+SV2.MD Pater
+PIP.MD Pikenier 17. Jhd.
+TKP.MD Flügelhusar
+MAM.MD Mameluke
+PAA.MD Pandur
+RUA.MD Rondartschier
+KRT.MD Bauer
+KRS.MD Bauer
+CEB.MD Rathaus
+CEI.MD Rathaus
+CEH.MD Rathaus
+CEP.MD Rathaus
+CSW.MD Rathaus
+OF2.MD Offizier 17. Jhd.
+CES.MD Rathaus
+ADET.MD Artilleriedepot
+BAT.MD Kaserne
+CET.MD Rathaus
+DIPT.MD Diplomatiezentrum
+KUT.MD Schmiede
+MET.MD Moschee
+MIT.MD Minarett
+RIT.MD Basar
+DOT.MD Wohngebäude
+CPL.MD Rathaus
+CRP.MD Kirche
+DPL.MD Wohngebäude
+DOB.MD Wohngebäude
+DOF2.MD Wohngebäude
+DOI.MD Wohngebäude
+DOP.MD Wohngebäude
+DPR.MD Wohngebäude
+DOS.MD Wohngebäude
+DSW.MD Wohngebäude
+KOT.MD Reitstall
+CAL.MD Rathaus
+CEF2.MD Rathaus
+DAL.MD Wohngebäude
+KSW.MD Reitstall
+CAU.MD Rathaus
+DAU.MD Wohngebäude
+SAM.MD Musketier 18. Jhd.
+DR2.MD Dragoner 18. Jhd.
+PSM.MD Mehrläufige Kanone
+SHE.MD Xebec
+LINK.MD Linienschiff
+YAH.MD Jacht
+SKL1.MD Lagerhaus
+SKL2.MD Lagerhaus
+SKL3.MD Lagerhaus
+SKL4.MD Lagerhaus
+PRS.MD Fähre
+LOD.MD Boot
+FREG.MD Fregatte
+CEV.MD Rathaus
+DOV.MD Wohngebäude
+KIR.MD Kürassier
+TO3.MD Turm
+PORE.MD Schiffswerft
+DPO.MD Wohngebäude
+CPO.MD Rathaus
+AKE.MD Akademie
+RUADIP.MD Söldner-Rondartschier
+GREDIP.MD Grenadier (Söldner)
+LPTDIP.MD Infanterist (Söldner)
+VGADIP.MD Bogenschütze (Söldner)
+DR2DIP.MD Dragoner 18. Jhd. (Söldner)
+LOKDIP.MD Sich-Kosake (Söldner)
+WALL_TU.MD Mauer
+PORR.MD Schiffswerft
+PORT.MD Schiffswerft
+PORU.MD Schiffswerft
+GAL.MD Galeere
+ARTU.MD Artilleriedepot
+MT.MD Mühle
+KUZU.MD Schmiede
+KONU.MD Reitstall
+HRA.MD Orthodoxenkathedrale
+AKAU.MD Akademie
+CERU.MD Orthodoxenkirche
+DIPU.MD Diplomatiezentrum
+DIPR.MD Diplomatiezentrum
+AKAR.MD Akademie
+MORBIG.MD Mörser
+AKAFR.MD Akademie
+KUZFR.MD Schmiede
+KAZFR.MD Kaserne 17. Jhd.
+KONFR.MD Reitstall
+NOTRDAM.MD Kathedrale
+DIPFR.MD Diplomatiezentrum
+KA2FR.MD Kaserne 18. Jhd.
+ARTFR.MD Artilleriedepot
+GRUZ.MD Packpferd
+MOST.MD Brücke
+SKA.MD Halbgaleere
+AKABR.MD Akademie
+ARTBR.MD Artilleriedepot
+HRABR.MD Kathedrale
+DIPBR.MD Diplomatiezentrum
+KONBR.MD Reitstall
+KUZBR.MD Schmiede
+KAZBR.MD Kaserne 17. Jhd.
+KA2BR.MD Kaserne 18. Jhd.
+AKASP.MD Akademie
+ARTSP.MD Artilleriedepot
+DIPSP.MD Diplomatiezentrum
+KONSP.MD Reitstall
+KUZSP.MD Schmiede
+KA1SP.MD Kaserne 17. Jhd.
+KA2SP.MD Kaserne 18. Jhd.
+HRASP.MD Kathedrale
+AKAPO.MD Akademie
+ARTPO.MD Artilleriedepot
+HRAPO.MD Kathedrale
+DIPPO.MD Diplomatiezentrum
+KONPO.MD Reitstall
+KUZPO.MD Schmiede
+KA1PO.MD Kaserne 17. Jhd.
+KA2PO.MD Kaserne 18. Jhd.
+PORPO.MD Schiffswerft
+KOTEL.MD Kessel
+URTA.MD Zelt
+AKAHO.MD Akademie
+ARTHO.MD Artilleriedepot
+HRAHO.MD Kathedrale
+DIPHO.MD Diplomatiezentrum
+KONHO.MD Reitstall
+KUZHO.MD Schmiede
+KA1HO.MD Kaserne 17. Jhd.
+KA2HO.MD Kaserne 18. Jhd.
+AKAGE.MD Akademie
+ARTGE.MD Artilleriedepot
+HRAGE.MD Kathedrale
+DIPGE.MD Diplomatiezentrum
+KONGE.MD Reitstall
+KUZGE.MD Schmiede
+KA1GE.MD Kaserne 17. Jhd.
+KA2GE.MD Kaserne 18. Jhd.
+MOST2.MD Brücke
+AKASA.MD Akademie
+ARTSA.MD Artilleriedepot
+HRASA.MD Kathedrale
+DIPSA.MD Diplomatiezentrum
+KONSA.MD Reitstall
+KUZSA.MD Schmiede
+KA1SA.MD Kaserne 17. Jhd.
+KA2SA.MD Kaserne 18. Jhd.
+AKAAU.MD Akademie
+ARTAU.MD Artilleriedepot
+HRAAU.MD Kathedrale
+DIPAU.MD Diplomatiezentrum
+KONAU.MD Reitstall
+KUZAU.MD Schmiede
+KA1AU.MD Kaserne 17. Jhd.
+KA2AU.MD Kaserne 18. Jhd.
+GRUZZ.MD Packpferd
+AKAPL.MD Akademie
+ARTPL.MD Artilleriedepot
+HRAPL.MD Kathedrale
+DIPPL.MD Diplomatiezentrum
+KONPL.MD Reitstall
+KUZPL.MD Schmiede
+KA1PL.MD Kaserne 17. Jhd.
+KA2PL.MD Kaserne 18. Jhd.
+AKASV.MD Akademie
+ARTSV.MD Artilleriedepot
+HRASV.MD Kathedrale
+DIPSV.MD Diplomatiezentrum
+KUZSV.MD Schmiede
+KONSV.MD Reitstall
+KA1SV.MD Kaserne 17. Jhd.
+KA2SV.MD Kaserne 18. Jhd.
+AKAPI.MD Akademie
+ARTPI.MD Artilleriedepot
+HRAPI.MD Kathedrale
+DIPPI.MD Diplomatiezentrum
+KONPI.MD Reitstall
+KA1PI.MD Kaserne 17. Jhd.
+KA2PI.MD Kaserne 18. Jhd.
+KUZPI.MD Schmiede
+AKAVE.MD Akademie
+ARTVE.MD Artilleriedepot
+HRAVE.MD Kathedrale
+DIPVE.MD Diplomatiezentrum
+KONVE.MD Reitstall
+KUZVE.MD Schmiede
+KA1VE.MD Kaserne 17. Jhd.
+KA2VE.MD Kaserne 18. Jhd.
+RINN.MD Markt
+RINS.MD Markt
+RINR.MD Markt
+ARTRU.MD Artilleriedepot
+KUZRU.MD Schmiede
+KA2RU.MD Kaserne 18. Jhd.
+KOLODEC1.MD Brunnen
+KOLODEC2.MD Brunnen
+BGAUZ.MD Blockhaus
+BGAUZ2.MD Blockhaus
+PALATKA.MD Zelt
+MUSOR.MD Abfall
+SUNDUK1O.MD Truhe
+SUNDUK1Z.MD Truhe
+SUNDUK2O.MD Truhe
+SUNDUK2Z.MD Truhe
+VIC.MD Linienschiff, 18. Jahrhundert
+FRN.MD Fregatte
+KECH.MD Ketsch
+KUTT.MD Kutter
+YAHTU.MD Jacht
+CEBA.MD Rathaus
+AKABA.MD Akademie
+ARTBA.MD Artilleriedepot
+HRABA.MD Kathedrale
+DIPBA.MD Diplomatiezentrum
+DOBA.MD Wohngebäude
+KONBA.MD Reitstall
+KUZBA.MD Schmiede
+KA1BA.MD Kaserne 17. Jhd.
+KA2BA.MD Kaserne 18. Jhd.
+ARTDA.MD Artilleriedepot
+AKADA.MD Akademie
+HRADA.MD Kathedrale
+CEDA.MD Rathaus
+DIPDA.MD Diplomatiezentrum
+DODA.MD Wohngebäude
+KA1DA.MD Kaserne 17. Jhd.
+KA2DA.MD Kaserne 18. Jhd.
+KONDA.MD Reitstall
+KUZDA.MD Schmiede
+MDO.MD Wohngebäude
+FLG.MD Fahnenträger
+KUP.MD Kaufmann
+MOL.MD Moldawier
+GSN.MD Husar
+OFN.MD General
+KPU.MD Kommandozentrum
+MBA.MD Musketier 18. Jhd.
+MDA.MD Musketier 18. Jhd.
+MPR.MD Musketier 18. Jhd.
+GLS.MD Galleasse
+STEFAN.MD Stefan Hertrich
+VNGAKA.MD Akademie
+VNGART.MD Artilleriedepot
+VNGCEN.MD Rathaus
+VNGDIP.MD Diplomatiezentrum
+VNGDOM.MD Wohngebäude
+VNGHRA.MD Kathedrale
+VNGK17.MD Kaserne 17. Jhd
+VNGK18.MD Kaserne 18. Jhd
+VNGKON.MD Reitstall
+VNGKUZ.MD Schmiede
+VNGKPND.MD Berittener Pandur
+VNGKVL.MD Kuruc
+VNGPND.MD Pandur 
+VNGSER.MD Hajduk
+SWZAKA.MD Akademie
+SWZALB.MD Hellebardier
+SWZART.MD Artilleriedepot
+SWZCEN.MD Rathaus
+SWZDIP.MD Diplomatiezentrum
+SWZDOM.MD Wohngebäude
+SWZEGR.MD Chasseur
+SWZHRA.MD Kathedrale
+SWZK17.MD Kaserne 17. Jhd.
+SWZK18.MD Kaserne 18. Jhd.
+SWZKEGR.MD Berittener Chasseur
+SWZKON.MD Stall
+SWZKUZ.MD Schmiede
+SWZMCH.MD Schwertkämpfer
+SWZS15.MD Hakenbüchsenschütze
+TURBED.MD Beduine

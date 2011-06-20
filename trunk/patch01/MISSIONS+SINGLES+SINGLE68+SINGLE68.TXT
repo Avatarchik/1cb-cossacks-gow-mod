@@ -1,0 +1,42 @@
+#BRIEFING faces 0
+{A} Drei Möglichkeiten.
+
+Um zu gewinnen, müssen Sie eine der laufenden Aufgaben erfüllen.  
+Sie haben verloren, wenn Ihr Stützpunkt zumindest teilweise zerstört oder vernichtet wird. 
+
+{L}Packpferde und Bauern können Sie auf Ihrem Stützpunkt in dem Bereich hinter dem Zaun verkaufen. 
+{M}Wählen Sie das Lagerhaus, um die Anzahl der ergriffenen Packpferde zu erfahren. 
+
+Gegenwärtiges Ziel:
+{B}Erlangen Sie 500 Packpferde.
+{C}Zerschlagen Sie die feindlichen Stützpunkte, die der Festung Ressourcen besorgen. 
+{D}Vernichten Sie die Festungsgarnison.
+
+#PAGE1801 Missions\Pictures\Austria 26
+Sie wollten schon immer große Länder besitzen, jetzt haben Sie die Gelegenheit dazu. Nachdem Sie mit Ihren Einheiten in der Region gelandet sind, bauen Sie ein Fort, von dem nur wenige wissen. Der Besitzer dieses Landes wohnt in einer Festung auf der Insel. Wenn Sie diese Festung erobern, werden Sie zum Herrscher dieses Landes. 
+
+#PAGE1811 Missions\Pictures\Austria 1
+Ein Adjutant berichtet:
+"Die Festung auf der Insel ist sehr stark auf Lieferungen von den Stützpunkten angewiesen. Wenn wir die feindlichen Packpferde vernichten, müssen die Feinde verhungern."
+
+#PAGE1821 Missions\Pictures\Austria 44
+Ihr Handelsberater:
+"Proviant und Munition werden mit Packpferden zur Festung geliefert. Ich werde Packpferde und polnische Bauern einhandeln und sie zur Palisade neben dem Lagerhaus bringen. Wenn ich 500 Packpferde kaufen kann, werde ich das Land für Euch kaufen können". (Wählen Sie das Lager und Sie werden die Anzahl der ergriffenen Packpferde erfahren).
+
+#PAGE1802 Missions\Pictures\Mord_d 2
+Ihr Fort ist entdeckt und eingenommen!! Schade, wenn Träume nicht in Erfüllung gehen... 
+
+#PAGE1803 Missions\Pictures\Algeria 3
+Sie haben sich als ein glänzender Heerführer gezeigt und die Festung eingenommen. Nun sind Sie rechtmäßiger Besitzer dieses Landes. 
+
+
+
+#PAGE1804 Missions\Pictures\Austria 17
+Sie haben eine brillante Partisanenkampagne durchgeführt und die Fortverteidiger ohne Nahrung und Munition gelassen. Die Garnison hat ihren Kommandanten gestürzt und die Waffen gestreckt. Nun besitzen Sie dieses Land. 
+
+
+#PAGE1805 Missions\Pictures\England 17
+Ihr Handelsberater hat Ihnen mitgeteilt, dass er dieses Land beim König für Sie kaufen konnte. Der vorherige Besitzer hat seine Truppen weggeführt und Ihnen die Festung übergeben, weil er den Zorn des Monarchen befürchtete. Nun sind Sie der Besitzer! 
+
+#PAGE1806 Missions\Pictures\Austria 44
+Sie haben %d feindliche Packpferde ergriffen. 

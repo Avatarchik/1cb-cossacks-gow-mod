@@ -1,0 +1,39 @@
+#BRIEFING faces 0
+{A} Marineadmiral 
+    
+Sie können Sachsen zum Sieg führen, wenn Sie die Feinde Dänemark und Preußen (blau und grün) in der Region gemeinsam mit sächsischen Truppen vernichten. 
+Sie haben verloren, wenn Ihre Streitkräfte zerschlagen werden. 
+
+#PAGE1 Missions\Pictures\mord3_tut 7
+Sie kontrollieren eine Hafenstadt und befehligen die sächsische Marine. Sie müssen Ihre Flotte entwickeln und verstärken, um zu Wasser leistungsfähig zu sein. Für die Vernichtung der Stadt eignen sich sowohl die Ketsch als auch die Fregatte und das Linienschiff des 18. Jahrhunderts.  
+Ein Transport bringt regelmäßig Ressourcen in die Stadt (weiße Fregatte). Der Transport muss geschützt werden, weil er durch feindliche Schiffe versenkt werden kann. 
+
+#PAGE2 Missions\Pictures\mord3_tut 5
+Ihre Aufgabe ist es, den feindlichen Flotten (blau, grün, schwarz) zu widerstehen. Leisten Sie auch der sächsischen Armee (violett) Hilfe in ihrem Kampf. 
+
+#PAGE4 Missions\Pictures\austria 6
+Mobilisieren Sie Ihre Kräfte! Der Feind droht, die Sachsen in der Region zu schlagen. 
+
+#PAGE10 Missions\Pictures\mord3_tut 8
+Admiral, die Flotte ist verloren. Die Mission ist gescheitert ... 
+
+#PAGE11 Missions\Pictures\mord3_tut 14
+Die preußischen Streitkräfte (blau)in der Region sind zerschlagen. 
+
+#PAGE12 Missions\Pictures\austria 9
+Die dänischen Streitkräfte (grün) in der Region sind zerschlagen. 
+
+#PAGE13 Missions\Pictures\mord_d 6
+
+
+Die 1. sächsische Armee (violett) ist zerschlagen.  
+
+
+#PAGE14 Missions\Pictures\mord_d 6
+Die 2. sächsische Armee (orangefarben) ist zerschlagen.
+
+#PAGE22 Missions\Pictures\mord3_tut 8 austria 9 austria 6
+Die dänischen Streitkräfte und Marine (grün) in der Region sind zerschlagen. 
+
+#PAGE20 Missions\Pictures\faces 14
+Alle feindlichen Streitkräfte in der Region sind zerschlagen. Sieg!!!!!!!!!!!

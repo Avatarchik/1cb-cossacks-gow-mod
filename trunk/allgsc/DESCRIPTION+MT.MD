@@ -1,0 +1,1 @@
+Kultiviert und verarbeitet Getreidepflanzen. Bauern können gesammelte Nahrung zur Mühle bringen. Kann vom Feind eingenommen werden. Die Haupt-Aufrüstungen verbessern die Methoden der Nahrungsgewinnung.

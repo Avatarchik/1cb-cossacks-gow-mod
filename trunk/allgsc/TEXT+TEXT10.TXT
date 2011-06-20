@@ -1,0 +1,16 @@
+HDOGUARD Diese Einheit als Wache einsetzen
+HNOGUARD Wachmodus beenden
+HPATROL Patrouillieren
+__ARTCAP0 Kanonen:%d\%d
+__ARTCAP1 Mörser:%d\%d
+__ARTCAP2 Haubitzen:%d\%d
+__ARTCAP3 Mehrläufge.:%d\%d
+ATGHINT Boden angreifen
+KICK Spieler rauswerfen
+PROGSTR%s Laden ...
+INHIN1 Beste 100 Spieler anzeigen
+INHIN2 Persönliche Spielerinformation
+INHIN3 Spieleliste anzeigen
+INHIN4 Spieler eine Nachricht schicken
+INHIN5 Spieler Maulkorb verpassen\Die Nachrichten dieses Spielers werden nicht mehr angezeigt.
+INHIN6 Spieler Maulkorb abnehmen\Die Nachrichten dieses Spielers werden angezeigt. 

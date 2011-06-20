@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffneter Kavallerist. Trifft Ziele auch auf groﬂe Entfernung. Kann nicht feuern, wenn der Feind zu nahe herankommt. Gut im Angriff. Niedrige Feuerrate. Seine Herstellung braucht viel Zeit.

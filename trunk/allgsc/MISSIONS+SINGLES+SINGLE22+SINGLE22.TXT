@@ -1,0 +1,50 @@
+#BRIEFING faces 0
+{A} Kohlebündnis
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie den Gegner.
+{C}Verteidigen und befreien Sie das verbündete Dorf.
+{F}~ Befreien Sie das verbündete Dorf.~
+{D}Gelangen Sie an das Gold der Piraten. 
+{G}~Gelangen Sie an das Gold der Piraten.~
+{E}Verhindern Sie, dass der Feind seinen Verbündeten Kohle liefern kann. 
+{H}~Verhindern Sie, dass der Feind seinen Verbündeten Kohle liefern kann.~
+
+Nur der Hauptcharakter kann mit anderen Figuren sprechen.
+	
+#PAGE0 Missions\Pictures\poland 7
+Sie kommandieren eine türkische Stadt.
+Auf Ihrem Gebiet fehlen Steinvorräte. Sie müssen Steine bei Ihren Verbündeten auf der Insel gegen Nahrung tauschen. 
+Lassen Sie Ihren Hauptcharakter mit einem Kaufmann auf dem Markt sprechen und die Vorbereitung der Handelskarawane vereinbaren.  
+Nachdem Sie die verbündete Stadt befreit haben, können Sie Kanonen bei einem Offizier des Artilleriedepots im Osten kaufen und danach sehr günstig in der Stadt Nahrung eintauschen. 
+Ihr Gegner bekommt große Kohlelieferungen von seinem Verbündeten über den Seeweg nordöstlich von Ihnen. Es wäre wünschenswert, ihn zu vernichten. 
+
+#PAGE1 Missions\Pictures\poland 8
+Die Seeleute erzählen, dass es im Meer eine Insel gibt, auf der Piraten ihre Beute vergraben haben. 
+
+ 
+
+#PAGE2 Missions\Pictures\Ukraine 10
+Sie haben den Piratenschatz von 10000 Gold ausgegraben!!!
+
+#PAGE3 Missions\Pictures\Ukraine 10
+Was wünscht Ihr, Herr?
+
+#PAGE4 Missions\Pictures\Ukraine 10
+Das Packpferd muss auf die Insel der Verbündeten übergesetzt und bei den Toren ausgeladen werden. 
+
+
+
+#PAGE5 Missions\Pictures\Ukraine 10
+Was möchten Sie kaufen?
+
+#PAGE6 Missions\Pictures\Ukraine 10
+Wir haben nichts, womit wir das Packpferd beladen könnten. 
+
+#PAGE7 Missions\Pictures\Ukraine 10
+Die Stadt ist befreit!!!
+Nun kann man handeln.
+
+#PAGE8 Missions\Pictures\Ukraine 10
+
+Sie haben den Verbündeten Ihres Gegners zerschlagen. Somit wird es keine weiteren Kohlelieferungen geben.	

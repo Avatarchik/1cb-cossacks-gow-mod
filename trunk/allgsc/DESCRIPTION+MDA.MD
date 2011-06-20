@@ -1,0 +1,1 @@
+Elite-Infanterist. Bewaffnet mit einer Muskete, einem Bajonett und Granaten. Trifft Ziele auch auf große Entfernung. Effektiv in der Karree-Formation. Kann feindliche Gebäude und Befestigungen mit Granaten zerstören.

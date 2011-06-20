@@ -1,0 +1,8 @@
+LOADING Laden ...
+WAITPL Bitte warten ...
+Assume_Rank_Formation Säulenformation einnehmen
+Assume_Column_Formation Säulenformation einnehmen
+Assume_Square_Formation Linienformation einnehmen
+Assume_HR_LINE_Formation Linienformation einnehmen
+Assume_HR_TRI_Formation Keilformation einnehmen
+Assume_HR_P_Formation Keilformation einnehmen

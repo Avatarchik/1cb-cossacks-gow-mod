@@ -1,0 +1,7 @@
+TEXT1 Die österreichische Armee hat keine Versorgungstransporte und Munition!
+TEXT2 Die schwedische Armee hat keine Versorgungstransporte und Munition!
+TEXT3 Die verbündete Armee erleidet schwere Opfer.
+TEXT4 Die französische Armee erleidet schwere Opfer.
+TEXT7 Noch weniger als eine Minute bis zum Ende der Schlacht!
+TEXT8 Die Armee des Feindes ist fast erledigt!
+TEXT9 Greifen Sie stärker an!

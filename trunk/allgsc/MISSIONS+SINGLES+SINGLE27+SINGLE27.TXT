@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A} Reicher Boden
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie den Gegner.
+Nur der Hauptcharakter kann mit anderen Figuren sprechen.
+ 	
+#PAGE0 Missions\Pictures\poland 7
+Sie müssen als Befehlshaber der französischen Kolonie das Bündnis von Algerien und der Türkei zerstören und den Gegner vernichten. Wenn dies nicht geschieht, wird Ihre Kolonie stets durch Feinde bedroht werden.  
+Verteidigen Sie die Packpferde mit den königlichen Musketieren, die Sie anführen. 
+Nachdem Sie die Nomaden bezahlt haben (ihr Lager ist im Westen), können Sie das Gebiet, das reich an Ressourcen ist, überfallen. 
+
+#PAGE1 Missions\Pictures\England 9
+Möchten Sie ein beladenes Packpferd in die Stadt senden? 
+(20000 Nahrung)
+
+
+#PAGE2 Missions\Pictures\England 9
+Wir haben nicht genügend Proviant für das Packpferd. 
+
+#PAGE3 Missions\Pictures\England 9
+Das Packpferd muss geschützt werden, weil es unterwegs von Nomaden überfallen werden kann. 
+
+#PAGE4 Missions\Pictures\Faces 0
+Hallo, Franzose! Wir können für Euch arbeiten! 
+Für 1000 Goldmünzen sind wir bereit, Überfälle auszuführen. 
+Seid Ihr einverstanden? 
+... 
+???

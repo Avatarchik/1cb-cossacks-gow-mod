@@ -1,0 +1,8 @@
+Um diese Schlacht zu gewinnen, muss die anrückende schwedische Armee (blau) drei der fünf spezifizierten Stellungen einnehmen und halten oder die kaiserliche Armee (rot) vollständig vernichten. "Einnehmen" bedeutet hier die Abwesenheit feindlicher Truppen und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die Österreicher gewinnen, wenn sie den Feind völlig vernichten oder es schaffen, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+Wenn Sie feindliche Militärzüge einnehmen oder vernichten, hat Ihr Feind keine Munition mehr, und alle Musketiere und seine gesamte Artillerie werden das Feuer einstellen.
+
+Es wird um die folgenden Stellungen gekämpft:
+1, 5 - Brücken
+2, 3, 4 - Feldbefestigungen der kaiserlichen Armee
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

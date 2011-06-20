@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+{A} Seeinvasion
+
+Sie haben gewonnen, wenn Sie die preußischen und bayerischen Einheiten vernichten können. Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren. 
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die preußischen Truppen.
+{C}~Vernichten Sie die preußischen Truppen.~
+{D} Vernichten Sie die bayerischen Truppen.
+{F}~Vernichten Sie die bayerischen Truppen.~
+
+#PAGE2201 Missions\Pictures\Austria 0
+Bauen Sie ein befestigtes Fort auf dieser Insel und bereiten Sie Ihre Truppen für die Landung auf das Festland vor. Sie verfügen über eine Menge Zeit, da die französische Marine den Seeraum kontrolliert und Feinde, die auf Ihren Stützpunkt landen wollen, aufhält.  Vergessen Sie nicht, dass sie den vereinigten Einheiten von Bayern und Preußen widerstehen müssen. 
+Erledigen Sie diese Aufgabe und der König wird Sie auszeichnen. 
+
+#PAGE2202 Missions\Pictures\Austria 10
+Aufklärer können Ihnen ab und zu Informationen über den Standort des Feindes geben, was Ihnen erlaubt, unerwartet anzugreifen. 
+
+#PAGE2203 Missions\Pictures\Mord2_tut 23
+Sie haben es geschafft!! Sie haben das preußische Fort auf dem Festland vernichtet und nun müssen Sie nur noch die bayerischen Truppen besiegen.  
+
+#PAGE2204 Missions\Pictures\Mord2_tut 23
+Sie haben es geschafft!! Sie haben das bayerische Fort auf dem Festland vernichtet und nun müssen Sie nur noch die preußischen Truppen besiegen.  
+
+#PAGE2205 Missions\Pictures\Mord_tut 37
+Sie haben es glänzend geschafft! Nun können unsere Truppen ungehindert auf dem Festland landen. Sie werden mit einem Orden ausgezeichnet.  
+
+
+#PAGE2206 Missions\Pictures\Austria 8
+Sie haben den Platz für Landung nicht vorbereiten können und die klug durchgedachte Kampagne muss verschoben werden. Sie sind zum Soldaten degradiert ...

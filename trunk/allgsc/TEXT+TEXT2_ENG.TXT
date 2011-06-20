@@ -1,0 +1,3 @@
+INFO_W Holzhacken: %d
+INFO_S Steinbruch: %d
+INFO_F Nahrungsbeschaffung: %d

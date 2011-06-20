@@ -1,0 +1,28 @@
+#BRIEFING faces 0
+{A} Stadtrivalen
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie den Gegner. 
+
+Nur der Hauptcharakter kann mit anderen Figuren sprechen. 
+Sie gewinnen, wenn Sie die feindliche Stadt vernichten. 
+Sie erleiden eine Niederlage, wenn Ihr Hauptcharakter ums Leben kommt oder Ihre Stadt zerstört wird. 
+Die Stadt, die Sie verteidigen sollen, hat eine Belohnung für jeden neutralisierten Gegner ausgesetzt. 
+Die Dörfer bringen auch ein zusätzliches Einkommen. 
+
+#PAGE0 Missions\Pictures\poland 7
+Sie müssen die feindliche Stadt als Offizier der österreichischen Armee vernichten. 
+Sie können durch den Offizier am Stadttor Verstärkung erhalten ... gegen Geld, versteht sich. 
+Die Stadt zahlt die versprochene Prämie für jeden eliminierten Gegner aus. 
+Sie müssen auch die Dörfer schützen, deren Einwohner Kohle und Eisen gewinnen und die Nahrung herbeischaffen, die Sie benötigen. 
+
+#PAGE1 Missions\Pictures\England 9
+Wen möchten Sie anwerben? 
+
+#PAGE2 Missions\Pictures\England 9
+Sie haben nicht genügend Geld. 
+Sie müssen Ihre Kampffähigkeiten verbessern!
+
+#PAGE Missions\Pictures\England 9
+TEST
+%d - %d - %d - %d - %d - %d - %d

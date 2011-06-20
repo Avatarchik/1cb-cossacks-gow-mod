@@ -1,0 +1,1 @@
+Belagerungswaffe. Stoßfeuer. Effektiv gegen Befestigungen und große Infanterie-Formationen. Niedrige Feuerrate und Genauigkeit. Benötigt Gold. Wenn kein Gold mehr vorhanden ist, feuern die Haubitzen nicht mehr. Haubitzen, die nicht verteidigt werden, können vom Feind eingenommen werden. Verbraucht viel Kohle und Eisen.

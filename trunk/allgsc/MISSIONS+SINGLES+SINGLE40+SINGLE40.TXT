@@ -1,0 +1,50 @@
+#BRIEFING faces 0
+{A} Zwei Völker
+
+Gegenwärtiges Ziel:
+{B}Besiegen Sie den Gegner.
+
+Sie sind an der Spitze einer Siedlung, die von zwei Nationen bevölkert ist. 
+Beide Nationen müssen gleichmäßig entwickelt werden, sonst rebellieren sie. 
+Wählen Sie den Bürgermeister, um das gegenwärtige Gleichgewicht der Nationen einzusehen. 
+
+#PAGE0 Missions\Pictures\England 29
+Sie sind an der Spitze einer Siedlung, die von zwei Nationen bevölkert ist. 
+Beide Nationen müssen gleichmäßig entwickelt werden, sonst rebellieren sie. 
+Wählen Sie den Bürgermeister, um das gegenwärtige Gleichgewicht der Nationen einzusehen. 
+
+#PAGE1 Missions\Pictures\England 29
+Die Stadtbürger sind mit Ihrer Leitung unzufrieden. Sie rebellieren. 
+
+#PAGE2 Missions\Pictures\England 29
+Die Stadtbürger sind mit Ihrer Leitung unzufrieden. 
+Die ganze sächsische Bevölkerung will Ihnen nicht mehr untergeordnet sein und nimmt die Hälfte aller Ressourcen mit. 
+Sie wollen eine separate Stadt bauen. 
+
+#PAGE3 Missions\Pictures\England 29
+Die Stadtbürger sind mit Ihrer Leitung unzufrieden. 
+Die ganze preußische Bevölkerung will Ihnen nicht mehr untergeordnet sein und nimmt die Hälfte aller Ressourcen mit. 
+Sie wollen eine separate Stadt bauen. 
+
+#PAGE4 Missions\Pictures\England 29
+Alle ehemaligen Untertanen haben Ihnen den Krieg erklärt! Sie sollten dringend einen Ausweg aus der gegenwärtigen Lage suchen, weil die rebellierende Scharen zu allem fähig sind!!
+
+#PAGE5 Missions\Pictures\England 29
+Sieg!!!
+Alle Feinde sind vernichtet!
+
+#PAGE6 Missions\Pictures\England 29
+Niederlage!!!
+Der Gegner war stärker. 
+
+#PAGE7 Missions\Pictures\England 29
+Niederlage!!!
+Unter Ihrer ungeschickten Leitung sind alle Einwohner einer Nation gestorben. 
+
+#PAGE8 Missions\Pictures\England 29
+Entwicklungsniveau in unserer Stadt: 
+Sachsen - %d
+Preußen - %d
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

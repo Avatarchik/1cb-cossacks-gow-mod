@@ -1,0 +1,38 @@
+#BRIEFING faces 0
+{A} Der Piratenstützpunkt
+!Für den Sieg müssen Sie den Kommandanten der Festung eliminieren und das Rathaus einnehmen.  
+!Sie erleiden eine Niederlage, wenn Sie die Truppen oder Ihren Hauptcharakter verlieren. 
+
+#PAGE1 Missions\Pictures\austria 0
+Sie sind mit einem kleinen Trupp an der Küste gelandet. Dort finden Sie Ressourcen, um den Stützpunkt zu bauen.  
+
+#PAGE2 Missions\Pictures\England 25
+Sie müssen den Kommandanten der Festung töten, die sich im Südwesten befindet. 
+
+#PAGE3  Missions\Pictures\mord_d 1
+Ausgezeichnet, Sie haben das Rathaus eingenommen. 
+#PAGE4  Missions\Pictures\mord_d 2
+Sie haben den Kommandanten der Festung getötet. Jetzt müssen Sie das Rathaus einnehmen.  
+
+#PAGE5  Missions\Pictures\austria 45
+Gratulation! Die Aufgabe ist erfüllt! 
+
+#PAGE6  Missions\Pictures\England 19
+Sie sind gefallen ...
+
+#PAGE7  Missions\Pictures\austria 16
+Ihre Truppen sind zerschlagen ... Sie haben verloren ...
+
+#PAGE8  Missions\Pictures\mord_tut 15
+Das Rathaus ist zerstört. Sie haben verloren ...
+
+#PAGE9  Missions\Pictures\austria 7
+ 
+
+#PAGE10  Missions\Pictures\Russia 29
+
+#PAGE11  Missions\Pictures\Russia 29
+
+#PAGE12  Missions\Pictures\Mord_tut 22
+ 
+#PAGE13  Missions\Pictures\Mord_tut 22

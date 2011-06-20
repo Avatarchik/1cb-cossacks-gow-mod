@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffnet. Trifft Ziele auch auf große Entfernung. Nur in Verbindung mit Infanterie effektiv. Kann nicht feuern, wenn der Feind zu nahe herankommt. Gut im Angriff. Seine Herstellung braucht wenig Zeit.

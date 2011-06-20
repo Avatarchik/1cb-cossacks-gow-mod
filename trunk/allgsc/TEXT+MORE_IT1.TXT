@@ -1,0 +1,5 @@
+CANT_CHECK[%s] Sie können nicht auf den Clan-Server zugreifen. Es kann nicht überprüft werden, ob Sie Mitglied des Clans [%s] sind. Benutzen Sie das Programm "Internetspiel-Setup", um die Einstellungen Ihres HTTP-Protokolls zu überprüfen. Sie können die erforderlichen Einstellungen anpassen, indem Sie den Internet Explorer starten und auf das Menü Extras->Internetoptionen->Verbindungen->LAN-Einstellungen zugreifen. Wenn dies zu keiner Verbesserung führt, setzen Sie sich bitte mit dem Anführer Ihres Clans in Verbindung. Er kann einen Registrierungswunsch an support@gsc-game.kiev.ua senden.
+NO_CLAN_MEMBER_[%s] Sie sind kein Mitglied des Clans [%s].
+#F12LOCK F12 ist gesperrt für %ds
+#ALTTABDEFEAT Sie haben verloren, weil das Cossacks Multiplayerspiel für länger als 10 Sekunden inaktiv war.
+#LOOKOPT Sie können sich das Menü nicht für länger als 15-20 Sekunden anschauen. Nach einem Zeitraum von 3 Minuten können Sie erneut darauf zugreifen.

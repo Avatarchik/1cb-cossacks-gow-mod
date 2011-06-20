@@ -1,0 +1,11 @@
+DEVHISUS '+' und '-' auf dem Zahlenblock wählen die nächste oder vorherige Schlacht.
+LOBUNC Sitzung kann nicht erstellt werden. Vielleicht ein Firewall-Problem.
+LOBUNJ1 Anschließen nicht möglich. Versuchen Sie es manuell im
+LOBUNJ2 Menü Mehrspieler->Deathmatch->TCP/IP mitspielen 
+LOBUNJ3 Anschließen nicht möglich. Versuchen Sie es manuell im
+LOBUNJ4 Menü Mehrspieler->Historische Schlachten->TCP/IP mitspielen 
+LOBUNJ5 (IP-Adresse %s)
+LOBPR Beliebige Taste drücken.
+$NOCONN Keine direkte Verbindung mit:
+DIFSAV Unterschiedliche gespeicherte Spielstände.\ Spiel kann nicht fortgesetzt werden.
+NOPALTX Verbindung abgebrochen

@@ -1,0 +1,1 @@
+Mit einer Muskete bewaffneter Infanterist. Trifft Ziele auch auf große Entfernung. Seine Rüstung schützt ihn gut gegen Geschosse und Splitter. Kann nicht feuern, wenn der Feind zu nahe herankommt. Mittelmäßig im Angriff. Seine Herstellung braucht viel Zeit.

@@ -1,0 +1,13 @@
+DISCONNECTED ABGEBROCHEN !!!
+JOINPLGM Spiel beitreten, in dem dieser Spieler bereits mitspielt.
+JNPG_E1 Spieler hat keinen Raum erstellt.
+JNPG_E2 Spielbeitritt nicht möglich: Versionskonflikt.
+JNPG_E3 Spieler antwortet nicht.
+JNPG_E4 Beitritt nicht möglich: Spiel ist voll.
+JNPG_E5 Beitritt nicht möglich: Spiel läuft bereits.
+JNPG_E6 Beitritt nicht möglich: falsches Passwort.
+SPECIALDEFEAT #Die Verbindung zum Spiel wurde unter-\brochen. Ihr Score ist kleiner als\75% des Maximal-Scores. Nach den\offiziellen Regeln wird dieses\Spiel als Niederlage gewertet. 
+NORATECOMP #Dieses Spiel wird nicht gewertet, da Sie gegen einen Computergegner gespielt haben.
+ADDMPOPT Weitere Optionen
+YOUWKICK Der Host des Spiels hat Sie aus dem Spiel geworfen.
+

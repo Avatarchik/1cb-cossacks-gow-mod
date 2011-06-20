@@ -1,0 +1,58 @@
+#BRIEFING faces 0
+{A} Der Spion
+ 
+Ihre Aufgabe ist es, die englisch-französische Allianz zu vernichten. Passen sie aber auf, weil die feindlichen Aufklärer in Alarmbereitschaft sind und der Feind sehr schnell in Ihr Lager eindringen kann. Außerdem treiben in der Region auch Räuber Unfug. 
+Sie verlieren, wenn Ihre Truppen zerschlagen werden oder wenn Sie Ihr Territorium nicht schützen können (Kreuzung der Handelswege). 
+ 
+Gegenwärtiges Ziel:
+{B} Neutralisieren Sie die englisch-französische Allianz. 
+{C}~Neutralisieren Sie die englisch-französische Allianz.~
+{D}Vernichten Sie das Banditenlager im Südwesten. 
+{E}~ Vernichten Sie das Banditenlager im Südwesten.~
+{F} Vernichten Sie das Banditenlager im Nordosten.
+{G}~ Vernichten Sie das Banditenlager im Nordosten.~
+
+
+#PAGE0A Missions\Pictures\austria 18
+Die englisch-französische Allianz muss vernichtet werden. Sie kontrollieren das Territorium, in dem sich die Handelswege überkreuzen. Lassen Sie den Feind die Wege nicht einnehmen! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE1B Missions\Pictures\faces 4
+Der Feind hat die Kreuzung der Handelswege eingenommen! Sie haben verloren!
+
+#PAGE2 Missions\Pictures\poland 4
+Im Nordosten und Südwesten gibt es Räuberlager! Die Räuber haben von Ihrem Standort erfahren und haben vor, Ihre Einrichtungen anzugreifen! Vernichten Sie ihre Lager! 
+
+#PAGE4 Missions\Pictures\poland 4
+Unter Ihren Arbeiter gab es einen englischen Spion! Er hat bei Ihnen %d Gold unterschlagen und versucht, mit einem Pferd unterzutauchen. Sie haben aber durchgegriffen und Ihr Gold zurückbekommen!  
+
+#PAGE5 Missions\Pictures\poland 4
+Unter Ihren Arbeiter gab es einen englischen Spion! Er hat bei Ihnen %d Gold unterschlagen und versucht, in weißer Bekleidung mit einem Pferd zu fliehen. Lassen Sie das nicht zu!
+
+#PAGE6 Missions\Pictures\faces 4
+Gratulation! Sie haben den Spion eliminiert und Ihr Gold zurückbekommen!
+
+#PAGE7 Missions\Pictures\poland 4
+Leider haben Sie es nicht geschafft, Ihr Gold zurückzubekommen! Er hat Ihr Gold dem Gegner gegeben! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Die englisch-französische Allianz ist neutralisiert! 
+
+
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Die Engländer sind geschlagen! 
+
+#PAGE8B Missions\Pictures\austria 6
+Gratulation! Die Franzosen sind geschlagen! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!! 

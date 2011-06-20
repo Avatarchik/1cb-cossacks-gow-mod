@@ -1,0 +1,50 @@
+#BRIEFING faces 0
+{A} Der Grenztrupp
+   
+Um zu gewinnen, müssen Sie die Armee des bayerischen Barons (blau) und das Söldnerlager (violett) vernichten. 
+Sie erleiden eine Niederlage, wenn all Ihre Kräfte zerschlagen werden. 
+
+#PAGE0 Missions\Pictures\faces 14
+Sie stehen an der Spitze eines dänischen Grenztrupps an der Grenze des dänischen Königreiches. Sie überwachen die Grenzregion. 
+Diese Gegend wird stets von dem einheimischen bayerischen Baron (blau) überfallen. 
+Ihr König hat Ihnen erlaubt, den Baron zu vernichten, wenn er wagt, die Grenze zu überschreiten. Passen Sie aber auf! Berichten zufolge gibt es im Gutshof des Baronss einen gut ausgerüsteten Trupp. 
+
+Ihre Aufgabe ist es, die Soldaten des Barons daran zu hindern, das Territorium des Königreiches zu betreten und Dörfer sowie königliche Goldminen (orangefarben) zu überwachen, die überfallen werden können. Sie erhalten Gold aus den Minen und Nahrung aus den Dörfern. 
+
+#PAGE1 Missions\Pictures\austria 31
+Alarm! Söldner haben unser Dorf vernichtet! Verstärken Sie die Grenzwachen! 
+
+#PAGE2 Missions\Pictures\austria 31
+Beide bewachten Dörfer sind zerschlagen. Es kann kein Proviant mehr geliefert werden. 
+
+#PAGE3 Missions\Pictures\mord_tut 8
+Alarm! Söldner haben unsere Goldmine zerstört! Verstärken Sie die Grenzwachen! 
+
+#PAGE4 Missions\Pictures\mord_tut 8
+Die königlichen Goldminen sind zerstört. Die Goldlieferung ist abgebrochen. 
+
+#PAGE6 Missions\Pictures\faces 9
+Das Söldnerlager ist vernichtet. Es scheint, dass es ausgerechnet die Söldner waren, die unsere Dörfer überfallen haben. 
+
+#PAGE7 Missions\Pictures\faces 9
+Das Söldnerlager ist vernichtet. Es scheint, dass es ausgerechnet die Söldner waren, die die königlichen Goldminen überfallen haben. 
+
+#PAGE8 Missions\Pictures\mord_tut 35
+Der Baron hat einen Brief gesandt:
+"Es ist mir bekannt geworden, dass dänische Soldaten meine Grenze überschritten haben. Dies war ein Fehler, den Ihr noch bitter bereuen werdet! Ich bin hier der Herr!! Seht Euch vor! Ihr werdet meine Rache zu spüren bekommen!"
+
+#PAGE9 Missions\Pictures\faces 9
+Endlich haben Sie den Hauptstützpunkt der Söldner des Barons vernichtet! Die am Leben gebliebenen ziehen wohl an der nahen Grenze umher ... 
+
+#PAGE10 Missions\Pictures\austria 17
+Sie haben die Ihnen gegebene Aufgabe nicht bewältigt. Sie wurden degradiert und vertrieben. Die Mission ist gescheitert ... 
+
+#PAGE11 Missions\Pictures\faces 9
+Ausgezeichnet! Die Armee des bayerischen Barons (blau) ist vernichtet! Der König ist sehr erfreut! 
+
+#PAGE13 Missions\Pictures\faces 9
+Sehr gut! Die an der Grenze herumziehenden Söldner (violett) sind vernichtet.  
+ 
+#PAGE20 Missions\Pictures\faces 14
+Der tückische Gegner ist vernichtet. 
+Sie haben die Grenzen Ihres Landes geschützt! 

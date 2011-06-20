@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A} Der Preis des Friedens
+
+Gegenwärtiges Ziel:
+{B} Vernichten Sie den Gegner.
+    Nur der Hauptcharakter kann mit anderen Figuren reden.
+ 	
+#PAGE0 Missions\Pictures\poland 7
+Sie sollen als Anführer eines dänischen Dorfes Piemont mit Vorräten unterstützen, da sonst die ganze Stadt verhungert. 
+Packpferde mit Proviant müssen regelmäßig über das feindliche Territorium zu dem Verbündeten geschickt werden.  
+Ein Packpferd muss mit 10000 Einheiten Nahrung beladen werden. 
+
+#PAGE1 Missions\Pictures\England 9
+Möchten Sie ein Packpferd mit Proviant (10000 Nahrung) beladen?
+
+#PAGE2 Missions\Pictures\England 9
+Der Proviant reicht für das Packpferd nicht aus. 
+
+#PAGE3 Missions\Pictures\England 9
+Das Packpferd muss auf den Platz in der verbündeten Stadt (zum Blumenbeet) gebracht werden. 
+
+#PAGE4 Missions\Pictures\Faces 0
+In der verbündeten Stadt ist der Proviant schon knapp. Beeilen Sie sich, das Packpferd zu beladen und zu entsenden. 
+
+#PAGE5 Missions\Pictures\England 12
+ Hunger herrscht in der Stadt ... Menschen sterben.
+
+#PAGE6 Missions\Pictures\England 12
+Packpferde! Die Stadt ist nicht mehr gefährdet!  

@@ -1,0 +1,542 @@
+18
+#DENBAR history_battl\Denbar.m3d history_battl\DenbarH.txt history_battl\DenbarG.txt history_battl\DenbarH.bmp history_battl\DenbarG.bmp
+Die Schlacht von Dunbar
+4. September 1650
+Dunbar
+Engländer
+Schotten
+9
+127 11
+Die parlamentarische Armee
+127 21
+unter dem Kommando von Cromwell
+47 131
+Kavallerie von Lambert
+446 215
+Die schottische Armee von Leslie
+674 134
+Straße
+674 144
+nach Barvick
+519 27
+Nordsee
+10 35
+Straße
+10 45
+aus Dunbar
+
+#GOGENFRIDBERG history_battl\Gogenfridberg.m3d history_battl\GogenfridbergH.txt history_battl\GogenfridbergG.txt history_battl\GogenfridbergH.bmp history_battl\GogenfridbergG.bmp
+Die Schlacht von Hohenfriedberg
+4. Juli 1745
+Hohenfriedberg
+Österreich
+Preußen
+4
+162 216
+Armee von Karl Lotharingia
+219 277
+Österreicher
+45 165
+Sachsen
+492 57
+Die preußische Armee von Friedrich
+
+#MARSTONMUR history_battl\MarstonMur.m3d history_battl\MarstonMurH.txt history_battl\MarstonMurG.txt history_battl\MarstonMurH.bmp history_battl\MarstonMurG.bmp
+Die Schlacht von Marston Moor
+2. Juli 1644
+Marston Moor
+Parlamentarier
+Königstreue
+11
+439 72
+Die Armee der Königstreuen
+439 82
+unter dem Kommando von
+439 92
+Newcastle
+239 77
+Reiter des Prinzen Rupert
+614 144
+Kavallerie von Goring
+439 225
+Die parlamentarische Armee
+439 235
+unter dem Kommando von
+439 245
+Manchester
+155 247
+Kavallerie von Cromwell
+64 157
+Kavallerie von Leslie
+612 266
+Kavallerie von Fairfax
+
+#MOOK history_battl\Mook.m3d history_battl\MookH.txt history_battl\MookG.txt history_battl\MookH.bmp history_battl\MookG.bmp
+Die Schlacht von Mook
+13. April 1574
+Mook
+Spanier
+Niederländer
+5
+341 277
+Der Fluss Maas
+86 56
+Die spanischen Streitkräfte von Sancho de Avilas
+469 240
+Die niederländischen Streitkräfte von Ludwig von Nassau
+309 166
+Mook
+216 178
+Graben
+
+#NEWPORT history_battl\NewPort.m3d history_battl\NewPortH.txt history_battl\NewPortG.txt history_battl\NewPortH.bmp history_battl\NewPortG.bmp
+Die Schlacht von Newport
+2. Juli 1600 
+Newport
+Spanier
+Niederländer
+7
+10 257
+Nordsee
+354 180
+Die niederländischen Streitkräfte von Maurice of Orange
+392 44
+Die spanischen Streitkräfte von Erzherzog Albert
+20 83
+Die niederländische Flotte
+579 277
+Newport
+640 42
+Leichtes Pferd
+459 292
+Nachhut
+
+#RYMNIK history_battl\Rymnik.m3d history_battl\RymnikH.txt history_battl\RymnikG.txt history_battl\RymnikH.bmp history_battl\RymnikG.bmp
+Die Schlacht von Rimnik
+1789
+Rimnik
+Alliierte
+Türken
+10
+87 178
+Der Fluss Rimna
+30 282
+Tyrgu-Kukulie 
+122 80
+Kavallerie
+122 90
+unter dem Kommando von General Karachay
+191 20
+Die Streitkräfte von Prinz Coburg
+286 109
+Die russische Armee
+286 119
+unter dem Kommando von General Suvorov
+481 213
+Bogzy
+603 129
+Der Wald von Kryngu-Meilor
+654 168
+Yusuf pasha
+
+#W_MOUNT history_battl\W_mount.m3d history_battl\W_mount.txt history_battl\W_mount1.txt history_battl\HistoricalMaps\MHM_W_Mount_B.bmp history_battl\HistoricalMaps\MHS_W_Mount_B.bmp
+Die Schlacht am Weißen Berg
+8. November 1620
+Weißer Berg
+Tschechen
+Kaiserliche
+13
+486 74
+Jagdschloss
+559 212
+Turiner Regiment
+594 136
+Die tschechische Armee
+594 146
+unter dem Kommando von
+594 156
+Christian von Anhalt
+472 192
+Weißer Berg
+283 68
+Bach von Gostovits
+268 187
+Die bayrische Armee
+268 197
+unter dem Kommando von
+268 207
+Herzog Max
+201 270
+Die kaiserliche Armee
+201 280
+unter dem Kommando von
+201 290
+Tilly
+
+#BREITENFELD history_battl\Breitenfeld.m3d history_battl\Breitenfeld.txt history_battl\Breitenfeld_1.txt history_battl\HistoricalMaps\MHM_Breitenfeld_B.bmp history_battl\HistoricalMaps\MHS_Breitenfeld_B.bmp
+Die Schlacht von Leipzig (Breitenfeld),
+17. September 1631
+Breitenfeld
+Kaiserliche
+Schweden
+14
+259 48
+Die schwedische Armee
+259 58
+unter dem Kommando von Teivel
+80 36
+Die schwedischen Streitkräfte
+80 46
+unter dem Kommando
+80 56
+von Banner
+30 217
+Die kaiserlichen Streitkräfte
+30 227
+unter dem Kommando von Pappenheim
+16 19
+Reserve-Artillerie
+459 48
+Der Fluss Loberbach
+478 114
+Die sächsischen Streitkräfte
+296 230
+Die kaiserlichen Streitkräfte
+296 240
+unter dem Kommando von Tilly
+500 221
+Die kaiserlichen Streitkräfte
+500 231
+unter dem Kommando von Fürstenberg
+
+#LUCEN history_battl\Lucen.m3d history_battl\Lucen.txt history_battl\Lucen_1.txt history_battl\HistoricalMaps\MHM_Lucen_B.bmp history_battl\HistoricalMaps\MHS_Lucen_B.bmp
+Die Schlacht von Lützen
+16. November 1632
+Lützen
+Kaiserliche
+Schweden
+19
+148 88
+Die kaiserliche Armee
+148 98
+unter dem Kommando von
+148 108
+Colloredo
+612 29
+Die kaiserliche Armee
+612 39
+unter dem Kommando von
+612 49
+dem Kommando von Pappenheim
+358 38
+Die kaiserliche Armee
+358 48
+unter dem Kommando von
+358 58
+Wallenstein
+344 214
+Die schwedische Armee
+344 224
+unter dem Kommando von
+344 234
+Berngard
+496 198
+Die schwedische Armee
+496 208
+unter dem Kommando von
+496 218
+Kniphausen
+568 109
+Die schwedische Armee
+568 119
+unter dem persönlichen Kommando von
+568 129
+König Gustaf Adolf
+517 8
+Kroaten
+
+#NERDLENGEN history_battl\Nerlingen.m3d history_battl\Nerlingen.txt history_battl\Nerlingen_1.txt history_battl\HistoricalMaps\MHM_Nerlingen_B.bmp history_battl\HistoricalMaps\MHS_Nerlingen_B.bmp
+Die Schlacht bei Nördlingen
+27. August 1634
+Nördlingen
+Kaiserliche
+Schweden
+9
+247 233
+Die schwedischen Streitkräfte
+247 243
+unter dem Kommando von
+247 253
+Horn
+108 108
+Die Streitkräfte von Weimar
+108 118
+unter dem Kommando von
+108 128
+Berngard
+467 197
+Anhöhe von Albuch
+351 101
+Die kaiserlichen Streitkräfte
+562 178
+Die spanische Infanterie
+
+#VITTSTOK history_battl\Vittshtok.m3d history_battl\Vittshtok.txt history_battl\Vittshtok_1.txt history_battl\HistoricalMaps\MHM_Vittshtok_B.bmp history_battl\HistoricalMaps\MHS_Vittshtok_B.bmp
+Die Schlacht bei Wittstock
+4. Oktober 1636
+Wittstock
+Kaiserliche
+Schweden
+7
+216 33
+Die kaiserliche Armee
+216 43
+unter dem Kommando von
+216 53
+Garzfeld
+352 270
+Die schwedische Armee
+352 280
+unter dem Kommando von
+352 290
+Banner
+356 77
+Die sächsische Armee
+
+#NARVA history_battl\Narva.m3d history_battl\Narva.txt history_battl\Narva_1.txt history_battl\HistoricalMaps\MHM_Narva_B.bmp history_battl\HistoricalMaps\MHS_Narva_B.bmp
+Die Eroberung von Narwa
+1704
+Narwa
+Russen
+Schweden
+15
+360 68
+Die russische Armee
+360 78
+unter dem Kommando von
+360 88
+P. Apraskin
+607 107
+Die russische Armee
+607 117
+unter dem Kommando von
+607 127
+Zar Peter I
+60 207
+Die russische Armee
+60 217
+unter dem Kommando von
+60 227
+Graf Sheremetyev
+496 192
+Iwangorod
+370 202
+Festung von Narwa
+31 27
+Bucht von Narwa
+373 262
+Die schwedische Armee
+373 272
+unter dem Kommando von
+373 282
+General Horn
+
+#POLTAVA history_battl\Poltava.m3d history_battl\Poltava.txt history_battl\Poltava_1.txt history_battl\HistoricalMaps\MHM_Poltava_B.bmp history_battl\HistoricalMaps\MHS_Poltava_B.bmp
+Die Schlacht von Poltawa
+27. Juni 1709
+Poltawa
+Russen
+Schweden
+13
+387 156
+Die russischen Streitkräfte
+387 166
+unter dem Kommando von
+387 176
+Prinz Menshikov
+447 87
+Peter I
+412 105
+Befestigtes Lager
+229 149
+Kosaken von
+229 159
+Hetman Skoropadsky
+399 240
+Schwedische Abteilung
+399 250
+unter dem Kommando von
+399 260
+Schlippenbach
+236 235
+Die schwedische Armee
+236 245
+unter dem Kommando von
+236 255
+Karl XII
+
+#GANGUT history_battl\Gangut.m3d history_battl\Gangut.txt history_battl\Gangut_1.txt history_battl\HistoricalMaps\MHM_Gangut_B.bmp history_battl\HistoricalMaps\MHS_Gangut_B.bmp
+Die Schlacht von Gangut
+27. Juli 1714
+Gangut
+Russen
+Schweden
+11
+15 97
+Padwaland-Halbinsel
+493 114
+Lakkiser-Insel
+256 69
+Die schwedische Flotte
+256 79
+unter dem Kommando von
+256 89
+Niels Erenscheld
+293 235
+Die russische Flotte
+293 245
+unter dem Kommando von
+293 255
+F. Apraskin
+224 169
+Die russische Flotte
+224 179
+unter dem Kommando von
+224 189
+Peter I
+
+#GOHSHTED history_battl\Gohshted.m3d history_battl\Gohshted.txt history_battl\Gohshted_1.txt history_battl\HistoricalMaps\MHM_Gohshted_B.bmp history_battl\HistoricalMaps\MHS_Gohshted_B.bmp
+Die Schlacht von Höchstädt
+13. August 1704 
+Hochstädt
+Alliierte
+Franzosen
+16
+361 294
+Donau
+452 217
+Die französische Armee
+452 227
+unter dem Kommando von
+452 237
+Marschall Tallare
+224 200
+Die französische Armee
+224 210
+unter dem Kommando von
+224 220
+Marschall Marcin
+56 140
+Die bayrische Armee
+56 150
+unter dem Kommando von
+56 160
+Max Emmanuel
+614 104
+Die englische Armee
+614 114
+unter dem Kommando des
+614 124
+Herzogs von Marlborough
+298 36
+Die kaiserliche Armee
+298 46
+unter dem Kommando von
+298 56
+Eugen von Savoyen
+
+#MALPLAKE history_battl\Malplake.m3d history_battl\Malplake.txt history_battl\Malplake_1.txt history_battl\HistoricalMaps\MHM_Malplake_B.bmp history_battl\HistoricalMaps\MHS_Malplake_B.bmp
+Die Schlacht bei Malplaquet
+11. September 1709
+Malplaquet
+Alliierte
+Franzosen
+15
+174 265
+Die französische Armee
+174 275
+unter dem Kommando von
+174 285
+Marschall Bouflier
+205 141
+Die französische Armee
+205 151
+unter dem Kommando von
+205 161
+Marschall Villard
+555 250
+Die niederländische Armee
+555 260
+unter dem Kommando des
+555 270
+Prinz von Oranien
+504 179
+Die englische Armee
+504 189
+unter dem Kommando des
+504 199
+Herzogs von Marlborough
+455 80
+Die österreichische Armee
+455 90
+unter dem Kommando von
+455 100
+Eugen von Savoyen
+
+#LEITEN history_battl\Leiten.m3d history_battl\Leiten.txt history_battl\Leiten_1.txt history_battl\HistoricalMaps\MHM_Leiten_B.bmp history_battl\HistoricalMaps\MHS_Leiten_B.bmp
+Die Schlacht bei Leuthen
+5. Dezember 1757
+Leuthen
+Österreich
+Preußen
+2
+398 159
+Die österreichische Armee
+225 291
+Die preußische Armee
+
+#KUNERSDORF history_battl\Kunersdorf.m3d history_battl\Kunersdorf.txt history_battl\Kunersdorf_1.txt history_battl\HistoricalMaps\MHM_Kunersdorf_B.bmp history_battl\HistoricalMaps\MHS_Kunersdorf_B.bmp
+Die Schlacht bei Kunersdorf
+12. August 1759
+Kunersdorf
+Russland
+Preußen
+19
+452 12
+Die preußische Kavallerie
+452 22
+unter dem Kommando von
+452 32
+General Vink
+615 215
+Die preußische Kavallerie
+615 225
+unter dem Kommando von
+615 235
+General Seidlitz
+600 100
+Die preußische Armee
+600 110
+unter dem Kommando von
+600 120
+Friedrich II
+147 153
+Die österreichische Armee
+278 120
+Die russische Armee
+278 130
+unter dem Kommando von
+278 140
+General Saltykov
+376 170
+Die russische Armee
+376 180
+unter dem Kommando von
+376 190
+General Rumiantsev
+432 118
+Die russische Armee
+432 128
+unter dem Kommando von
+432 138
+General Golitsin

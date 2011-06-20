@@ -1,0 +1,1 @@
+Die Haupteigenschaften dieser leichten Kavallerie-Einheiten bestanden in ihrer Geschwindigkeit und Manövrierfähigkeit. Sie waren mit Säbeln, Karabinern oder Husaren-Donnerbüchsen sowie Pistolen bewaffnet.

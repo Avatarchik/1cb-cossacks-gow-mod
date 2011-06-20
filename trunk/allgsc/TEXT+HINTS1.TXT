@@ -1,0 +1,7 @@
+CAMP_ENC Enzyklopädie
+CAMP_RUN Kampagne spielen
+CAMP_CANCEL Zurück zum Hauptmenü
+MISS_RUN Mission spielen
+MISS_CANCEL Vorheriges Menü
+MMCHANGENAT1 Klicken Sie hier, um die Spielernation zu ändern.
+MMCHANGENAT2 Klicken Sie hier, um die Computernation zu ändern.

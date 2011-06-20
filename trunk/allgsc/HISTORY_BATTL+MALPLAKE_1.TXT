@@ -1,0 +1,5 @@
+In dieser Schlacht müssen die verbündeten Truppen Österreichs, Englands und Hollands (rot) einen kontinuierlichen Angriff auf die französischen Streitkräfte (blau) starten und möglichst viel Schaden anrichten. Die verbündeten Kräfte müssen 637 der französischen Einheiten vernichten.
+Zum Gewinnen sollten die Franzosen (blau) für eine gewisse Zeit defensiv kämpfen und so wenig Verluste wie möglich hinnehmen müssen (eine Armee von mindestens 371 Soldaten sollte gehalten werden) oder einen Teil der englischen Armee vernichten. Die französischen Truppen müssen 999 der englischen Einheiten zerstören.
+Die Partei, die den Feind teilweise zerstört, gewinnt die Schlacht.
+Wenn die Franzosen nicht von den verbündeten Truppen angegriffen werden, sind sie nach einer bestimmten Zeit Sieger der Schlacht.
+Wenn die Hälfte der angegebenen Zahl vernichtet ist, werden die Spieler über die Verluste informiert.

@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+{A} Den Schwachen zu helfen. 
+ 
+Sie siegen, wenn Sie die Bayern (violett) vernichten können. 
+!Sie erleiden eine Niederlage, wenn Ihre Armee zerschlagen wird. 
+ 
+Gegenwärtiges Ziel:
+{B}Vernichten Sie den Räuberstützpunkt. 
+{C}~Vernichten Sie den Räuberstützpunkt.~
+
+#PAGE0 missions\pictures\austria 10
+Ihr Erzfeind ist in der gegenüberliegenden Ecke der Karte. Er wird von noch zwei Verbündeten unterstützt. 
+Stellen Sie eine Truppe zusammen und greifen Sie den Feind an. Angriff ist die beste Verteidigung. 
+Verteidigen Sie den Markt. Sie haben keine Möglichkeit, einen zweiten aufzubauen.
+
+
+#Enemy3StartAI missions\pictures\austria 21
+Die Violetten greifen durch. Nun wird es schwieriger. 
+
+#Transfer0 missions\pictures\mord_tut 0
+Erste Hilfe: Einer der Gegner hat Verstärkung bekommen. 
+
+#Transfer1 missions\pictures\mord_tut 0
+Zweite Hilfe: Einer der Gegner hat Verstärkung bekommen. 
+
+#Transfer2 missions\pictures\mord_tut 0
+Dritte Hilfe: Einer der Gegner hat Verstärkung bekommen. 
+
+#Enemy1IsErased missions\pictures\mord_tut 10
+Sie haben die Blauen vernichtet! Gratulation! 
+
+
+
+#Enemy2IsErased missions\pictures\mord_tut 37
+Sie haben die Türkisfarbenen vernichtet! Gratulation! 
+
+#Enemy3IsErased missions\pictures\austria 8
+Die Aufgabe ist erledigt! Gratulation!!!
+
+#PlayerIsErased missions\pictures\austria 9
+Die Mission ist gescheitert! Versuchen Sie noch einmal. 
+
+#BandAttack missions\pictures\austria 21
+Aufklärer haben entdeckt, dass sich der Piratenstützpunkt nicht weit von unserem Standort befindet. 
+Es ist zu bezweifeln, dass sie nette Nachbarn sind. Vernichten Sie sie! 
+
+#BandIsDead missions\pictures\mord3_tut 14
+Die Bande ist vernichtet. Gratulation! Im Banditenlager haben Sie %d Goldmünzen entdeckt!

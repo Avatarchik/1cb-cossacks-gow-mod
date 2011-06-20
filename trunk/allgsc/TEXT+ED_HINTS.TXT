@@ -1,0 +1,34 @@
+$EHIN_0 Mausmodus
+$EHIN_1 Texturmodus
+$EHIN_2 Baummodus
+$EHIN_3 Steinmodus
+$EHIN_4 Steine/Bäume löschen
+$EHIN_5 Flüsse definieren
+$EHIN_6 Wasser definieren (C,F5)
+$EHIN_7 Wasser löschen (C,F6)
+$EHIN_8 Wasserhelligkeit einstellen (C,F7)
+$EHIN_9 Wasserhelligkeit löschen (C,F8)
+$EHIN_10 Berge heben/senken
+$EHIN_11 Ebene heben/senken
+$EHIN_12 Glättungsmodus
+$EHIN_13 Plateau erstellen
+$EHIN_14 Handlungslinie einzeichnen
+$EHIN_15 Geländemuster einfügen (STRG-V,\mit STRG-C Muster speichern)
+$EHIN_16 Sperrmodus aufheben (S zum Umschalten)
+$EHIN_17 Zusätzliche Sperre einfügen (S zum Umschalten)
+$EHIN_18 Standardsperre einstellen (S zum Umschalten)
+$EHIN_19 Einheit wählen
+$EHIN_20 Missionszone erstellen (nur bei aktiviertem Rollen)
+$EHIN_21 Missionsgruppe erstellen (nur bei aktiviertem Rollen)
+$EHIN_22* Oberflächeneditor
+$EHIN_23* Geländeeditor
+$EHIN_24* Sperr-/Pfadfindesystem aktualisieren
+$EHIN_25* 3D-/2D-Modus umschalten
+$EHIN_26* Anfangsressourcen einstellen
+$EHIN_27* Frieden/Krieg umschalten
+$TE_HN1 Bäume hinzufügen
+$TE_HN2 Wasser hinzufügen
+$TE_HN3 Berge hinzufügen
+$TE_HN4 Glättungszonen hinzufügen
+$TE_HN5 Berghöhe editieren
+$TE_HN6 Rückgängig (Z)

@@ -1,0 +1,24 @@
+#BRIEFING faces 0
+{A} Herrschaft zu Wasser
+
+Sie haben verloren, wenn Sie über keine Werft mehr verfügen. 
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die feindliche Festung auf der Insel. 
+
+#PAGE0 Missions\Pictures\England 29
+Die Schlüsselstelle in der Gegend ist die Festung auf der Insel. Wer diese Festung im Griff hat, kontrolliert die Gegend. 
+Ihre Aufgabe ist es, die feindliche Festung zu vernichten. 
+Bauen Sie möglichst schnell eine Flotte, um Ihre Werften schützen zu können. 
+Sie erleiden eine Niederlage, wenn Sie über keine Werft mehr verfügen. 
+
+#PAGE1 Missions\Pictures\England 29
+Niederlage!!!
+Der Gegner hat alle Ihre Werften vernichtet. 
+
+#PAGE2 Missions\Pictures\England 29
+SIEG!!!!
+Die feindliche Festung ist zertrümmert ... 
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

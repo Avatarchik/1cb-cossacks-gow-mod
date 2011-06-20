@@ -1,0 +1,124 @@
+#BRIEFING faces 0
+{Q} Ein alter Groll
+
+In dieser Mission kämpfen Sie unter der Fahne von Großbritannien. Ihr Verbündeter befindet sich auf der anderen Seite der Insel. Nördlich von Ihrer Insel verlaufen die Handelswege der Engländer (orangefarben). Dort liegen ebenfalls zwei an Ressourcen reiche Inseln, die von Piraten kontrolliert werden.  Das Missionsziel ist es, die Nation von dem Neffen des spanischen Königs (blau) zu vernichten. 
+Die Blauen sind auf dem Festland, östlich von Ihrer Insel. Seekarawanen der Spanier liefern stets viel Gold für die Gegner. Versuchen Sie, sie zu neutralisieren. 
+Das Festland wird auch durch feindlich gesinnte Franzosen kontrolliert. 
+!Sie erleiden eine Niederlage, wenn Ihre Armee geschlagen wird.   
+
+{Z} 
+Hinweise:
+{A}Der Verwandte des Königs befindet sich im Südosten. 
+{S}Der Grande hat zwei Verbündete: Spanien und Frankreich. 
+{D}An der anderen Küste der Insel kann man Schiffe von Freunden beschaffen. 
+{F}Verteidigen Sie die englischen Transporte (weiße Ketschen) im Norden. Ihr Verbündeter wird Ihnen Ressourcen beschaffen. 
+{G}Südlich der Insel befinden sich Handelswege des Gegners. Vernichten Sie die Transporte des Gegners (schwarze Ketschen). 
+
+#Entry missions\pictures\austria 10der Verrat kostet Ihnen viel zu viel. 
+
+Sie haben Ihre spanischen Länder verloren. Dazu nimmt Ihnen der englische König das so mühsam erworbene Gold weg. 
+Ihre Trauer dauert aber nicht lange. Sie werden zum Lord, Ihre riesige Kriegserfahrung wurde durch den König ausgezeichnet, und Sie machen sich auf den Weg, die südliche Grenze zu verteidigen. 
+Der spanische Grande kann die uralte Beleidigung nicht vergessen. Und er begibt sich in seinen letzten Kreuzzug, nachdem er Information über Ihren Standort erhalten hat. Passen Sie auf Piraten auf. 
+
+#MarketLost missions\pictures\austria 10
+Sie haben den Markt verloren, Handel mit dem Verbündeten ist nicht mehr möglich.
+
+#MarketBuilt missions\pictures\austria 10
+Sie haben nun den Markt, Handel mit dem Verbündeten ist möglich.
+Wählen Sie den Markt, um den Kaufmann anzuwerben. 
+
+
+
+#MerchantPrice  missions\pictures\austria 10
+Herzlich willkommen auf dem Markt.
+Der Kaufmann kostet:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen:
+
+#MarketMainMenu missions\pictures\austria 10
+Möchten Sie einen Kaufmann anwerben?
+
+#MerchantMainMenu missions\pictures\austria 10
+Was wünscht Ihr, mein Herr?
+
+#MerchantInfoMenu missions\pictures\austria 10
+Das hier ist ein Alptraum - je länger er dauert, desto furchtbarer wird er.
+Was interessiert Euch besonders, mein Herr?
+
+
+
+#Buiznes missions\pictures\austria 10
+
+Anzahl der Packpferde in der Karawane: %d
+
+Ein neues Packpferd kostet:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Packpferde können die folgenden Lasten tragen: 
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+Ein gutes Geschäft ergibt:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+#MakeOboz missions\pictures\austria 10
+Möchten Sie ein Packpferd kaufen?
+
+#MerchantSucsess missions\pictures\austria 10
+Seid gegrüßt, mein Herr!
+Wir haben unser Ziel erfolgreich erreicht.
+Als Ergebnis erhaltet Ihr:
+Holz: %d Gold: %d Stein: %d Essen: %d Eisen: %d Kohle: %d 
+
+#CancelTrading missions\pictures\austria 10
+Ich habe mein Packpferd beladen und mache mich auf den Weg. Wenn dieser Transport nicht stattfindet, können wir die Ware verlieren. 
+Möchten Sie den Zug abbrechen?
+
+#KaravanEmpty missions\pictures\austria 10
+Ohne Packpferde gibt es keinen Handel. 
+
+#MerchantDie missions\pictures\austria 10
+Sie haben den Kaufmann verloren. Um einen neuen anzuwerben, wählen Sie den Markt.
+
+#LittleMoney missions\pictures\austria 10
+Ressourcen reichen nicht aus!
+
+#victory missions\pictures\austria 10
+Gratulation! Sie haben alle Aufgaben erledigt. Sieg!!!
+
+#ai1_death missions\pictures\austria 10
+Die Spanier sind zerschlagen. Sie sind ein kühner Feldherr! Weiter so!!!
+
+#ai3_death missions\pictures\austria 10
+Die Franzosen sind ausgeschaltet. Der Sieg ist nah. Machen Sie weiter so!!! 
+
+#defeat missions\pictures\austria 10
+Die Mission ist gescheitert. Versuchen Sie es von vorn ... 
+
+#Entry missions\pictures\austria 10
+Die Spanier werden von einem Verbündeten unterstützt. Sein Stützpunkt befindet sich auf der anderen Seite der Insel. In seiner Schiffswerft können Sie Schiffe günstig kaufen. Schicken Sie den General zum verbündeten Hafen.  
+
+#Ali0 missions\pictures\austria 10
+Seid gegrüßt, mein Freund. Nachdem wir die Gefahr aus dem zentralen Teil der Insel beseitigt haben, können wir mit dem Bau beginnen.  Unsere Werft steht Euch zur Verfügung. Wenn die Werft gewählt ist, können Schiffe beim Verbündeten gekauft werden. 
+
+#Menu_port0 missions\pictures\austria 10
+Hauptmenü der Werft: Euer Angebot, mein Herr!!!
+
+#Menu_port1 missions\pictures\austria 10
+Information zum laufenden Auftrag:
+Jacht: gegenwärtiger Preis: %d, Anzahl gekauft: %d
+Fregatte: gegenwärtiger Preis: %d, Anzahl gekauft: %d
+Insgesamt: %d Gold
+
+#Menu_port2 missions\pictures\austria 10
+Gutes Geschäft!
+Die Schiffe werden gleich gebaut. Warten Sie eine Weile ... 
+
+
+
+#Menu_port3 missions\pictures\austria 10
+
+Das Geschäft kann nicht abgeschlossen werden, wenn Sie nichts kaufen. 
+
+#Menu_port4 missions\pictures\austria 10
+Die Schiffe sind gebaut!!!
+
+
+#extended missions\pictures\austria 10
+JA!!!

@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A} Einnahme der Meerenge
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie alle feindlichen Transportschiffe, die durch die Meerenge fahren. 
+
+Sie haben gewonnen, wenn im Laufe von 20 Minuten kein einziges Transportschiff durch die Meerenge kommt. 
+
+#PAGE0 Missions\Pictures\England 29
+Ihre Aufgabe ist es, alle feindlichen Transportschiffe zu vernichten, die durch die Meerenge fahren. 
+Sie haben gewonnen, wenn im Laufe von 20 Minuten kein einziges Transportschiff durch die Meerenge kommt. 
+
+
+#PAGE1 Missions\Pictures\England 29
+Niederlage!!!
+
+#PAGE2 Missions\Pictures\England 29
+SIEG!!!!
+
+#PAGE3 Missions\Pictures\England 29
+Ein Piratenschiff taucht auf und die Piraten bieten Ihnen ihre Hilfe für die Vernichtung der feindlichen Transportschiffe für nur wenig Geld an.  
+
+#PAGE4 Missions\Pictures\England 29
+Seid Ihr bereit, unsere Arbeit zu bezahlen? 
+
+#PAGE5 Missions\Pictures\England 29
+Habt Ihr nicht genug Geld? 
+
+#PAGE6 Missions\Pictures\England 29
+Für unsere Arbeit wollen wir %d Gold.
+
+
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

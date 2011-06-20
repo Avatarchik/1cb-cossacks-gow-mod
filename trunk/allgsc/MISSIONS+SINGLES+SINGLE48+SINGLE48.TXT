@@ -1,0 +1,63 @@
+#BRIEFING faces 0
+{A} Rebellion in den Niederlanden
+
+!Für den Sieg müssen Sie die niederländische Festung zerstören.
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren. 
+
+#PAGE1 Missions\Pictures\austria 7
+Sie sind in den Niederlanden eingetroffen. 
+Ihre Aufgabe ist es, die niederländische Festung, die von den Rebellen kontrolliert wird, zu zerstören.  
+Die Festung befindet sich südlich von Ihnen. 
+
+#PAGE2 Missions\Pictures\austria 4
+Bringen Sie die Karawane zum Markt, um Gold und Munition für den Krieg zu erhalten. 
+Versuchen Sie auch, mit den Franzosen einen Waffenstillstand auszuhandeln, um nicht an mehreren Fronten gleichzeitig kämpfen zu müssen. 
+
+#PAGE3 Missions\Pictures\austria 8
+Niederlage ...
+
+#PAGE5  Missions\Pictures\england 25
+Sie haben die Festung der Rebellen zerstört.
+Gratulation!!! Das war kein leichter Sieg.  
+
+#PAGE4  Missions\Pictures\mord2_tut 7
+Ausgezeichnet! Sie haben die Karawane gebracht.
+Sie haben 10000 Gold und Munition für Ihre Armee erhalten.  
+
+#PAGE6  Missions\Pictures\england 24
+Die französischen Siedler sind besiegt.
+
+#PAGE7  Missions\Pictures\england 24
+Die niederländische Siedlung ist vernichtet.  
+
+#PAGE8  Missions\Pictures\mord2_tut 13
+Ein Bote der französischen Siedler, die in der Nähe wohnen, ist an Ihrem Markt angekommen. 
+
+#PAGE9  Missions\Pictures\Faces 6
+Wir wollen keinen Krieg und deshalb bieten wir Euch 3000 Goldmünzen an.
+Nehmt Ihr unser Angebot an?
+
+#PAGE10  Missions\Pictures\Faces 8
+Unser Volk ist Euch für die weise Entscheidung dankbar.
+Sollet Ihr jemals unsere Hilfe für die Unterdrückung eines Aufstandes brauchen, schickt einen Boten zu unserem Markt. 
+
+#PAGE11  Missions\Pictures\Faces 5
+Euer Geld reicht für die Bezahlung unserer Arbeit nicht aus.
+
+#PAGE12  Missions\Pictures\Faces 2
+Schade ... Der Krieg erschöpft sowie unsere als auch Eure Kräfte ... 
+
+#PAGE13  Missions\Pictures\mord_tut 0 
+Braucht Ihr unsere Hilfe für Unterdrückung des Aufstandes? 
+Ihr müsst aber dafür zahlen, und zwar 20000 Goldmünzen.
+
+#PAGE14 Missions\Pictures\mord_tut 12
+Gut, wir helfen Euch. 
+
+
+
+#PAGE15 Missions\Pictures\Faces 5
+Euer Geld reicht nicht aus.
+
+#PAGE16 Missions\Pictures\mord_tut 14
+Ihr lehnt also ab ... Hoffentlich schafft Ihr es allein. 

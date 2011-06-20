@@ -1,0 +1,4 @@
+Um diese Schlacht zu gewinnen, müssen die anrückenden verbündeten österreichischen und englischen Armeen (rot) drei der fünf spezifizierten Stellungen einnehmen und halten oder die französischen und bayrischen Streitkräfte (blau) vollständig vernichten. "Einnehmen" bedeutet hier die Abwesenheit feindlicher Truppen und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die Franzosen oder Bayern gewinnen, wenn sie den Feind völlig vernichten oder es schaffen, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

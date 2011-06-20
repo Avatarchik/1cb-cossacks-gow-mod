@@ -1,0 +1,51 @@
+#BRIEFING faces 0
+{A} Der preußische Seestützpunkt
+    
+Für den Sieg müssen Sie alle Gegner in der Region zerschlagen. 
+Sie erleiden eine Niederlage, wenn Ihre Truppen zerschlagen werden oder wenn Sie keine einzige preußische Werft mehr haben. 
+   
+Gegenwärtiges Ziel:
+{B}Halten Sie die Werften des Seestützpunkts. 
+{C}Besiegen Sie die niederländischen Landstreitkräfte (blau). 
+{D}~ Besiegen Sie die niederländischen Landstreitkräfte.~
+{E} Schlagen Sie die niederländische Marine (grün).
+{H}~Schlagen Sie die niederländische Marine (grün).~
+{G}Vernichten Sie die Gegner auf dem Meer (violett und schwarz).
+
+#PAGE0 Missions\Pictures\faces 14
+Der Hauptbefehlshaber hat Sie beauftragt, den Seestützpunkt an der nordwestlichen Küste zu verteidigen. Der Befehlshaber der preußischen Marine wird die Verteidigung zu Wasser übernehmen (orangefarben). 
+Ihre Aufgabe ist es, den Stützpunkt zu Lande verstärkt zu verteidigen, die Küstenbatterie zu verstärken, um Wasserangriffen widerstehen zu können, und die niederländischen Landstreitkräfte (blau) zu zerschlagen. 
+
+#PAGE1 Missions\Pictures\mord3_tut 0
+Der Hauptbefehlshaber ist mit Ihren erfolgreichen Handlungen sehr zufrieden. Er übergibt Ihnen Werften und Flotte (Werftbau ist nun verfügbar). 
+
+#PAGE2 Missions\Pictures\mord3_tut 0
+Passen Sie auf! Es ist bekannt geworden, dass die niederländische Marine den Stützpunkt überfallen will. Sie sollten Ihre Flotte verstärken und die niederländische Marine (grün) zerschlagen. 
+
+
+
+#PAGE3 Missions\Pictures\mord3_tut 7
+Nach letzten Angaben der Aufklärer bereiten die Niederländer eine neue Invasion zu Lande vor. Der Feind wird von Norden her zu Wasser erwartet. 
+Nun müssen die drohenden Streitkräfte auf dem Meer  - republikanisches Expeditionskorps (violett) und die Kontinentalarmee (schwarz) vernichtet werden. 
+
+#PAGE10 Missions\Pictures\mord3_tut 5
+Sie haben keine einzige Werft mehr. Der Seestützpunkt ist zerschlagen. Die Mission ist gescheitert. 
+
+Sie haben all Ihre Truppen verloren. Der Seestützpunkt ist zu Lande ungeschützt geblieben. Die Mission ist gescheitert. 
+
+
+#PAGE11 Missions\Pictures\mord2_tut 14
+Die niederländischen Landstreitkräfte (blau) auf dem Festland sind zerschlagen.  
+
+#PAGE12 Missions\Pictures\mord3_tut 8
+Die niederländische Marine (grün) ist zerschlagen! Die Niederländer könnten aber versuchen, ihre Flotte wieder aufzubauen. 
+
+#PAGE13 Missions\Pictures\mord2_tut 14
+Das republikanische Expeditionskorps (violett) ist zerschlagen.
+
+#PAGE15 Missions\Pictures\mord2_tut 14
+Die Kontinentalarmee (schwarz) ist vernichtet.  
+
+#PAGE20 Missions\Pictures\faces 14
+Alle niederländischen Einheiten und die Marine sind zerschlagen. SIEG!!!!!!!!!
+

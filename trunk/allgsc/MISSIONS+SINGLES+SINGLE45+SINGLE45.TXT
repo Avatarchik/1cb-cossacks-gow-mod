@@ -1,0 +1,39 @@
+#BRIEFING faces 0
+{A} Morea
+
+Für den Sieg müssen Sie Truppen der Türkei und von Algerien vernichten. 
+! Sie erleiden eine Niederlage, wenn Sie die Truppen oder Ihren Hauptcharakter verlieren. 
+
+#PAGE1 Missions\Pictures\austria 0
+Der Krieg mit dem Osmanischen Reich spitzt sich zu. 
+Venezianische Truppen haben vor, die türkischen Befestigungen anzugreifen. Sie müssen mit einem Trupp an der Küste landen und sie besetzen. Bauen Sie dort ein befestigtes Lager für das weitere Vordringen in das Landinnere. 
+
+Der Gegner versucht seinerseits, Sie zum Wasser hin abzudrängen. 
+
+#PAGE2 Missions\Pictures\England 25
+Sie müssen an der türkischen Küste landen, dort ein befestigtes Lager bauen und die Garnisonen an der Küste zerschlagen. 
+
+#PAGE7   Missions\Pictures\austria 45
+Gratulation! Die Aufgabe ist erfüllt! 
+
+#PAGE4  Missions\Pictures\England 19
+Sie sind gefallen ...
+
+
+#PAGE3  Missions\Pictures\austria 16
+Ihre Truppen sind zerschlagen ... Sie haben verloren ...
+
+#PAGE5  Missions\Pictures\mord_tut 15
+Sie haben eine türkische Garnison zerschlagen. 
+
+#PAGE6   Missions\Pictures\austria 7
+Sie haben eine algerische Garnison zerschlagen. 
+
+#PAGE8  Missions\Pictures\mord_tut 3
+Ein Kavallerietrupp ist gekommen, um Ihnen Hilfe zu leisten. 
+
+#PAGE   Missions\Pictures\Russia 29
+
+#PAGE   Missions\Pictures\Mord_tut 22
+ 
+#PAGE13  Missions\Pictures\Mord_tut 22

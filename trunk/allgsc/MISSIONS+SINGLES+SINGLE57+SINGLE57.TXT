@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{A} Schnell wie der Blitz
+ 
+Ihre Aufgabe ist es, Venedig, das sich südlich von Ihnen befindet, so schnell wie möglich zu besiegen. Alle Wege von Norden nach Süden werden durch Portugal kontrolliert. Es ist ein Verbündeter von Venedig und wird Sie bei jeder Gelegenheit aufhalten. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen werden oder wenn Sie Venedig nicht besiegen, bevor es eine Allianz mit Spanien bildet. 
+ 
+Gegenwärtiges Ziel:
+{B} Neutralisieren Sie Venedig im Süden. 
+{C} ~Neutralisieren Sie Venedig im Süden.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie müssen Venedig südlich von Ihnen neutralisieren! Sie haben %d Minuten! 
+
+#PAGE0B Missions\Pictures\faces 31
+Noch %d Minuten!
+
+#PAGE0C Missions\Pictures\faces 31
+Die Portugiesen schicken Ihnen ihre schnelle Kavallerie! Um ihre Angriffe anzuhalten, müssen Sie 4 Pferdeställe vernichten (2 in jeder Festung in der Zentralregion). 
+Das Wichtigste ist aber, Venedig zu besiegen! 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager vernichtet und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen! 
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE1B Missions\Pictures\faces 4
+Leider ist Ihr Zeit abgelaufen! Sie haben Venedig nicht neutralisieren können und verloren! 
+
+#PAGE2 Missions\Pictures\poland 4
+Auf der Bergspitze in der Kartenmitte gibt es Räuberlager! Dort wohnen portugiesische Gefangene, die aus den Stadtgefängnissen geflohen sind. Sie müssen Unmengen an geraubtem Gold haben! 
+
+#PAGE7 Missions\Pictures\austria 37
+Gratulation! Sie haben die 4 portugiesischen Pferdeställe zerstört! Nun wird Portugal Sie nicht mehr angreifen! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Venedig muss ausscheiden. Es ist kein Gegner mehr für Sie. Sie haben gewonnen!! 
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben die Portugiesen vernichtet! 

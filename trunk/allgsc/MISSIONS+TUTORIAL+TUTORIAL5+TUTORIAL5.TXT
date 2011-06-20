@@ -1,0 +1,179 @@
+#BRIEFING faces 0
+{Z} Vorbereitung auf den Angriff 
+                   
+Sie haben verloren, wenn Sie keine Bauern mehr haben und sie auch nicht mehr erstellen können und wenn die Anzahl Ihrer militärischen Einheiten auf unter 8 sinkt (Standardbedingungen für die Niederlage).
+              
+  Gegenwärtige Ziele:
+{A}Bauen Sie eine Mauer.
+{a}~Bauen Sie eine Mauer.~
+{B}Bauen Sie Tore in die Mauer und dann wählen Sie die Akademie.
+{C}Führen Sie die Aufrüstung "Neue Befestigungen erforschen" aus.
+{c}~Führen Sie die Aufrüstung "Neue Befestigungen erforschen" aus.~
+{D}Bauen Sie zwei Türme.
+{d}~ Bauen Sie zwei Türme.~
+{E}Wählen Sie einen Turm.
+{F}Wählen Sie die Schiffswerft.
+{H}Wählen Sie die Akademie.
+{I}Führen Sie die Aufrüstungen "Neue Schiffswerften für Fischerboote bauen" und "Zimmermänner ausbilden" aus.
+{i}~Führen Sie die Aufrüstungen "Neue Schiffswerften für Fischerboote bauen" und "Zimmermänner ausbilden" aus.~
+{G}Führen Sie die Aufrüstung "Neue Holzverarbeitungsmethoden entwickeln" aus.
+{g}~Führen Sie die Aufrüstung "Neue Holzverarbeitungsmethoden entwickeln" aus.~
+{J}Bauen Sie zwei Boote.
+{j}~Bauen Sie zwei Boote.~
+{K}Bauen Sie eine Fregatte des 17. Jahrhunderts.
+{k}~Bauen Sie eine Fregatte des 17. Jahrhunderts.~
+{L}Gehen Sie ins 18. Jahrhundert über.
+{l}~Gehen Sie ins 18. Jahrhundert über.~
+{M}Wählen Sie den Reitstall.
+{N}Bauen Sie alle neuen Einheiten im Reitstall.
+{n}~Bauen Sie alle neuen Einheiten im Reitstall.~
+{O}Bauen Sie eine Kaserne des 18. Jahrhunderts.
+{o}~Bauen Sie eine Kaserne des 18. Jahrhunderts.~
+{P}Wählen Sie die Mühle.
+{Q}Führen Sie die Aufrüstung "Kornlagerung verbessern" aus.
+{q}~Führen Sie die Aufrüstung "Kornlagerung verbessern" aus.~
+{R}Führen Sie die Aufrüstung "Montgolfier entwerfen" aus.
+{r}~Führen Sie die Aufrüstung "Montgolfier entwerfen" aus.~
+{S}Wählen Sie die Kaserne des 18. Jahrhunderts.
+{T}Erstellen Sie mehrere Pikeniere des 18. Jahrhunderts, Musketiere des 18. Jahrhunderts und Grenadiere.
+{t}~Erstellen Sie mehrere Pikeniere des 18. Jahrhunderts, Musketiere des 18. Jahrhunderts und Grenadiere.~
+{V}Wählen Sie die Schmiede.
+{U}Führen Sie die Aufrüstung "Infanterie-Bajonette und Breitschwerter schmieden" aus.
+{u}~Führen Sie die Aufrüstung "Infanterie-Bajonette und Breitschwerter schmieden" aus.~
+{b}Führen Sie die Aufrüstungen "Bajonett entwerfen: Lauf-eingefasst, Röhrenbajonett" und "Neue Stahltypen erforschen" aus. Danach rüsten Sie die Grenadiere in der Kaserne des 18. Jahrhunderts soweit wie möglich auf.
+{m}~Führen Sie die Aufrüstungen "Bajonett entwerfen: Lauf-eingefasst, Röhrenbajonett" und "Neue Stahltypen erforschen" aus. Danach rüsten Sie die Grenadiere in der Kaserne des 18. Jahrhunderts soweit wie möglich auf.~
+{e}Führen Sie alle Angriffs-Aufrüstungen für die Grenadiere in der Kaserne des 18. Jahrhunderts durch.
+{p}~Führen Sie alle Angriffs-Aufrüstungen für die Grenadiere in der Kaserne des 18. Jahrhunderts durch.~
+{X}Zerstören Sie die feindliche Stadt im Nordosten vollständig.
+{x}~Zerstören Sie die feindliche Stadt im Nordosten vollständig.~
+{W}Führen Sie die Aufrüstungen "Neue Baumaterialien verwenden" und "Metallische Rüstung und Gitter schmieden" aus.
+{w}~Führen Sie die Aufrüstungen "Neue Baumaterialien verwenden" und "Metallische Rüstung und Gitter schmieden" aus.~
+{f}Führen Sie die Aufrüstung "Haltbarere Lafette entwerfen: Gribovalle-System" aus.
+{h}~Führen Sie die Aufrüstung "Haltbarere Lafette entwerfen: Gribovalle-System" aus.~
+{Y}Bauen Sie die Fregatte des 18. Jahrhunderts.
+
+{z}Tun Sie alles für Ihre Entwicklung!
+#PAGE1 Missions\Pictures\mord3_tut 10
+ Ihre Stadt hat sich beachtlich vergrößert. Jetzt wird es Zeit, über ihre Sicherheit nachzudenken. Türme und Mauern erfüllen diesen Zweck.
+#PAGE2 Missions\Pictures\mord3_tut 11
+Bauen Sie eine Steinmauer.
+#PAGE35 Missions\Pictures\mord2_tut 22
+Wählen Sie die Bauern und bauen Sie eine Steinmauer, die den nordöstlichen Teil der Stadt umschließt. Sie können die Konturen der Mauer an den Stellen sehen, wo ein Bau möglich ist. Klicken Sie auf das Icon für die Mauer, dann klicken Sie mit der linken Maustaste auf die Karte und ziehen Sie bei gedrückter Maustaste die Umrisse der Mauer. Klicken Sie erneut mit links, um einen anderen Punkt der Mauer zu fixieren. Auf diese Weise können Sie eine Mauer mit beliebigen Umrissen festlegen. Klicken Sie zweimal mit der linken Maustaste, um die Positionierung der Mauer zu vollenden. Danach werden die Bauern mit dem Bau beginnen.
+#PAGE36 Missions\Pictures\mord_tut 34
+Gut. Bauen Sie nun die Tore, indem Sie einen Teil der Mauer auswählen und auf das entsprechende Icon im Menü klicken. Dann wählen Sie die Akademie.
+#PAGE37 Missions\Pictures\mord_tut 23
+Die Aufrüstung "Neue Befestigungen erforschen" in der Akademie ermöglicht Ihnen, die Haltbarkeit der Türme und Mauern zu erhöhen. Führen Sie diese Aufrüstung nun aus.
+#PAGE38 Missions\Pictures\russia 8
+Seien Sie beim Bau von Mauern vorsichtig, denn die Instandhaltung von Steinmauern erfordert Stein und hölzerne Mauern benötigen Holz. Sie werden bemerken, dass diese Ressourcen sich verringern.
+#PAGE39 Missions\Pictures\mord_tut 14 
+Sehr gut! Die Haltbarkeit Ihrer Mauern hat sich erhöht! Bauen Sie nun zwei Türme außerhalb der Stadt, damit keine Hindernisse im Weg sind.
+#PAGE40 Missions\Pictures\mord_tut 12
+Schön, wählen Sie nun den Turm.
+#PAGE41 Missions\Pictures\mord3_tut 9
+Erhöhen Sie die Feuerrate des Turms, indem Sie die Aufrüstung "Anzahl der Verteidigungskanonen erhöhen" ausführen. Das Icon für diese Aufrüstung befindet sich unten links im Interface. Insgesamt gibt es sechs solcher Aufrüstungen. Jeder Turm muss separat aufgerüstet werden.
+#PAGE3 Missions\Pictures\england 4
+Schauen wir uns nun Ihre Flotte an. Wählen Sie die Schiffswerft.
+#PAGE42 Missions\Pictures\mord3_tut 3
+Es gibt zwei Arten von Kriegsschiffen: Jachten und Galeeren. Wenn Sie weitere Schiffstypen verfügbar machen möchten, führen Sie einfach die entsprechenden Aufrüstungen in der Akademie aus. Wählen Sie dazu die Akademie.
+#PAGE4 Missions\Pictures\mord3_tut 7
+Es gibt neue Icons für die Aufrüstung der Werft und der Flotte in der Akademie. Führen Sie die Aufrüstungen "Neue Schiffswerften für Fischerboote bauen" und "Zimmermänner ausbilden" aus. Die erste verringert die Kosten der Fischerboote, während die zweite den Schiffsbau ums Zehnfache beschleunigt. Führen Sie beide Aufrüstungen aus.
+#PAGE5 Missions\Pictures\mord3_tut 0
+Sehr gut. Die Aufrüstung "Neue Holzverarbeitungsmethoden entwickeln" ermöglicht Ihnen den Bau von Fregatten des 17. Jahrhunderts und mit der Aufrüstung "Neues Rippen- und Rumpfsystem entwerfen" können Sie Linienschiffe bauen. Benutzen Sie die Aufrüstung "Neue Holzverarbeitungsmethoden entwickeln" zum Fregattenbau.
+#PAGE43 Missions\Pictures\mord3_tut 6 
+Sehr gut! Bauen Sie eine Reihe von Schiffen.
+#PAGE44 Missions\Pictures\mord3_tut 4
+Wie Sie sehen können, haben sich die Schiffskosten und die Bauzeit verringert. Bauen Sie nun eine Fregatte des 17. Jahrhunderts.
+#PAGE45 Missions\Pictures\mord_tut 29
+Wunderbar! Der Zar hat Ihnen eine Belohnung geschickt, als er von Ihren Fortschritten erfahren hat! Diese Ressourcen sollten zum "Fortschritt zum 18. Jahrhundert" ausreichen!
+
+#PAGE6 Missions\Pictures\russia 8
+Um ins 18. Jahrhundert überzugehen, benötigen Sie:
+1. Ein Rathaus, eine Kaserne des 17. Jahrhunderts, eine Akademie, einen Reitstall, ein Artilleriedepot, eine Kirche, ein Lagerhaus, eine Mühle und einen Markt.
+2. Ausreichende Ressourcen.
+#PAGE7 Missions\Pictures\russia 8
+Sie erfüllen alle Erfordernisse. Deshalb können Sie nun das Rathaus wählen und den "Fortschritt zum 18. Jahrhundert".
+#PAGE8 Missions\Pictures\russia 15
+Glückwunsch! Sie sind im 18. Jahrhundert! Sie werden nun herausfinden, mit welchen Innovationen das neue Jahrhundert Ihr Kosakenleben bereichert. Wählen Sie den Reitstall.
+#PAGE9 Missions\Pictures\mord2_tut 6
+Wie Sie sehen können, sind drei neue Einheiten verfügbar: Der Husar (schnelle Kavallerie), der Kürassier (schwer gepanzerte Kavallerie), der Dragoner des 18. Jahrhunderts (schießende Einheit). Erstellen Sie jede dieser Einheiten.
+#PAGE46 Missions\Pictures\mord2_tut 5
+Ein Husar ist ein leichter Kavallerist des 18. Jahrhunderts. Er bewegt sich schnell und wird für schnelle Angriffe und Überfälle auf feindliches Gebiet benutzt. Seine Herstellung braucht wenig Zeit.
+#PAGE47 Missions\Pictures\mord_tut 3
+Ein Kürassier ist ein schwer gepanzerter Kavallerist des 18. Jahrhunderts. Er bewegt sich langsamer als der Husar, aber richtet mehr Schaden an. Seine Herstellung braucht durchschnittlich viel Zeit.
+#PAGE48 Missions\Pictures\mord2_tut 13
+Der Dragoner des 18. Jahrhunderts ist eine schießende Einheit. Unter den berittenen Einheiten verfügt er über die besten Angriffsparameter. Seine Herstellung braucht viel Zeit und er benötigt Gold.
+#PAGE10 Missions\Pictures\mord_tut 28
+Zum Bau einer Kaserne des 18. Jahrhunderts fehlen Ihnen noch Ressourcen. Sammeln Sie sie oder tauschen Sie sie auf dem Markt ein.
+#PAGE11 Missions\Pictures\mord_tut 32
+Sie haben genügend Ressourcen für den Bau einer Kaserne des 18. Jahrhunderts. Tun Sie das jetzt. Der Bau dauert sehr lange, Sie sollten also so viele Bauern dazu einsetzen, wie Sie erübrigen können.
+
+#PAGE12 Missions\Pictures\austria 35
+Während die Kaserne gebaut wird, können Sie die Mühle wählen.
+#PAGE13 Missions\Pictures\russia 8
+Nach dem Fortschritt ins 18. Jahrhundert wird die Aufrüstung "Kornlagerung verbessern" verfügbar. Sie erhöht den Nahrungsgewinn erheblich. Führen Sie die Aufrüstung nun aus.
+#PAGE49 Missions\Pictures\russia 9
+Sehr gut! Sie können nun sehen, dass die Bauern auf dem Feld effektiver arbeiten können. Wählen Sie jetzt die Akademie.
+#PAGE14 Missions\Pictures\russia 22
+Nach dem Fortschritt ins 18. Jahrhundert wird die neue Aufrüstung "Montgolfier entwerfen" verfügbar. Damit können Sie die gesamte Karte einsehen. Die Aufrüstung "Gehalt der Bauarbeiter erhöhen" (verfügbar im 17. Jahrhundert) verringert die Zeit um 75 Prozent. Führen Sie die Aufrüstung "Montgolfier entwerfen" nun durch.
+#PAGE50 Missions\Pictures\mord_tut 1
+Die Aufrüstung ist vollständig. In kurzer Zeit wird die ganze Karte einsehbar sein.
+#PAGE15 Missions\Pictures\mord_tut 30
+Die Kaserne ist fertig gestellt. Wählen Sie sie.
+#PAGE16 Missions\Pictures\mord_n 1
+Hier können Sie genau wie im 17. Jahrhundert Offiziere und Trommler (des 18. Jahrhunderts) erstellen. Zur Bildung der Infanterie-Formationen des 18. Jahrhunderts sind diese Einheiten erforderlich. Der Pikenier des 18. Jahrhunderts, der Musketier des 18. Jahrhunderts und der Grenadier sind ebenfalls verfügbar. Erstellen Sie zwei Pikeniere, zwei Musketiere und einige Grenadiere.
+#PAGE17 Missions\Pictures\mord2_tut 2
+Pikeniere des 18. Jahrhunderts können schnell erstellt werden und verfügen über bessere Angriffsparameter als die Pikeniere des 17. Jahrhunderts.
+#PAGE51 Missions\Pictures\mord2_tut 0
+Musketiere des 18. Jahrhunderts haben eine größere Feuerreichweite und können mit ihren Bajonetten auch im Nahkampf eingesetzt werden. Sie können die Aufrüstung "Flint-Gewehrschloss entwerfen" in der Akademie durchführen, um die Kosten der Musketiere um die Hälfte zu reduzieren.
+#PAGE52 Missions\Pictures\mord2_tut 11
+Ein Grenadier kann schießen, im Nahkampf eingesetzt werden und Granaten werfen, um Gebäude zu zerstören.
+#PAGE53 Missions\Pictures\mord2_tut 15
+Musketieren des 18. Jahrhunderts und Grenadieren stehen Aufrüstungen der Akademie zur Verfügung, die die Feuerrate und die Angriffsparameter für Stahlwaffen erhöhen. Wählen Sie die Schmiede.
+#PAGE18 Missions\Pictures\mord2_tut 2
+Hier finden Sie die Aufrüstung "Infanterie-Bajonette und -Breitschwerter schmieden", durch die die Angriffsparameter der Musketiere des 18. Jahrhunderts und der Grenadiere im Nahkampf um 5 erhöht werden. Führen Sie diese Aufrüstung jetzt aus.
+#PAGE54 Missions\Pictures\mord_tut 10
+Sobald Sie diese Aufrüstungen ausgeführt haben, werden Sie sehen, dass die Parameter der Musketiere und Grenadiere sich verbessert haben. Wählen Sie die Akademie.
+#PAGE19 Missions\Pictures\russia 8
+Hier stehen Ihnen zwei weitere Aufrüstungen zur Verfügung: "Bajonett entwerfen: Lauf-eingefasst, Röhrenbajonett" und "Neue Stahltypen erforschen" erhöhen die Angriffsparameter der Musketiere des 18. Jahrhunderts und der Grenadiere im Nahkampf um jeweils 7 Prozent und 25 Prozent. Führen Sie diese Aufrüstungen nun aus.
+#PAGE55 Missions\Pictures\russia 8
+Wunderbar! Auf diese Weise können Sie die Angriffsparameter der Musketiere des 18. Jahrhunderts und der Grenadiere erheblich erhöhen, ohne die Kaserne des 18. Jahrhunderts aufzurüsten. Verbessern Sie nun die Angriffsparameter der Grenadiere in der Kaserne des 18. Jahrhunderts.
+#PAGE56 Missions\Pictures\mord2_tut 11
+Erstellen Sie eine Gruppe von Grenadieren und zerstören Sie die feindliche Siedlung im Nordosten.
+#PAGE57 Missions\Pictures\mord_tut 15
+Nicht schlecht. Sie haben bestimmt gemerkt, dass gut ausgebildete Grenadiere sich ausgezeichnet gegen Gebäude einsetzen lassen.
+#PAGE20 Missions\Pictures\mord_tut 14
+Man kann Gebäude vor feindlichen Angriffen schützen, indem man die Anzahl von Wachen erhöht und Türme und Mauern baut.
+#PAGE21 Missions\Pictures\mord_tut 2
+Die Aufrüstungen "Neue Baumaterialien verwenden" und "Metallische Rüstung und Gitter schmieden" erhöhen die Haltbarkeit von Gebäuden ebenfalls. Die erste der genannten Aufrüstungen wird in der Akademie, die zweite in der Schmiede ausgeführt. Führen Sie nun beide durch.
+#PAGE22 Missions\Pictures\mord_tut 16
+Beschädigte Gebäude können mit der Hilfe Ihrer Bauern repariert werden.
+#PAGE23 Missions\Pictures\mord_tut 18
+Alle Arten von Artillerie, Kriegsschiffen, Söldnern, Bogenschützen und Grenadieren können feindliche Gebäude zerstören. Sie können auch ein Gebäude einnehmen und die Entfernen-Taste drücken. (Sie können jede Ihrer Einheit wählen und sie so zerstören.)
+#PAGE24 Missions\Pictures\mord_tut 17
+Übrigens können die Artillerie und viele andere Einheiten in Formationen gruppiert werden. Wenn Sie die entsprechenden Aufrüstungen ausführen, können Sie die Feuerrate und -genauigkeit der Artillerie erhöhen. Wählen Sie die Akademie.
+#PAGE25 Missions\Pictures\mord_tut 11
+Die Aufrüstungen "Neue Sichtgeräte für die Artillerie erforschen" und "Mathematik entwickeln" ermöglichen es Ihnen, die Genauigkeit Ihrer Artillerie und Ihrer Flotte um jeweils 35 Prozent zu verbessern. Die Aufrüstungen "Verbesserte Schießpulverformel erforschen" und "Neue Lauftypen entwerfen: Einhorn, Karronade" verbessern die Reichweite der Artillerie, der Flotte und der Türme um jeweils 5 und 10 Prozent.
+#PAGE58 Missions\Pictures\mord2_tut 3 
+Hier finden Sie ebenfalls die Aufrüstung "Haltbarere Lafette entwerfen: Gribovalle-System", welche die Haltbarkeit von Kanonen und Haubitzen erhöht. Führen Sie diese Aufrüstung nun aus.
+#PAGE26 Missions\Pictures\mord_tut 15
+Gut. Wählen Sie nun die Kanonen.
+#PAGE27 Missions\Pictures\mord_tut 13
+Es gibt drei verschiedene Feuermodi für Kanonen: das Kartätschenfeuer, die Artillerie-Vorbereitung (aktiviert durch Anklicken des Icons und Wahl des Zieles; die Reichweite verdoppelt sich dabei, aber das Nachladen dauert länger.
+#PAGE28 Missions\Pictures\russia 8
+Beim Kommandieren von Truppen gibt es einige interessante Punkte zu beachten. Berittene Truppen und Infanteristen in Formationen können die Position "Stellung halten" einnehmen (die in einem bestimmten Zeitraum aktiviert wird). Dadurch erlangen sie auch Verteidigungs- und Angriffsboni.
+#PAGE29 Missions\Pictures\mord_tut 0
+Zusätzlich können Sie Formationen Positionen zuteilen, wenn Sie mehrere auswählen. (Wenn Sie Formationen aus der Auswahl nehmen möchten, klicken Sie auf das entsprechende Icon im Menü.)
+#PAGE30 Missions\Pictures\england 2
+Kehren wir nun zu den Schiffen zurück. Wenn Sie zum Beispiel eine Fregatte des 18. Jahrhunderts bauen möchten, müssen Sie zunächst die Fregatte des 17. Jahrhunderts in der Akademie aufrüsten. Danach können Sie die Aufrüstung "Fregatten verbessern" ausführen, um die Fregatte des 18. Jahrhunderts zu bauen.
+#PAGE31 Missions\Pictures\england 6
+Wenn Sie Linienschiffe des 18. Jahrhunderts bauen möchten, führen Sie die Aufrüstungen "Neues Rippen- und Rumpfsystem entwerfen" und "Neue Takelagen entwerfen" in der Akademie zusammen mit der Aufrüstung "Linienschiffe verbessern" in der Schiffswerft durch. Sobald Sie diese Aufrüstungen vervollständigt haben, können Sie Linienschiffe des 18. Jahrhunderts bauen!
+#PAGE32 Missions\Pictures\england 4
+In der Schiffswerft gibt es ein besonderes Icon für die Reparatur des Linienschiffes. (Damit können Sie einen Teil der Verteidigungsparameter des Schiffes wiederherstellen.) Lebendige Einheiten und Kanonen verfügen ebenfalls über Aufrüstungen, die Teile ihrer Verteidigung oder Lebenskraft wiederherstellen. Sie können sie in der Akademie finden.
+#PAGE59 Missions\Pictures\mord_n 9
+Bauen Sie eine Fregatte des 18. Jahrhunderts.
+#PAGE33 Missions\Pictures\poland 4
+Zuletzt noch ein guter Rat: Rüsten Sie die Goldminen auf, um mehr Gold zu erlangen. Sie werden es benötigen, um Ihre Armee zu erhalten und technologische Aufrüstungen durchzuführen.
+#PAGE34 Missions\Pictures\mord3_tut 7
+Angesichts Ihrer hervorragenden Leistungen hat sich der Zar entschieden, Sie zu besuchen und Ihnen Ihre erste Militärmission zu anzuvertrauen.
+#PAGE100 Missions\Pictures\ukraine 7
+Wie haben Sie das bloß gemacht?

@@ -1,0 +1,1 @@
+Mit einer langen Lanze bewaffneter schwerer Kavallerist. Effektiv gegen Infanterie und Kavallerie und für Sabotage. Seine Rüstung schützt ihn gut gegen Geschosse und Splitter. Manövrierfähig. Gut im Angriff und bei der Verteidigung. Seine Herstellung braucht viel Zeit.

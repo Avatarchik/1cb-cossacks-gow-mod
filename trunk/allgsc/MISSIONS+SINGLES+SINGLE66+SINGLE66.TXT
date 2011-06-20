@@ -1,0 +1,29 @@
+#BRIEFING faces 0
+{A} Wertvolle Ladung
+
+Gegenwärtiges Ziel:
+{B}Bringen Sie die Sklaven aus der eingenommenen Stadt zu den Schiffen. 
+
+#PAGE0 Missions\Pictures\poland 7
+Ihre Truppen haben die feindliche Stadt erobert und reiche Beute gemacht. 
+Sie müssen die Sklaven unbehelligt zu den Schiffen bringen.
+Sklaven können nur vom Offizier befördert werden, deshalb sollen Sie auf ihn besonders gut achten. 
+Die erschöpften feindlichen Truppen werden versuchen, ihre Freunde zu befreien. 
+Bewachen Sie Ihre Sklaven gut, sonst. Wenn Sie sie alleine lassen, werden sie versuchen zu fliehen. 
+
+#PAGE1 Missions\Pictures\England 9
+Möchten Sie alle Sklaven auf einmal transportieren? 
+
+#PAGE2 Missions\Pictures\England 9
+Nun müssen Sie die zweite Hälfte abholen. 
+
+#PAGE3 Missions\Pictures\England 9
+Niederlage!!!
+%d Sklaven sind geflohen.
+
+#PAGE4 Missions\Pictures\England 9
+Die Mission ist erfolgreich. %d Sklaven sind transportiert!
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d
+.

@@ -1,0 +1,35 @@
+#BRIEFING faces 0
+{A}	Die überquerung
+
+
+Um zu gewinnen, müssen Sie die französische Festung vernichten. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen verlieren. 
+
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die Festungsgarnison.
+{I}~Vernichten Sie die Festungsgarnison.~
+{C}Überqueren Sie die Meerenge und vernichten sie die französische Festung.
+{K}~Überqueren Sie die Meerenge und vernichten sie die französische Festung.~
+{E}Ihr Husar kann die verbündete Kavallerie leiten. 
+{F}Vernichten Sie einen Teil des Zauns, damit die Kavallerie das Fort stürmen kann. 
+{G} Nachdem Sie die Festungsgarnison vernichtet haben, können Sie das Fort kontrollieren. 
+{M}Räuber könnten vom Westen her angreifen. 
+{N}Zu Wasser herrschen Piraten. 
+
+#PAGE1501 Missions\Pictures\Austria 7
+Sie haben die Festungsgarnison vernichtet, nun gehen alle Einrichtungen des Forts in Ihre Kontrolle über. In den Lagern haben Sie Munition und Proviant entdeckt. 
+
+#PAGE1502 Missions\Pictures\Austria 0
+Jetzt ist es Ihre Aufgabe, Transportschiffe zu bauen und die Meerenge zu überqueren. Um die Region kontrollieren zu können, muss man die französische Festung am anderen Ufer vernichten. Die Burg steht auf dem Hügel und wird gut bewacht. Es wird nicht einfach sein, sich ihr auch nur zu nähern.  
+
+#PAGE1503 Missions\Pictures\mord2_tut 5
+Vernichten Sie Teile des Zauns, damit die Kavallerie das Fort stürmen kann! 
+
+#PAGE1504 Missions\Pictures\mord_d 10
+Möchten Sie den Befehl zum Angriff geben? 
+
+#PAGE1505 Missions\Pictures\mord_d 10
+Vernichten Sie die französische Festungsgarnison westlich von Ihnen. Ihr Husar kann die verbündete Kavallerie leiten (führen Sie ihn einfach zu ihr). Passen Sie gut auf ihn auf, weil Sie nur einen einzigen Husaren haben. 
+
+#PAGE1506 Missions\Pictures\Mord_tut 38
+Sie haben die Aufgabe bestens erfüllt und als Kampfbeute den Degen des ehemaligen Festungskommandanten erhalten. 

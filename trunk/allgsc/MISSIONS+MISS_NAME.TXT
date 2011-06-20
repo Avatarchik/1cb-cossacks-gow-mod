@@ -1,0 +1,47 @@
+PIRATES Piraten
+BANDITS Banditen
+ROBBERS Räuber
+SPAIN Spanier
+FRANCE Franzosen 
+AUSTRIANS Österreicher
+SVEDES Schweden
+TURKEY Türken
+REBELS Rebellen
+DWELLERS Einheimische
+ALLIES Verbündete
+M_ALLIES Mögliche Verbündete
+HOLLAND Niederländer
+OSMAN Osmanen
+SUXX Sachsen
+RUS_ARMY Die russische Armee
+ALLY_SVED Die Schweden und ihre Verbündeten
+EMPIRE Die imperialen bayrischen Truppen
+PRUSSIA Preußen
+UKRAINE Ukrainer
+PIEMOUNT Piemont
+RUSSIA Russen
+ALJERIANS Algerien
+MONKS Mönche
+ENEMY Gegner
+NEUTRALS Neutrale
+COSSACKS Kosaken
+RUSSIANS Russen 
+CHEHS Tschechen
+DUTCH Dänen
+NOMADS Nomaden
+NEIRBORG Nachbarn
+TRAITOR Verräter
+POLANDS	Polen
+ENGLAND Engländer
+BAVARIA Bayern
+VENECIA Venezianer
+POLAND Polen
+PORTUGALIA Portugiesen
+VILLAGE Bauern
+ALGERIA Algerier
+PRUSSIA Preußen
+MECENARY Söldner
+PORTUGAL Portugiesen 
+SPAIN Spanier
+NIDERLAND Niederländer
+SVEDEN Schweden

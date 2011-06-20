@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+{A} Das Schwarze Meer
+ 
+Ihre Aufgabe ist es, die türkischen Truppen zu vernichten, die die Küste des Schwarzen Meeres überwachen und kontrollieren. Passen Sie aber auf, denn in der Region gibt es viele Banditen. 
+Sie haben verloren, wenn Ihre Truppen zerschlagen werden. 
+ 
+Gegenwärtiges Ziel:
+{B}Neutralisieren Sie die Türkei.
+{C}~ Neutralisieren Sie die Türkei.~
+{D}Vernichten Sie das Räuberlager im Westen. 
+{E}~Vernichten Sie das Räuberlager im Westen.~
+{F} Vernichten Sie das Räuberlager im Osten.
+{G}~Vernichten Sie das Räuberlager im Osten.~
+{K}Zerstören Sie das Diplomatiezentrum der Banditen im Südwesten. 
+{L}~Zerstören Sie das Diplomatiezentrum der Banditen im Südwesten.~
+{M}Zerstören Sie das Diplomatiezentrum der Banditen im Südosten.
+{N}~Zerstören Sie das Diplomatiezentrum der Banditen im Südosten.~
+
+#PAGE0A Missions\Pictures\austria 18
+Sie sollen die Türkei neutralisieren, die die Küste des Schwarzen Meeres kontrolliert. 
+
+#PAGE0B Missions\Pictures\faces 31
+Die Pässe vom Norden Richtung Süden sind durch Räubern gesperrt! Der türkische Khan hat sie bestochen! 
+Vernichten Sie die Räuberlager im Westen und im Osten!
+
+#PAGE0C Missions\Pictures\faces 31
+Auf dem türkischen Territorium gibt es Banditenlager, die durch den Khan unterstützt werden! Durch seinen Befehl greifen Räuber Sie an! Zerstören Sie die Diplomatiezentren der Banditen im Südosten und im Südwesten und wehren Sie ihre Angriffe ab!  
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager vernichtet und dort %d Goldmünzen entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\faces 34
+Gratulation! Sie haben das Diplomatiezentrum der Banditen im Südwesten zerstört!
+
+#PAGE3 Missions\Pictures\faces 34
+Gratulation! Sie haben das Diplomatiezentrum der Banditen im Südosten zerstört!
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die türkische Einheiten an der Südküste des Schwarzen Meeres zerschlagen! 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Gratulation! Sie haben alle Aufgaben erledigt und gewonnen!! 

@@ -1,0 +1,97 @@
+#BRIEFING faces 0
+{A}Seepatrouille 
+ 
+Ihre Aufgabe ist es, das Bündnis von Schweden und Spanien zu vernichten. Dafür müssen Sie erst Ihrem Verbündeten, den Niederlanden, helfen, die Flotte zu Linienschiffen des 18. Jahrhunderts zu entwickeln, damit die schwedische Marine neutralisiert werden kann und Sie eine eigene Flotte aufbauen können. Dann sollen Sie die nördliche Insel von den Spaniern befreien. 
+Sie verlieren, wenn Ihr Hauptcharakter ums Leben kommt, oder falls Sie Ihre Verbündeten nicht verteidigen können. 
+Nur der Hauptcharakter kann sich mit Verbündeten unterhalten!
+ 
+Gegenwärtiges Ziel:
+{B}Vernichten Sie die Allianz von Schweden und Spanien. 
+{C}~Vernichten Sie die Allianz von Schweden und Spanien.~
+{D}Sprengen Sie die schwedischen Werften (insgesamt 4) im Westen und im Osten der Zentralregion, deren Schiffe Ihre und verbündete Einrichtungen überfallen.  
+{E}~Sprengen Sie die schwedischen Werften (insgesamt 4) im Westen und im Osten der Zentralregion, deren Schiffe Ihre und verbündete Einrichtungen überfallen.~
+{F}Zerstören Sie das Banditenlager auf Ihrer Insel. 
+{G}~Zerstören Sie das Banditenlager auf Ihrer Insel.~
+{M} Zusätzliches Ziel:
+{K} Bringen Sie dem Verbündeten 20000 Gold, 50000 Stein und 50000 Holz ins östliche Fort.
+{L}~ Bringen Sie dem Verbündeten 20000 Gold, 50000 Stein und 50000 Holz ins östliche Fort. ~
+
+#PAGE0AA Missions\Pictures\faces 9
+Neutralisieren Sie die Allianz von Schweden und Spanien. Die Schweden haben von Ihrer Ankunft erfahren und schicken Ihnen ihre Schiffe entgegen! 
+Begeben Sie sich zu Ihren Verbündeten in das westliche Fort. Sie werden Ihnen helfen, den schwedischen Angriffen zu widerstehen.  
+
+Damit die Schweden auf immer und ewig mit den Angriffen aufhören, lassen Sie die schwedischen Werften (insgesamt 4) im Westen und im Osten in der Zentralregion explodieren. 
+  
+#PAGE0A Missions\Pictures\faces 31
+Es wird sehr schwierig sein, die schwedischen Werften allein zu vernichten! Deshalb sollten Sie sich an Ihre Verbündeten wenden. Begeben Sie sich zu Ihren Verbündeten in das östliche Fort! 
+
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Banditenlager vernichtet und dort %d Gold entdeckt! 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in einem ungleichen Kampf ums Leben gekommen!
+
+#PAGE1A Missions\Pictures\poland 21
+ Sie sind verhungert ...
+
+#PAGE2 Missions\Pictures\poland 4
+Räuber auf Ihrer Insel! Vernichten Sie ihr Lager!
+
+#PAGE3 Missions\Pictures\faces 34
+Seid gegrüßt, Kommandant! Darf ich frei sprechen? Wir werden von schwedischen Schiffen überfallen! Helft uns bitte!
+
+#PAGE4 Missions\Pictures\faces 6
+Seid gegrüßt, Kommandant der englischen Truppen! Ich gebe Euch drei Fregatten, damit Ihr die schwedischen Angriffe zurückschlagen könnt! Solltet Ihr die Schiffe verlieren, werde ich Euch weitere Schiffe schicken!
+
+#PAGE5 Missions\Pictures\faces 34
+Seid gegrüßt, Kommandant! Darf ich frei sprechen? Allein können wir die schwedischen Werften nicht vernichten, deren Schiffe uns überfallen! Bitte helft uns! 
+
+#PAGE6 Missions\Pictures\faces 6
+Ich begrüße Euch, Herr Befehlshaber! Wir werden die schwedischen Werften und die gesamte Flotte vernichten, wenn Ihr uns beim Bau der Linienschiffe des 18. Jahrhunderts helft.  
+Bringt uns 20000 Gold, 50000 Stein, 50000 Holz für den Bau. Außerdem müsst Ihr unsere Akademie vor Angriffen der schwedischen Schiffe schützen. 
+Wir wollen siegen, deshalb übergebe ich Euch wichtige Einrichtungen und drei Fregatten für die Abwehr gegen Schweden! Solltet Ihr die Schiffe verlieren, werde ich Euch weitere schicken!
+
+#PAGE6A Missions\Pictures\faces 9
+Um den Verbündeten Ressourcen zu liefern, sollten Sie Packpferde beladen und sie dem Kommandanten ins östliche Fort bringen. 
+
+#PAGE7 Missions\Pictures\England 5
+Gratulation! Alle schwedischen Werften sind vernichtet! 
+
+#PAGE7A Missions\Pictures\England 5
+Gratulation! Sie haben zwei schwedische Werften im Westen vernichtet, deren Schiffe Sie überfallen haben! 
+
+#PAGE7B Missions\Pictures\England 5
+Gratulation! Sie haben zwei schwedische Werften im Osten vernichtet, deren Schiffe Ihre Verbündeten überfallen haben! 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Allianz von Schweden und Spanien vernichtet!  
+
+#PAGE8A Missions\Pictures\austria 6
+Gratulation! Sie haben Schweden neutralisiert. 
+
+#PAGE8B Missions\Pictures\austria 6
+
+Gratulation! Sie haben Spanien neutralisiert. 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben die Hauptaufgabe erfüllt und gewonnen!!! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Sie haben die Akademie Ihrer Verbündeten nicht schützen können und verloren! 
+
+#PAGE10 Missions\Pictures\faces 9
+Sie haben schon genug Ressourcen für den Verbündeten! Bringen Sie Packpferde zum Beladen zum Markt. 
+
+#PAGE10A Missions\Pictures\faces 9
+Die Packpferde sind beladen! Bringen Sie sie zum Kommandanten ins östliche Fort. 
+
+#PAGE12  Missions\Pictures\mord_d 6
+Sie haben das Packpferd verloren und können nun keine Ressourcen zu Ihrem Verbündeten bringen! Jetzt müssen Sie nur mit eigenen Kräften die Werften und die schwedische Marine vernichten! 
+
+#PAGE13 Missions\Pictures\faces 6
+Ah! Ihr habt uns die notwendigen Ressourcen gebracht! Wir beginnen gleich mit dem Bau der Linienschiffe des 18. Jahrhunderts!  
+
+#PAGE14 Missions\Pictures\faces 6
+Wir haben die Linienschiffe des 18. Jahrhunderts gebaut! Nun geht es los! 
+ 	

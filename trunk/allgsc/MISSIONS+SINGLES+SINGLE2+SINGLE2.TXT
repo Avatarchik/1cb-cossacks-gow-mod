@@ -1,0 +1,57 @@
+#BRIEFING faces 0
+{A} Meuterei
+
+Ziel:
+{B}Vernichten Sie den Feind.
+   Für den Sieg müssen Sie die Zarenstreitkräfte zerschlagen! 
+   Sie haben verloren, wenn Ihr Hauptcharakter ums Leben kommt. 
+
+Gegenwärtiges Ziel:
+{C}Verlassen Sie das feindliche Dorf unbemerkt. 
+{D}~Verlassen Sie das feindliche Dorf unbemerkt.~
+{E}Treffen Sie die Aufständischen. 
+{F}~Treffen Sie die Aufständischen.~
+{G}Befreien Sie die Holzfäller. 
+{H}~Befreien Sie die Holzfäller.~
+{I} Zerschlagen Sie die Zarenstreitkräfte! 
+
+#PAGE0 Missions\Pictures\England 29
+Ihr Charakter ist Anführer der aufständischen Armee; er wird von Zarenstreitkräften gesucht.  
+Ihre erste Aufgabe ist es, das feindliche Dorf unbemerkt zu verlassen. 
+Die Soldaten des Zaren werden Sie erkennen, wenn Sie sich ihnen nähern. 
+Außerhalb des Dorfes befinden sich aufständische Truppen; Sie müssen zumindest eine von ihnen finden. 
+
+#PAGE1 Missions\Pictures\England 29
+Niederlage!!!
+Sie sind gefangen.
+
+#PAGE2 Missions\Pictures\England 29
+Sieg!!!
+Die Zarenstreitkräfte sind zerschlagen.
+
+#PAGE3 Missions\Pictures\England 29
+Niederlage!!!
+Ihr Hauptcharakter ist ums Leben gekommen.
+
+#PAGE4 Missions\Pictures\England 29
+Niederlage!!!
+Der Aufstand ist unterdrückt.
+
+#PAGE5 Missions\Pictures\England 29
+Sie begegnen einer Ihrer Truppen. Sie erhalten ein Pferd und Waffen. 
+Ihr nächstes Ziel ist es, die Holzfäller zu befreien. 
+
+#PAGE6 Missions\Pictures\England 29
+Zarenstreitkräfte haben von Ihrer Flucht aus dem Dorf erfahren und Sie werden verfolgt. 
+Bleiben Sie nicht stehen! Sie sollten ständig in Bewegung sein, sonst werden Sie vom Feind eingeholt. 
+
+#PAGE7 Missions\Pictures\England 29
+Bauern sind Ihnen nun untergeordnet. 
+Sie sollten möglichst schnell Ihr Lager aufbauen und die Zarenstreitkräfte zerschlagen. 
+
+#PAGE8 Missions\Pictures\England 29
+Einer der Soldaten hat Sie erkannt. 
+RENNEN SIE!!!
+
+#PAGE Missions\Pictures\England 9
+A %d - B %d - C %d - D %d - E %d - F %d - G %d

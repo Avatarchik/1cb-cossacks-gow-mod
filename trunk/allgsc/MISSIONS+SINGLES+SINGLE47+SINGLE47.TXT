@@ -1,0 +1,43 @@
+#BRIEFING faces 0
+{A} Lima
+
+!Für den Sieg müssen Sie die Piraten vernichten. 
+!Sie erleiden eine Niederlage, wenn Sie Ihre Truppen oder Ihr Flaggschiff verlieren.  
+
+#PAGE1 Missions\Pictures\austria 25
+Englische Piraten schaden der spanischen Krone sehr. Sie greifen Städte und Schiffe an, die Gold und Silbern befördern. In Südamerika agiert eine Schwadron von Francis Drake. Sie sollen diese Räuber vernichten. Besetzen Sie das Gebiet, in dem Gold gewonnen wird und bauen Sie dort eine Festung und eine Werft. Ihre Aufgabe ist es, die Piraten zu vernichten. Sie müssen um jeden Preis das spanische Gold behalten, weil der Staat es in seiner gegenwärtigen Lage dringend benötigt. 
+
+#PAGE2 Missions\Pictures\england 6
+Sie sind in der Kolonie des spanischen Imperiums eingetroffen. 
+Ihre Aufgabe ist es, die Piraten in der Region zu vernichten. 
+Sollte Ihr Flagschiff beschädigt werden, können Sie es in einer Werft reparieren.  
+
+#PAGE3  Missions\Pictures\austria 16
+Niederlage ...
+
+#PAGE4  Missions\Pictures\england 5
+Ihr Flaggschiff ist vernichtet ... 
+ 
+#PAGE8  Missions\Pictures\england 35
+Die Piraten sind vernichtet!!!
+Gratulation, das war kein leichter Sieg.  
+
+#PAGE10  Missions\Pictures\england 2
+Das Flaggschiff ist in der Werft. 
+Möchten Sie Ihr Schiff reparieren?
+
+Die Reparatur kostet 2000 Gold.
+
+#PAGE11  Missions\Pictures\england 17
+Ihr Gold reicht für die Reparatur nicht aus.
+
+#PAGE12  Missions\Pictures\england 17
+Ein Schiff aus Spanien ist eingetroffen. Bringen Sie das Schiff in die Werft.
+
+#PAGE13  Missions\Pictures\england 17
+Das Schiff ist angekommen und ausgeladen. Sie erhalten 5000 Gold für Ihre Flotte.
+
+#PAGE911  Missions\Pictures\mord_tut 15
+Das ist 911
+Leben = %10d
+Max. Leben = %10d

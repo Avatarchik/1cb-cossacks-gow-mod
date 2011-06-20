@@ -1,0 +1,48 @@
+#BRIEFING faces 0
+Zwischen zwei Feuern
+
+Für den Sieg müssen Sie alle schwedischen Truppen vernichten. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Einheiten und Einrichtungen verlieren. 
+
+{E} Sie erleiden auch eine Niederlage, wenn Sie über 100 Schiffe verlieren.  
+{F} Sie erleiden auch eine Niederlage, wenn Sie über 60 Schiffe verlieren. 
+{G} Sie erleiden auch eine Niederlage, wenn Sie über 40 Schiffe verlieren. 
+{H} Sie erleiden auch eine Niederlage, wenn Sie über 30 Schiffe verlieren. 
+{M}!Sie können Ihre Schiffe bei Werften reparieren. 
+
+#PAGE2501 Missions\Pictures\England 2
+Nach einer erfolgreichen Landung siedeln unsere Truppen an der Küste an. 
+Nordwestlich und nordöstlich von unserem Stützpunkt lagern aber schwedische Streitkräfte. Sie müssen darauf gefasst sein, dass sie Sie häufig überfallen werden. 
+Aufklärer haben Ihnen von einem Seestützpunkt Meldung gemacht, der sich südwestlich von Ihnen befindet. 
+
+
+#PAGE2502 Missions\Pictures\Austria 42
+Ein Kriegsberater: "Es wird sehr kompliziert sein, Kriegshandlungen auf dem Meer zu beginnen, solange unser Stützpunkt stets zu Lande angegriffen wird. Ich schlage vor, das schwedische Fort im Nordosten von uns zu vernichten, danach können wir die Kampfhandlungen auf den nordwestlichen feindlichen Stützpunkt verschieben."
+
+#PAGE2503 Missions\Pictures\Mord2_tut 23
+Ein Kriegsberater: "Ihr habt das schwedische Fort im Nordosten erfolgreich zerschlagen, nun sind wir vom Nordwesten her bedroht. Wir sollten all unsere Anschläge auf dieses Fort konzentrieren."
+
+#PAGE2504 Missions\Pictures\Mord2_tut 23
+Ein Kriegsberater: "Sie haben das schwedische Fort im Nordwesten erfolgreich zerschlagen. Ihre nächste Aufgabe ist es, das schwedische Fort im Nordosten zu zerstören." 
+
+#PAGE2505 Missions\Pictures\Mord3_tut 0
+Sie haben die feindlichen Landstreitkräfte rapide zerschlagen! Jetzt kann Sie nichts mehr daran hindern, Kampfhandlungen zu Wasser zu beginnen und den Feind von der Insel im Südwesten zu vertreiben. Seien Sie aber sehr vorsichtig! Die schwedische Marine ist riesig und wird ständig vergrößert. 
+
+#PAGE2506 Missions\Pictures\mord_d 7
+Ein Kriegsberater: "Ich möchte Euch daran erinnern, dass unsere Tischler Eure Schiffe reparieren, dafür aber müssen sie bei den Werften sein". 
+
+#PAGE2507 Missions\Pictures\Mord_tut 36
+Ein Befehl aus dem Armeestab: "Wir freuen uns, Euch begrüßen zu können, Oberst! Ihr seid ein talentvoller Heerführer, deshalb hoffen wir, dass Ihr in dieser Operation nicht über %d Schiffe verliert".
+
+#PAGE2508 Missions\Pictures\Mord_tut 37
+Sie haben die feindlichen Streitkräfte völlig vernichtet und nach der Ankunft werden Sie ausgezeichnet! Ihre Führung ist stolz auf Sie! 
+
+#PAGE2509 Missions\Pictures\ Mord_tut 39
+Befehl aus dem Hauptquartier: "Leider habt Ihr schon %d Schiffe verloren. Wir zweifeln daran, dass Eure Handlungen zweckmäßig sind und Ihr werdet degradiert."
+
+#PAGE2510 Missions\Pictures\England 5
+
+Ein Militärberater: "Mylord, ich muss Euch warnen, dass wir schon gegen %d Kriegsschiffe verloren haben."
+
+#PAGE2511 Missions\Pictures\Mord2_tut 21
+Ein Kriegsberater: "Leider muss ich Euch mitteilen, dass unsere Armee geschlagen wird. Ihr habt diese Schlacht verloren."

@@ -1,0 +1,5 @@
+Um diese Schlacht zu gewinnen, müssen die verbündeten anrückenden Truppen aus Weimar und die schwedische Armee (blau) drei der fünf spezifizierten Stellungen einnehmen und halten oder die kaiserliche Armee (rot) vollständig vernichten. "Einnehmen" bedeutet hier die Abwesenheit feindlicher Truppen und die Anwesenheit Ihrer Soldaten in dem Gebiet.
+Die kaiserliche Armee gewinnt, wenn sie den Feind völlig vernichtet oder es schafft, die Stellung über einen bestimmten Zeitraum hinweg zu halten.
+Wenn Sie feindliche Militärzüge einnehmen oder vernichten, hat Ihr Feind keine Munition mehr, und alle Musketiere und seine gesamte Artillerie werden das Feuer einstellen.
+
+Drücken Sie die STRG-Taste, um sich die zu umkämpfenden Stellungen anzeigen zu lassen.

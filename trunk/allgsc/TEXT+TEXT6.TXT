@@ -1,0 +1,39 @@
+UI_LOCK1 Unzugängliche Gebiete anzeigen (Q)
+UI_LOCK2 Unzugängliche Gebiete verbergen (Q)
+UM_TRANS1 Transparenzmodus ausschalten (O)
+UM_TRANS2 Transparenzmodus einschalten (O)
+ENCICL Enzyklopädie
+LOADING Laden ...
+MHISTORY Neuste Nachrichten
+@MSYES Ja
+@MSNO Nein
+@MSOK OK
+@MSNEXT Weiter
+@MSPREV Zurück
+@MSCANCEL Schließen
+@RMID_EASY Leicht
+@RMID_NORMAL Normal
+@RMID_HARD Schwierig
+@RMID_VERYHARD Sehr schwierig
+GI_UNITS Einheiten
+GI_BLD Gebäude
+RA_Lean Mager
+RA_Medium Mittel
+RA_Rich Reich
+RA_Normal Normal
+RA_Rich Reich
+RA_Thousands Tausende
+RT_Plane Ebene
+RT_Low_mountains Niedrige Berge
+RT_High_mountains Hohe Berge
+RT_Highlands Hochland
+RT_Plateaus Plateaus
+Desert Wüste
+LT_Land Land
+LT_Mediterranean Mittelmeer
+LT_Peninsulas Halbinseln
+LT_Islands Inseln
+LT_Continents Kontinente
+LT_Continent Kontinent
+PLALONE Ihre Verbindung zum Spiel ist unterbrochen!
+RA_Millions Millionen

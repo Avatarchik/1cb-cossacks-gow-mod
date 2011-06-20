@@ -1,0 +1,3 @@
+In dieser Schlacht sollte die preußische Armee (blau) die österreichischen Streitkräfte (rot) angreifen und vernichten.
+Die Partei, die den Feind vollständig eliminiert, gewinnt die Schlacht.
+Wenn die preußische Armee die Österreicher nicht innerhalb einer bestimmten Zeit angreift und vernichtet, sind die Preußen die Verlierer der Schlacht.

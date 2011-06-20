@@ -1,0 +1,67 @@
+#BRIEFING faces 0
+{Z} Und weiter geht's!
+                          
+Sie haben verloren, wenn Sie keine Bauern mehr haben und auch keine weiteren erstellen können und wenn die Anzahl Ihrer militärischen Einheiten auf unter 8 sinkt (Standardbedingungen für die Niederlage).
+             
+  Gegenwärtige Ziele:
+{A}Organisieren Sie den konstanten Nachschub von Ressourcen für das Anwesen.
+{B}Bauen Sie eine Schiffswerft.
+{K}~Bauen Sie eine Schiffswerft.~
+{C}Bauen Sie ein Artilleriedepot.
+{L}~Bauen Sie ein Artilleriedepot.~
+{D}Bauen Sie ein Diplomatiezentrum.
+{M}~Bauen Sie ein Diplomatiezentrum.~
+{E}Schützen Sie Ihr Anwesen vor Angriffen.
+{F}Wählen Sie die Mühle.
+{H}Wählen Sie die Schmiede.
+{I}Wählen Sie die Akademie.
+{N}Führen Sie Aufrüstungen zur Nahrungsverbesserung durch.
+{O}~Führen Sie Aufrüstungen zur Nahrungsverbesserung durch.~
+{P}Führen Sie Stein- und Holz-Aufrüstungen sowie die Aufrüstung "Geologie entwickeln" durch.
+{Q}~Führen Sie Stein- und Holz-Aufrüstungen sowie die Aufrüstung "Geologie entwickeln" durch.~
+{R}Führen Sie alle möglichen Aufrüstungen in der Goldmine durch und senden Sie Ihre Bauern hinein.
+                 
+!Sichern Sie Ihr Anwesen!
+#PAGE1 Missions\Pictures\russia 23
+Der Zar hat einige Ihrer Truppen zum Militärdienst abgeordnet.
+#PAGE2 Missions\Pictures\russia 8
+Nun kontrollieren Sie schon relativ viele verschiedene Truppen. Wenn Sie alle Einheiten eines bestimmten Typs auf der Karte wählen möchten, drücken Sie Strg + A. Unten links auf dem Bildschirm sehen Sie die Icons aller Einheitenarten, über die Sie verfügen. Klicken Sie mit der linken Maustaste auf das Icon einer Einheit, die Sie wählen möchten.
+#PAGE3 Missions\Pictures\russia 8
+Denken Sie an Ihre Wirtschaft: Sie werden immer mehr Ressourcen benötigen, um sich weiter zu entwickeln. Senden Sie neue Bauern zum Sammeln von Nahrung, Holz, Stein, Eisen, Gold und Kohle aus. Einige Ihrer Bauern könnten nichts zu tun haben. Drücken Sie Strg + P oder klicken Sie im Rathaus auf "Alle untätigen Bauern wählen", um sie zu wählen.
+#PAGE4 Missions\Pictures\russia 0
+Erhöhen Sie die Anzahl von Infanterie- und Kavallerie-Einheiten, um gegen Überfälle gewappnet zu sein. Sie können zum Beispiel Streleten oder Don-Kosaken erstellen.
+#PAGE5 Missions\Pictures\russia 8
+Bauen Sie nun eine Schiffswerft. Dort können Sie Kriegs- und Frachtschiffe sowie Fischerboote zum Fischfang bauen. Dieser Ort hier ist gut zum Bau einer Werft geeignet.
+#PAGE6 Missions\Pictures\mord3_tut 15
+Sehr gut. Sie können nun ein Artilleriedepot bauen. Hier können Sie Artillerie, also Kanonen, Haubitzen, Mörser und mehrläufige Kanonen bauen. Sobald Ihr Artilleriedepot fertig ist, können Kriegsschiffe in der Schiffswerft gebaut werden und weitere Aufrüstungen werden in anderen Gebäuden verfügbar. Wenn Sie nicht genügend Ressourcen haben, um ein Artilleriedepot zu bauen, sollten Sie Ressourcen sammeln oder sie auf dem Markt eintauschen.
+#PAGE7 Missions\Pictures\mord2_tut 7
+Gut! Bauen Sie nun ein Diplomatiezentrum. Dort können Sie Söldner rekrutieren. Dies ist einerseits nützlich, da Sie so sehr schnell effiziente Truppenverbände erhalten, was bei plötzlichen Angriffen wichtig sein kann. Andererseits sind Söldner schwächer als reguläre Truppen und erfordern für ihre Rekrutierung viel Gold. Sie müssen sie nach der Rekrutierung behalten, und wenn Ihnen das Gold ausgeht, greifen die Söldner Sie an.
+#PAGE8 Missions\Pictures\mord2_tut 14
+Diesen Gaunern haben Sie es gezeigt. Das war nicht anders zu erwarten.
+#PAGE9 Missions\Pictures\mord_tut 27
+Der Unterhalt einer funktionierenden Armee erfordert viele Ressourcen. Deshalb sollten wir uns über Aufrüstungen unterhalten, die Ihnen helfen, weitere Ressourcen zu sammeln.
+#PAGE10 Missions\Pictures\mord_n 2
+Fangen wir mit der Nahrung an. Wählen Sie die Mühle.
+#PAGE11 Missions\Pictures\russia 19
+Eine der wichtigsten Aufrüstungen für Nahrung ist hier verfügbar: "Kornfeld-Behandlung verbessern" ermöglicht Bauern, mehr Nahrung pro Einsatz zu sammeln. Führen Sie diese Aufrüstung durch.
+#PAGE17 Missions\Pictures\russia 19
+Sehr gut. Wählen Sie die Schmiede.
+#PAGE12 Missions\Pictures\russia 8
+Die Aufrüstung "Diverse Agrikultur-Hilfen herstellen" in der Schmiede erhöht die Menge an Nahrung, die auf jedem Feld gesammelt wird. Das bedeutet, dass Sie das Feld nicht mehr so oft besäen müssen.
+#PAGE18 Missions\Pictures\russia 8
+Prima. Wählen Sie nun die Akademie.
+#PAGE13 Missions\Pictures\mord_tut 22
+Die Akademie ist das wissenschaftliche Zentrum Ihrer Stadt. Hier führen Sie die meisten Ihrer Aufrüstungen durch. Nun werden wir uns mit den Aufrüstungen für Nahrung beschäftigen.
+Es gibt dabei vier verschiedene Aufrüstungen: "Neue Weizenkulturen anbauen", "Neue Roggenkulturen anbauen", "Gehalt der Landwirte erhöhen" und "Feldverbesserung ausführen". Die ersten drei Aufrüstungen erhöhen die Menge der pro Einsatz gesammelten Nahrung jeweils um 20, 15 oder 10 Prozent. Dadurch können Bauern im gleichen Zeitraum mehr Nahrung sammeln. Die vierte Aufrüstung erhöht die Menge der Nahrung, die auf jedem Feld gesammelt wird, um 200 Prozent. Dadurch muss nicht mehr so oft gesät werden. Wenn Sie diese Aufrüstungen ausführen, sehen Sie, dass Ihre Bauern Nahrung effektiver gewinnen.
+#PAGE14 Missions\Pictures\mord_n 9
+Jetzt wird es Zeit, dass Sie über Holz- und Stein-Aufrüstungen nachdenken. In der Akademie gibt es eine Aufrüstung, die die Holzmenge erhöht und zwei Aufrüstungen, die die Steinmenge erhöhen, die Sie sammeln. Die Holz-Aufrüstung "Neue Holzwerkzeuge entwerfen" ermöglicht es Ihren Bauern, doppelt so viel Holz zu gewinnen. Mit den Stein-Aufrüstungen "Bergbau entwickeln" und "Gehalt der Bergleute erhöhen" sammeln Ihre Bauern zwischen zwei- und viermal so viel Stein. Es ist noch eine weitere Aufrüstung in der Akademie verfügbar: "Geologie entwickeln". Als Resultat dieser Aufrüstung erscheinen alle Vorkommen von Ressourcen auf der Minikarte. Führen Sie diese Aufrüstungen nun aus.
+#PAGE15 Missions\Pictures\mord_tut 8
+Die Menge an Gold, Eisen und Kohle, die Sie sammeln, wird durch die Anzahl der Arbeiter in den Minen bestimmt. Sobald eine Mine gebaut ist, können bis zu fünf Arbeiter darin arbeiten. Wenn Sie die Anzahl von Arbeitern in einer Mine erhöhen möchten, müssen Sie sie aufrüsten, indem Sie die Aufrüstung "Minen vergrößern und breites Schienennetzwerk anlegen" wählen. Diese Aufrüstungen beinhalten die Stufen II, III, IV, V, VI und VII. Durch sie wird die Zahl der Bauern, die in der Mine arbeiten, um entsprechend 5, 8, 10, 12, 15 oder 40 erhöht.
+#PAGE19 Missions\Pictures\mord_tut 8
+Diese Aufrüstungen müssen in jeder Mine ausgeführt werden. Je weiter Sie eine Mine aufrüsten, desto wertvoller wird sie und umso attraktiver für den Feind. Versuchen Sie daher, nur die Minen aufzurüsten, die sich in dem Gebiet befinden, dass Sie tatsächlich kontrollieren. Nach jeder Aufrüstung müssen Sie eine entsprechende Anzahl von Bauern in die Mine senden. Drücken Sie Strg + M, um unbesetzte Minen zu sehen. Indem Sie die Leertaste drücken, können Sie zwischen unbesetzten Minen wechseln. Führen Sie alle möglichen Aufrüstungen in der Goldmine durch.
+#PAGE20 Missions\Pictures\mord_tut 8
+Schicken Sie die Bauern in die aufgerüstete Mine. Sie werden sehen, dass sich die Geschwindigkeit des Goldabbaus erhöht.
+#PAGE16 Missions\Pictures\mord_tut 2
+Im nächsten Abschnitt beschäftigen wir uns mit Aufrüstungen, mit denen Sie Ihre Armee zum Sieg führen können.
+#PAGE100 Missions\Pictures\russia 14
+Was ist passiert? Es war doch so einfach! Warum hat es nicht geklappt?

@@ -1,0 +1,62 @@
+#BRIEFING faces 0
+{A} Krieg der Allianzen
+ 
+Ihre Aufgabe ist es, die Halbinsel von Engländern und Schweden zu befreien. Außerdem müssen Sie Ihre Verbündeten vor Banditen und der englisch-schwedischen Allianz schützen. 
+Sie haben verloren, wenn Ihr Hauptcharakter ums Leben kommt oder wenn Ihre Verbündeten wichtige Einrichtungen verlieren. 
+Nur der Hauptcharakter kann sich mit den Verbündeten unterhalten. 
+ 
+Gegenwärtiges Ziel: 
+{B} Befreien Sie die Halbinsel nördlich von Ihnen von Engländern und Schweden.
+{C}~Befreien Sie die Halbinsel nördlich von Ihnen von Engländern und Schweden.~
+{D}Zerstören Sie das Banditenlager, das ihre Verbündeten im Westen aufreibt. 
+{E}~ Zerstören Sie das Banditenlager, das ihre Verbündeten im Westen aufreibt.~
+{K}Gelangen Sie zum Fort Ihrer Verbündeten im Osten. 
+{L}~Gelangen Sie zum Fort Ihrer Verbündeten im Osten.~
+{F}Lassen Sie die schwedische Werft explodieren, deren Schiffe Ihre Verbündeten im Osten überfallen. 
+{G}~ Lassen Sie die schwedische Werft explodieren, deren Schiffe Ihre Verbündeten im Osten überfallen.~
+
+#PAGE0AA Missions\Pictures\ukraine 14
+Ihre Aufgabe ist es, Schweden und Engländer nördlich von Ihnen zu besiegen! Ihre französischen Arbeiter haben keine Ahnung von der Landwirtschaft. Deshalb gewähren Ihnen Ihre Verbündeten ein Fort mit Proviant. Schützen Sie es vor Räubern. 
+
+#PAGE0A Missions\Pictures\faces 
+Ihre Arbeiter wissen nichts über den Bau von Pferdeställen. Ihr Verbündeter im Osten kann es ihnen beibringen. 
+
+#PAGE0 Missions\Pictures\poland 13
+Gratulation! Sie haben das Räuberlager zerstört, das Ihr Fort überfallen hat. Im Räuberlager haben Sie %d Gold entdeckt. 
+
+#PAGE1 Missions\Pictures\faces 4
+Sie sind in der Schlacht ums Leben gekommen! 
+
+#PAGE1A Missions\Pictures\poland 21
+Sie sind verhungert ... 
+
+#PAGE2 Missions\Pictures\poland 4
+Bei Räubern haben Sie %d Gold entdeckt. 
+
+#PAGE3 Missions\Pictures\mord2_tut 13
+Grüß Gott, edler Herr! Ich muss meinen Arbeitern die Landwirtschaft und den Stallbau beibringen. 
+
+#PAGE4 Missions\Pictures\faces 6
+Seid gegrüßt, Kommandant! Ich werde gleich den Mann rufen lassen, der Eure Leute unterrichten kann. Helft uns lediglich, das Fort zu verteidigen. Ich werde Euch dazu alle wichtigen Einrichtungen übergeben. Zerschlagt die Werft, die sich nördlich von hier befindet, um Angriffe der Schweden aufzuhalten.  
+
+#PAGE5 Missions\Pictures\faces 6
+Ich habe für Euch einen Husaren mit den Informationen für Eure Arbeiter bereitgestellt! Bringt ihn zu Euren Arbeitern! 
+
+#PAGE6 Missions\Pictures\mord2_tut 5
+Der Husar hat den Arbeitern die Informationen übergeben. 
+
+#PAGE7 Missions\Pictures\England 5
+Gratulation! Sie haben die schwedische Werft zerstört. Nun werden die Schweden Ihren östlichen Verbündeten nicht mehr überfallen. 
+
+#PAGE8 Missions\Pictures\austria 6
+Gratulation! Sie haben die Halbinsel von Engländern und Schweden befreit. 
+
+#PAGE9  Missions\Pictures\mord_tut 3
+Sie haben alle Aufgaben erfüllt und gewonnen!!! 
+
+#PAGE10  Missions\Pictures\mord_d 6
+Sie haben Ihre westlichen Verbündeten nicht verteidigen können und verloren! 
+
+#PAGE11  Missions\Pictures\mord_d 6
+Sie haben Ihre östlichen Verbündeten nicht verteidigen können und verloren! 
+

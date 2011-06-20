@@ -1,0 +1,25 @@
+#BRIEFING faces 0
+{A} Meerenge zu befreien! 
+
+Gegenwärtiges Ziel:
+{B}Sichern Sie den Weg für die Transportschiffe. 
+Für den Sieg müssen Sie den Weg der Transportschiffe durch die Meerenge für den friedlichen Handel Ihrer Verbündeten, England und Spanien, sichern. 
+(Alle Transportschiffe müssen ihr Ziel erreichen.)
+
+#PAGE0 Missions\Pictures\poland 7
+Ihre Aufgabe ist es, eine mächtige Marine zu schaffen, um zu Wasser herrschen zu können. 
+Um Transportschiffe zu senden, muss man dem Kapitän einen Boten an die Küste schicken. 
+
+#PAGE1 Missions\Pictures\England 9
+Der spanische König hat Ihnen einen Verstärkungstrupp gesandt. 
+Das Regiment erwartet Ihren Befehl zum Kampf. 
+(Um einen Angriffsbefehl zu erteilen, muss man dem spanischen Offizier einen Boten schicken).
+ 
+#PAGE2 Missions\Pictures\England 9
+Haben Sie den Angriffsbefehl erteilt? 
+
+#PAGE3 Missions\Pictures\England 9
+Sollen wir den Transport schicken? 
+
+#TEST
+%d - %d - %d - %d - %d - %d - %d

@@ -1,0 +1,7 @@
+CHAT_VERSION Nachrichten nur von Spielern mit der gleichen Programmversionen lesen
+CHAT_COMMON Nachrichten von Spielern aller Programmversionen lesen
+CHAT_PERSONAL Persönliche Nachrichten lesen
+CHAT_ALL Alle Nachrichten lesen (persönliche und allgemeine)
+VIEW_HOMEPAGE Zurück zur Startseite
+VIEW_RESIZE Fenstergröße ändern
+DOWNLOADING Lade Daten herunter... Zum Beenden ESC drücken

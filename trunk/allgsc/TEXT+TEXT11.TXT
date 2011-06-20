@@ -1,0 +1,24 @@
+LOSS_PN verloren:%s
+REP_NORM Wiedergabe bei normaler Geschwindigkeit (mit Shift-D umschalten)
+REP_FAST Schnelle Wiedergabe (mit Shift-D umschalten)
+REP_VERY Sehr schnelle Wiedergabe (mit Shift-D umschalten)
+REP_FOG Wiederholung mit Kriegsnebel
+REP_NOFOG Wiederholung ohne Kriegsnebel
+REPLAY Spiel wiederholen
+MS_NORMAL Normal
+MS_LARGE Groﬂ
+MS_HUGE Riesig 
+$EHIN__0 Relief editieren (F6)
+$EHIN__1 Gel‰nde editieren
+$EHIN__2 Land- und Wassersperre kalkulieren
+$EHIN__3 2D-/3D-Modus umschalten
+$EHIN__4 Startparameter einstellen
+$EHIN__5 Friedensmodus
+SER_SAVE Beim Speichern bitte warten ...
+Autosaving Speichern ...
+None Kein(e)
+NORATE #Warnung!\ Spielerverbindung unterbrochen, daher wird das Spiel nicht gewertet.\Nur fertige Spiele werden gewertet.
+NOSRCONN Serververbindung gescheitert
+Rated_Deathmatch Bewertetes Deathmatch
+TX_INCOMP Unvollst‰ndig: %d von %d (%d%%)
+INCOMTXT #Warnung!\ Das Spiel wurde nicht abgeschlossen.\ Die Zahl nicht abgeschlossener Spiele in\Ihrem Profil steigt,\wenn Sie das Spiel nicht in 1 Tag abschlieﬂen.

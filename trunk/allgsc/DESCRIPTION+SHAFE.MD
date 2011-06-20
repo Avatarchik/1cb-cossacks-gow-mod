@@ -1,0 +1,1 @@
+Ermöglicht die Eisengewinnung. Kann vom Feind eingenommen werden. Die Anzahl der Minenarbeiter kann erhöht werden, indem man die Mine entsprechend aufrüstet. Jede Mine sollte einzeln aufgerüstet werden. Wenn alle möglichen Aufrüstungen stattgefunden haben, können maximal 95 Arbeiter in einer Mine tätig sein.

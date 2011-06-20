@@ -1,0 +1,22 @@
+ST_ACC Statistik: Punkteverlauf
+ST_GAM Zurück zum Spiel
+ST_MEN Zurück zum Menü
+ST_TOTAL Gesamtmenge gewonnener Ressourcen:
+ST_UPGR Für Aufrüstungen ausgegebene Ressourcen:
+ST_MINE Für Minenaufrüstung ausgegebene Ressourcen:
+ST_UNITS Für neue Einheiten ausgegebene Ressourcen:
+ST_BLD Für Gebäudebau ausgegebene Ressourcen:
+ST_LIFE Ressourcen für Unterhaltung von Einh.
+ST_BUY Auf dem Markt erworbene Ressourcen:
+ST_SELL Auf dem Markt verkaufte Ressourcen:
+ST_PROD Liste der erstellten Einheiten
+ST_KILL Liste der verlorenen Einheiten
+ST_UHDR Statistik
+UM_SURRENDER Aufgeben
+UM_REPLAY Spiel wiederholen
+UM_CONTR1 %s will sich mit Ihnen verbünden.
+UM_CONTR2 Wenn Ihnen dies recht ist, drücken Sie bitte die Eingabetaste und geben Sie ein: "Team %s"
+UM_BREAK1 %s will sich nicht mit Ihnen verbünden.
+UM_BREAK2 Wenn Ihnen dies recht ist, drücken Sie bitte die Eingabetaste und geben Sie ein: "Allianzbruch: %s"
+UM_CURR Aktuell
+TUTCLOS Schließen

@@ -1,0 +1,30 @@
+#BRIEFING faces 0
+Partisanenkrieg
+ 	
+Sie haben gewonnen, wenn Sie die Wirtschaft Russlands und seine Truppen vernichten. 
+Sie erleiden eine Niederlage, wenn Sie Ihre Truppen und Einrichtungen verlieren. 
+
+{A} Gegenwärtiges Ziel:
+{B}Vernichten Sie die feindlichen Versorgungslager. 
+{C}~Vernichten Sie die feindlichen Versorgungslager.~
+
+#PAGE1701 Missions\Pictures\Mord_tut 3
+Ihre Aufklärer haben Ihnen den Standort der feindlichen Versorgungslager mitgeteilt. Schicken Sie Ihre Truppen dorthin und zerstören Sie sie. So können Ihre Gegner Gold und Munition nicht mehr erlangen. 
+
+#PAGE1702 Missions\Pictures\Mord3_tut 14
+Sie haben es geschafft, die feindlichen Versorgungslager zu vernichten. Nun können die Versorgungstruppen ihre Schusswaffen nicht mehr benutzen. 
+
+#PAGE1703 Missions\Pictures\Mord_d 7
+Sie haben den feindlichen Seestützpunkt eingenommen, der die Armee mit Gold versorgt hat! 
+
+#PAGE1704 Missions\Pictures\Mord2_tut 0
+Wir überwachen diesen Bergpass und sind bereit, Euch zu folgen!  
+
+#PAGE1705 Missions\Pictures\Mord2_tut 0
+Wir überwachen den Übergang und sind bereit, Euch zu folgen!  
+	
+#PAGE1706 Missions\Pictures\Mord_tut 37
+Sie haben die Aufgabe perfekt erfüllt und werden ausgezeichnet.
+
+#PAGE1707 Missions\Pictures\Mord_d 6
+Sie haben verloren ...

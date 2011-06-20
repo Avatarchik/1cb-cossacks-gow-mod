@@ -1,0 +1,61 @@
+#BRIEFING faces 0
+{A} Umzingelt!
+
+Für den Sieg sollten Sie: 
+1) die polnischen Truppen zerschlagen, die sich im Nordwesten befinden; 
+2) die russischen Truppen zerschlagen, die sich im Nordosten befinden;
+3) die türkischen Truppen zerschlagen, die sich im Osten befinden.  
+
+
+Sie erleiden eine Niederlage, wenn Sie Ihren Hauptcharakter, den Markt oder Ihre Truppen verlieren. 
+
+#PAGE1 Missions\Pictures\ukraine 28
+Ihre Aufgabe ist es, die Allianz von Russland, Polen und der Türkei zu vernichten. 
+Der Verbündete wird Ihnen je nach seinen Wünschen und Möglichkeiten helfen. 
+
+#PAGE2 Missions\Pictures\ukraine 16
+Schützen Sie die Handelskarawanen. Sie können von Piraten überfallen werden. 
+
+#PAGE3 Missions\Pictures\ukraine 14
+Sie haben die Polen geschlagen - ein Schritt näher am Sieg!! 
+
+#PAGE4 Missions\Pictures\ukraine 14
+Sie haben die Türken geschlagen; alle Fronten freuen sich darüber!!  
+
+#PAGE5 Missions\Pictures\austria 14
+Ihre Truppen sind besiegt ...
+
+#PAGE6 Missions\Pictures\ukraine 14
+Sie haben die Russen geschlagen, das war gar nicht einfach!!!
+
+#PAGE7 Missions\Pictures\ukraine 17
+Gratulation, das war kein leichter Sieg!!!
+
+#PAGE8 Missions\Pictures\mord3_tut 14
+
+Ihr Verbündeter hat eine Niederlage erlitten ...
+
+#PAGE9 Missions\Pictures\austria 4
+Eine Karawane von Ihren Nachbarn ist eingetroffen.
+Sie brachte 500 Goldmünzen.
+
+#PAGE10 Missions\Pictures\austria 4
+Ihr Verbündeter hat Ihnen Hilfe geleistet - eine Karawane mit 1000 Goldmünzen. 
+
+#PAGE11 Missions\Pictures\austria 1
+Die Karawane Ihrer Verbündeten wurde überfallen. Die Karawane ist zerstört. 
+Versuchen Sie, die Route zu schützen, die die Karawane nimmt. 
+
+#PAGE12 Missions\Pictures\austria 7
+
+Der Verbündete hat eine neue Karawane geschickt. 
+
+#PAGE13 Missions\Pictures\austria 18
+Sie haben das Banditenlager zerstört. Nun wird es keine weiteren Überfalle geben. 
+
+#PAGE14 Missions\Pictures\ukraine 20
+Sie haben den Markt verloren, aber Sie sind noch nicht geschlagen ...
+
+#PAGE15 Missions\Pictures\england 19
+Sie sind in der Schlacht ums Leben gekommen ... Schade ...
+
