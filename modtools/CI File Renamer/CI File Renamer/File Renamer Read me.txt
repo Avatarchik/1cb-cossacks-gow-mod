@@ -1,0 +1,21 @@
+File Renamer version 1.00
+-------------------------
+
+
+What this tool does:
+
+It allows you to rename a bunch of file's for usage with GSC Utility. Because GSC Utility only allows single file's to be dropped in the tool, you need to name your files to : FOLDER+FILE format so they appear in subfolders when creating .gsc .gs1 file's
+
+How to use:
+
+Drag and drop all file's to be renamed in the tool and add the prefix /file header at the bottom. 
+
+
+-------------------------
+
+Made by:
+
+Unknown
+
+
+
